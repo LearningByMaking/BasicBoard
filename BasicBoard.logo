@@ -1,0 +1,76 @@
+;jlogo file for BasicBoard
+ 
+ to BasicBoard
+ 	print "|starting BasicBoard|
+ 	init-BasicBoard
+ 	loop
+ 	[
+ 		see-packet
+ 		wait 150
+ 	]
+ end
+ 
+ to init-BasicBoard
+ 	make "check 0
+    make "oldcheck 0
+ 	init-hardware 
+ end
+ 
+ to init-hardware
+ 	stopvm
+ 	ul-ready
+ 	wait 15
+ 	ul-set
+ 	wait 15
+ 	ul-go
+ 	wait 15
+ 
+ end
+
+ to see-packet
+   make "packet-bytes rl $1fc0 30   
+   if (count :packet-bytes) > 0 
+	[
+        process-packet             
+	]
+    
+end
+
+to process-packet	
+	process-header  
+end
+
+to process-header
+  let [th 0]
+  let [tl 0]
+  make "oldcheck :check
+  let [nws ((first :packet-bytes) / 2) + 1]
+  make "check wnth :nws :packet-bytes  
+  if not (:check = :oldcheck) 
+  [
+    make "type nth 1 :packet-bytes
+    make "wp packet-words :packet-bytes       
+    make "th wnth 2 :packet-bytes         
+    make "tl wnth 3 :packet-bytes        
+    if (:type = 42) [ process-data-packet ]
+  ]
+end
+
+to process-data-packet
+	make "light wnth 4 :packet-bytes
+	make "temp1 wnth 5 :packet-bytes
+	make "temp2 wnth 6 :packet-bytes
+	print (se "|light:| :light "|temp1:| :temp1 "|temp2:| :temp2)
+end
+
+to packet-words :l          
+  let [res []]
+  let [nws (first :l) / 2 + 2]
+  if ( :nws > 25 ) [ make "nws 25 ]
+  dotimes [i :nws - 1][make "res se :res bf 100000 + wnth :i :l]
+  output :res
+end
+
+to wnth :i :l
+  output (nth 2 * :i :l) + 256 * (nth 2 * :i + 1 :l)
+end

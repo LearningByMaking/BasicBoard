@@ -38,7 +38,6 @@ repeat 10 [cyan mwait 50 magenta mwait 50 blue mwait 50]
 off
 end
 
-
 define redon [][bclr p2out $20]
 define redoff [][bset p2out $20]
 define greenon [][bclr p2out $10]
@@ -55,5 +54,7 @@ define magenta [][redon greenoff blueon]
 define yellow [][redon greenon blueoff]
 define white [][redon greenon blueon]
 define off [][redoff greenoff blueoff]
+
+
 
 

@@ -22,3 +22,720 @@ project "test
   Opening Project  test
 .test
   starting test
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 11:46:27 PST 2015   unix time:  1424461587542
+  Opening Project  test
+.print :who
+  16
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 11:50:10 PST 2015   unix time:  1424461810941
+  Opening Project  test
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 11:51:11 PST 2015   unix time:  1424461871486
+  Opening Project  test
+print 1234
+  Chip not found.
+print 1234
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 11:52:22 PST 2015   unix time:  1424461942398
+  Opening Project  test
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 11:58:40 PST 2015   unix time:  1424462320638
+  Opening Project  test
+print 1234
+  Chip not found.
+print 1234
+  Chip not found.
+.print :onewire
+  true
+.print :who
+  16
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 12:04:55 PST 2015   unix time:  1424462695198
+  Opening Project  test
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 12:13:17 PST 2015   unix time:  1424463197835
+  Opening Project  test
+print 1234
+  1234
+print 1234
+  Chip not found.
+print 1234
+  Chip not found.
+print 1234
+.rr
+  Chip not found.
+  Opening Project  test
+  I don't know how to to in rr
+print 1234
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 12:15:01 PST 2015   unix time:  1424463301695
+  Opening Project  test
+print 1234
+  Chip not found.
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "temp
+  Start Project:  temp     Fri Feb 20 12:16:15 PST 2015   unix time:  1424463375148
+  Can't open file temp.logo in project
+.print 1234
+  I don't know how to .print
+project "test
+  Start Project:  test     Fri Feb 20 12:16:33 PST 2015   unix time:  1424463393862
+  Opening Project  test
+.print 1234
+  1234
+print 1234
+  Chip not found.
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 12:49:54 PST 2015   unix time:  1424465394318
+  Opening Project  test
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 12:56:44 PST 2015   unix time:  1424465804735
+  Opening Project  test
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 12:58:01 PST 2015   unix time:  1424465881305
+  Opening Project  test
+print 1234
+  Chip not found.
+print 1234
+  1234
+print 1234
+  1234
+  Welcome to Logo
+  Welcome to Logo
+project "TempSensor
+  Start Project:  TempSensor     Fri Feb 20 13:02:50 PST 2015   unix time:  1424466170756
+  Opening Project  TempSensor
+print 1234
+  1234
+print 1234
+  1234
+  Welcome to Logo
+project "TempSensor
+  Start Project:  TempSensor     Fri Feb 20 13:04:19 PST 2015   unix time:  1424466259361
+  Opening Project  TempSensor
+print 1234
+  stopvm error
+  wl error
+  runvm error
+  1234
+print 1234
+  1234
+print 1234
+  1234
+print 1234
+  1234
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "TempSensor
+  Start Project:  TempSensor     Fri Feb 20 13:08:41 PST 2015   unix time:  1424466521348
+  Opening Project  TempSensor
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "TempSensor
+  Start Project:  TempSensor     Fri Feb 20 13:09:14 PST 2015   unix time:  1424466554481
+  Opening Project  TempSensor
+print 1234
+  Chip not found.
+print 1234
+  1234
+print 1234
+  1234
+print 1234
+  1234
+print readA0
+  readA0 undefined
+  Welcome to Logo
+project "TempSensor
+  Start Project:  TempSensor     Fri Feb 20 13:36:33 PST 2015   unix time:  1424468193606
+  Opening Project  TempSensor
+.compile
+  Can't open file /home/user/LbyM/BasicBoard/adc.text in source-string
+.compile
+  Compiling...
+  205 bytes
+.download
+  205 bytes
+readA0
+  you don't say what to do with readA0
+print readA0
+  4095
+  Welcome to Logo
+  Welcome to Logo
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 13:39:00 PST 2015   unix time:  1424468340788
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  205 bytes
+.download
+  205 bytes
+.compile
+  Compiling...
+  812 bytes
+.download
+  812 bytes
+redon
+redoff
+blueon
+
+print 1234
+  1234
+blueon
+blueoff
+greeon
+  greeon undefined
+.stopvm
+redon
+redoff
+allon
+  allon undefined
+.compile
+  Compiling...
+  660 bytes
+.download
+  660 bytes
+.compile
+  Compiling...
+  891 bytes
+.download
+  891 bytes
+init-pins
+redon
+redoff
+blueon
+blueoff
+greeon
+  greeon undefined
+greenon
+greenoff
+redon
+redoff
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 13:45:27 PST 2015   unix time:  1424468727540
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  891 bytes
+.download
+  Chip not found.
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 13:46:23 PST 2015   unix time:  1424468783572
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  891 bytes
+print 1234
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 13:48:38 PST 2015   unix time:  1424468918645
+  Opening Project  BasicBoard
+print 1234
+  Welcome to Logo
+project "Heat
+  Start Project:  Heat     Fri Feb 20 13:52:43 PST 2015   unix time:  1424469163876
+  Can't open file Heat.logo in project
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 13:52:51 PST 2015   unix time:  1424469171983
+  Opening Project  BasicBoard
+print 1234
+  Chip not found.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 13:55:25 PST 2015   unix time:  1424469325828
+  Opening Project  BasicBoard
+print 1234
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 14:11:52 PST 2015   unix time:  1424470312518
+  Opening Project  BasicBoard
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 14:13:33 PST 2015   unix time:  1424470413086
+  Opening Project  BasicBoard
+print 1234
+  1234
+.compile
+  Compiling...
+  891 bytes
+.download
+  891 bytes
+init-pins
+  runvm error
+init
+  init undefined
+redon
+ongo
+  Welcome to Logo
+projet "BasicBoard
+  I don't know how to projet
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 14:15:33 PST 2015   unix time:  1424470533019
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  903 bytes
+.download
+  903 bytes
+.stopvm
+.ongo
+.download
+  903 bytes
+.compile
+  Compiling...
+  903 bytes
+.download
+  903 bytes
+.ul-ready
+.ul-set
+.compile
+  Compiling...
+  rednon undefined in onpowerup
+.compile
+  Compiling...
+  912 bytes
+.download
+  912 bytes
+.ul-ready
+.ul-set
+.compile
+  Compiling...
+  912 bytes
+.download
+  912 bytes
+.ul-ready
+.ul-set
+.compile
+  Compiling...
+  921 bytes
+.download
+  921 bytes
+.ul-ready
+.ul-set
+.ul-go
+print 1234
+  1234
+print readA0
+  4095
+print readA1
+  1923
+print readA2
+  1436
+print readA3
+  1107
+print readA4
+  readA4 undefined
+print readA0
+  4095
+print readA1
+  1935
+print readA3
+  1231
+print readA3
+  1191
+print readA3
+  1164
+print readA3
+  1180
+print readA3
+  1183
+print readA3
+  1171
+print readA3
+  1231
+print readA3
+  1167
+print readA3
+  1089
+print readA3
+  1148
+print readA3
+  1171
+print readA0
+  4095
+print readA1
+  1920
+print readA2
+  1447
+print readA3
+  1201
+print readA3
+  1151
+.compule
+  I don't know how to compule
+.compile
+  Compiling...
+  921 bytes
+.download
+  921 bytes
+.ul-ready
+.ul-set
+.ul-go
+print readA3
+  1231
+print readA2
+  1292
+print readA1
+  1520
+print readA0
+  4095
+.compile
+  Compiling...
+  greeonon undefined in ongo
+.compile
+  Compiling...
+  927 bytes
+.download
+  927 bytes
+.ul-ready
+.ul-set
+.ul-go
+redon
+greenon
+redoff
+redon
+greenoff
+repeat 100 [greenon mwait 10 greenoff]
+repeat 100 [greenon mwait 100 greenoff]
+print readA3
+  1136
+print readA3
+  1176
+print readA3
+  1183
+print readA3
+  1167
+redon
+print readA3
+  1404
+print readA3
+  1376
+print readA3
+  1376
+print readA3
+  556
+print readA3
+  556
+print readA3
+  556
+print readA3
+  559
+print readA3
+  558
+print readA3
+  1324
+print readA3
+  1368
+print readA3
+  831
+print readA3
+  748
+print readA3
+  743
+print readA3
+  743
+print readA3
+  743
+print readA3
+  1304
+print readA3
+  1379
+print readA3
+  1392
+print readA2
+  1409
+print readA2
+  639
+print readA2
+  1279
+print readA1
+  1377
+print readA1
+  627
+print readA1
+  1311
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 14:54:00 PST 2015   unix time:  1424472840888
+  Opening Project  BasicBoard
+print 1234
+  1234
+  Welcome to Logo
+project "heat
+  Start Project:  heat     Fri Feb 20 14:56:35 PST 2015   unix time:  1424472995261
+  Can't open file heat.logo in project
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 14:56:41 PST 2015   unix time:  1424473001400
+  Opening Project  BasicBoard
+print 1234
+  1234
+.ul-ready
+.ul-set
+.ul-go
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 15:00:39 PST 2015   unix time:  1424473239851
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  A3 undefined in collect-data
+.compile
+  Compiling...
+  add-checksum undefined in collect-data
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 15:09:29 PST 2015   unix time:  1424473769548
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  1278 bytes
+.download
+  1278 bytes
+.compile
+  Compiling...
+  1287 bytes
+.download
+  1287 bytes
+.ul-ready
+.ul-set
+.ul-go
+.stopvm
+.compile
+  Compiling...
+  1261 bytes
+.download
+  1261 bytes
+.ul-ready
+.ul-set
+.ul-go
+.stopvm
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.init-hardware
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+.rr
+..
+  stopped.
+.rr
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 15:20:52 PST 2015   unix time:  1424474452956
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  I don't know how to type in process-packet
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  177
+  177
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 15:22:30 PST 2015   unix time:  1424474550175
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  1287 bytes
+.download
+  1287 bytes
+.BasicBoard
+  starting BasicBoard
+  42
+  42
+  42
+  42
+  42
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  12 42 255 255 84 0 223 36 67 5 254 1 7 2 122 167 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 86 0 186 1 56 5 255 1 7 2 167 202 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 88 0 144 9 65 5 252 1 7 2 201 194 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 90 0 102 17 71 5 252 1 6 2 236 186 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 91 0 81 21 63 5 252 1 7 2 7 183 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 93 0 39 29 39 5 255 1 7 2 68 175 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 95 0 253 36 48 5 255 1 7 2 99 167 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 98 0 195 5 48 5 255 1 5 2 156 198 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 99 0 174 9 46 5 255 1 7 2 176 194 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 101 0 132 17 63 5 252 1 7 2 202 186 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 103 0 90 25 49 5 254 1 7 2 254 178 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 105 0 48 33 60 5 252 1 5 2 31 171 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  I don't know how to wnth in process-header
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  I don't know how to packet-words in process-header
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light  1311 temp1  511 temp2  515
+  light  1328 temp1  510 temp2  517
+  light  1328 temp1  511 temp2  519
+.rr
+..
+  stopped.
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1344 temp1: 505 temp2: 519
+  light: 1351 temp1: 508 temp2: 519
+  light: 1328 temp1: 510 temp2: 519
+  light: 527 temp1: 524 temp2: 527
+  light: 527 temp1: 524 temp2: 524
+  light: 1343 temp1: 504 temp2: 515
+  light: 1336 temp1: 508 temp2: 515
+  light: 1343 temp1: 505 temp2: 516
+  light: 1358 temp1: 504 temp2: 519
+  light: 1351 temp1: 504 temp2: 519
+  light: 1343 temp1: 505 temp2: 516
+  light: 1336 temp1: 508 temp2: 517
+  light: 1183 temp1: 511 temp2: 515
+  light: 1342 temp1: 505 temp2: 516
+  light: 1345 temp1: 505 temp2: 515
+  light: 1351 temp1: 508 temp2: 518
+  light: 1340 temp1: 508 temp2: 515
+  light: 1340 temp1: 505 temp2: 515
+  light: 1340 temp1: 508 temp2: 515
+  light: 1345 temp1: 504 temp2: 516
+  light: 1340 temp1: 508 temp2: 515
+  light: 1340 temp1: 504 temp2: 515
+  light: 1331 temp1: 505 temp2: 515
+  light: 1345 temp1: 504 temp2: 515
+  light: 1343 temp1: 504 temp2: 518
+  light: 1348 temp1: 504 temp2: 515
+  light: 1121 temp1: 508 temp2: 515
+  light: 1203 temp1: 508 temp2: 516
+  light: 1200 temp1: 508 temp2: 515
+  light: 1328 temp1: 505 temp2: 515
+  light: 1203 temp1: 505 temp2: 516
+  light: 1311 temp1: 504 temp2: 515
+  light: 1175 temp1: 511 temp2: 511
+  light: 1176 temp1: 511 temp2: 515
+  light: 1164 temp1: 511 temp2: 515
+  light: 1272 temp1: 497 temp2: 515
+  light: 1287 temp1: 508 temp2: 511
+  light: 1331 temp1: 504 temp2: 499
+  light: 1311 temp1: 508 temp2: 511
+  light: 1336 temp1: 504 temp2: 511
