@@ -739,3 +739,980 @@ project "BasicBoard
   light: 1331 temp1: 504 temp2: 499
   light: 1311 temp1: 508 temp2: 511
   light: 1336 temp1: 504 temp2: 511
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Mon Feb 23 10:10:10 PST 2015   unix time:  1424715010111
+  Opening Project  BasicBoard
+.basicboard
+  starting BasicBoard
+  light: 1479 temp1: 492 temp2: 508
+  light: 1359 temp1: 492 temp2: 505
+  light: 711 temp1: 504 temp2: 508
+  light: 831 temp1: 508 temp2: 511
+  light: 847 temp1: 504 temp2: 511
+  light: 847 temp1: 508 temp2: 511
+  light: 835 temp1: 508 temp2: 511
+  light: 831 temp1: 508 temp2: 511
+  light: 835 temp1: 508 temp2: 510
+  light: 828 temp1: 510 temp2: 511
+  light: 856 temp1: 505 temp2: 510
+  light: 847 temp1: 504 temp2: 511
+  light: 835 temp1: 508 temp2: 508
+  light: 752 temp1: 504 temp2: 511
+  light: 750 temp1: 503 temp2: 510
+  light: 755 temp1: 503 temp2: 510
+  light: 753 temp1: 504 temp2: 508
+  light: 760 temp1: 499 temp2: 510
+  light: 755 temp1: 504 temp2: 504
+  light: 752 temp1: 504 temp2: 504
+  light: 755 temp1: 504 temp2: 508
+  light: 755 temp1: 499 temp2: 508
+  light: 739 temp1: 504 temp2: 508
+  light: 737 temp1: 504 temp2: 508
+  light: 732 temp1: 504 temp2: 508
+  light: 719 temp1: 505 temp2: 508
+  light: 732 temp1: 504 temp2: 508
+  light: 739 temp1: 504 temp2: 505
+  light: 736 temp1: 504 temp2: 504
+  light: 728 temp1: 504 temp2: 504
+  light: 737 temp1: 504 temp2: 504
+  light: 732 temp1: 504 temp2: 504
+  light: 734 temp1: 504 temp2: 508
+  light: 732 temp1: 503 temp2: 504
+  light: 736 temp1: 499 temp2: 505
+  light: 736 temp1: 504 temp2: 504
+  light: 728 temp1: 503 temp2: 504
+  light: 737 temp1: 499 temp2: 508
+  light: 835 temp1: 504 temp2: 505
+  light: 839 temp1: 504 temp2: 504
+  light: 839 temp1: 504 temp2: 504
+  light: 856 temp1: 499 temp2: 504
+  light: 839 temp1: 504 temp2: 504
+  light: 839 temp1: 499 temp2: 504
+  light: 839 temp1: 503 temp2: 504
+  light: 839 temp1: 503 temp2: 504
+  light: 823 temp1: 504 temp2: 504
+  light: 819 temp1: 504 temp2: 504
+  light: 839 temp1: 499 temp2: 505
+  light: 835 temp1: 499 temp2: 505
+  light: 839 temp1: 499 temp2: 504
+  light: 839 temp1: 499 temp2: 504
+  light: 828 temp1: 503 temp2: 504
+  light: 817 temp1: 504 temp2: 504
+  light: 847 temp1: 499 temp2: 505
+  light: 824 temp1: 504 temp2: 504
+  light: 831 temp1: 503 temp2: 504
+  light: 816 temp1: 504 temp2: 504
+  light: 812 temp1: 504 temp2: 503
+  light: 824 temp1: 504 temp2: 504
+  light: 823 temp1: 504 temp2: 504
+  light: 771 temp1: 505 temp2: 504
+  light: 839 temp1: 499 temp2: 504
+  light: 668 temp1: 505 temp2: 504
+  light: 679 temp1: 505 temp2: 503
+  light: 671 temp1: 504 temp2: 504
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Mon Feb 23 10:57:16 PST 2015   unix time:  1424717836548
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  I don't know how to .r:temp2 in process-data-packet
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  I don't know how to .r:temp2 in process-data-packet
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1327 temp1: 496 temp2: 508
+  8
+  light: 1319 temp1: 496 temp2: 508
+  8 26
+  light: 1295 temp1: 499 temp2: 505
+  8 26 45
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1311 temp1: 496 temp2: 508
+  I don't know how to light in process-data-packet
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1303 temp1: 496 temp2: 509
+  I don't know how to x-data in plot
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1311 temp1: 499 temp2: 508
+  heat-list has no value in process-data-packet
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1319 temp1: 496 temp2: 508
+  8
+  light-list has no value in process-data-packet
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1203 temp1: 496 temp2: 508
+  8
+  1203
+  light: 1215 temp1: 496 temp2: 508
+  8 26
+  1203 1215
+  light: 1208 temp1: 496 temp2: 508
+  8 26 45
+  1203 1215 1208
+  light: 1208 temp1: 496 temp2: 511
+  8 26 45 63
+  1203 1215 1208 1208
+  light: 1191 temp1: 497 temp2: 509
+  8 26 45 63 81
+  1203 1215 1208 1208 1191
+.rr
+..
+  stopped.
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1191 temp1: 499 temp2: 508 time: 8
+  light: 1208 temp1: 496 temp2: 508 time: 26
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1201 temp1: 499 temp2: 508 time: 3
+  light: 1207 temp1: 496 temp2: 510 time: 21
+  light: 1212 temp1: 496 temp2: 508 time: 40
+  light: 1201 temp1: 497 temp2: 508 time: 58
+.rr
+  light: 1212 temp1: 496 temp2: 508 time: 76
+.BasicBoard..
+  light: 1215 temp1: 496 temp2: 508 time: 95
+..
+  stopped.
+  I don't know how to BasicBoard..
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1180 temp1: 499 temp2: 508 time: 4
+  light: 1191 temp1: 499 temp2: 508 time: 22
+  light: 1191 temp1: 497 temp2: 508 time: 40
+..
+  stopped.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Mon Feb 23 13:00:36 PST 2015   unix time:  1424725236035
+  Opening Project  BasicBoard
+x-data
+  x-data undefined
+.load "logo/project
+.x-data
+  I don't know how to x-data
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  Can't open file logo/Project".logo in BasicBoard
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1380 temp1: 496 temp2: 511 time: 3
+  You don't say what to do with 1380 in plot
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1328 temp1: 499 temp2: 511 time: 3
+  You don't say what to do with 1328 in plot
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1328 temp1: 504 temp2: 511 time: 3
+  You don't say what to do with 1328 in plot-data
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1328 temp1: 504 temp2: 511 time: 3
+  I don't know how to clear-display in plot-data
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBOard
+  starting BasicBoard
+  light: 1328 temp1: 504 temp2: 511 time: 3
+  exec: java.io.IOException: Cannot run program "./pkill.sh": java.io.IOException: error=2, No such file or directory ./pkill.sh xv in clear-display
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Mon Feb 23 13:06:30 PST 2015   unix time:  1424725590892
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  light: 1336 temp1: 499 temp2: 511 time: 3
+  I don't know how to plot in plot-data
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1328 temp1: 504 temp2: 511 time: 3
+  I don't know how to display in plot-light
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1331 temp1: 499 temp2: 511 time: 3
+  exec: java.io.IOException: Cannot run program "/usr/local/bin/xv": java.io.IOException: error=2, No such file or directory /usr/local/bin/xv  geometry 600x400+1000+100  screen.png in display
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1287 temp1: 504 temp2: 511 time: 3
+  You don't say what to do with geometry 600x400+1000+100 in plot-light
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1272 temp1: 497 temp2: 511 time: 3
+  light: 1264 temp1: 496 temp2: 511 time: 22
+  light: 1264 temp1: 496 temp2: 511 time: 40
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1317 temp1: 503 temp2: 511 time: 3
+  light: 1300 temp1: 504 temp2: 511 time: 21
+  light: 1308 temp1: 503 temp2: 511 time: 40
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1311 temp1: 503 temp2: 511 time: 3
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1304 temp1: 504 temp2: 511 time: 3
+  light: 1299 temp1: 504 temp2: 511 time: 21
+  light: 1300 temp1: 504 temp2: 511 time: 40
+  light: 1308 temp1: 504 temp2: 511 time: 58
+  light: 1303 temp1: 504 temp2: 511 time: 77
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1304 temp1: 504 temp2: 511 time: 3
+  light: 1295 temp1: 504 temp2: 511 time: 22
+  light: 1304 temp1: 503 temp2: 511 time: 41
+  light: 1295 temp1: 504 temp2: 511 time: 59
+  light: 1295 temp1: 504 temp2: 511 time: 77
+  light: 1295 temp1: 504 temp2: 511 time: 96
+  light: 1311 temp1: 504 temp2: 511 time: 114
+  light: 1295 temp1: 504 temp2: 511 time: 133
+  light: 1295 temp1: 504 temp2: 511 time: 152
+  light: 1304 temp1: 504 temp2: 511 time: 170
+  light: 1311 temp1: 499 temp2: 511 time: 189
+  light: 1311 temp1: 499 temp2: 511 time: 207
+  light: 1304 temp1: 504 temp2: 511 time: 226
+  light: 1308 temp1: 504 temp2: 511 time: 244
+  light: 1311 temp1: 503 temp2: 511 time: 263
+  light: 1304 temp1: 504 temp2: 511 time: 281
+  light: 1308 temp1: 504 temp2: 511 time: 300
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1304 temp1: 499 temp2: 511 time: 4
+  light: 1311 temp1: 499 temp2: 511 time: 22
+  light: 1295 temp1: 504 temp2: 511 time: 40
+  light: 1319 temp1: 499 temp2: 511 time: 59
+  light: 1311 temp1: 504 temp2: 511 time: 77
+  light: 1295 temp1: 505 temp2: 511 time: 96
+  light: 1319 temp1: 503 temp2: 511 time: 114
+.BasicBoardrr
+  light: 1300 temp1: 504 temp2: 511 time: 133
+..
+  stopped.
+  I don't know how to BasicBoardrr
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1311 temp1: 504 temp2: 511 time: 3
+  light: 1304 temp1: 504 temp2: 511 time: 22
+  light: 1319 temp1: 504 temp2: 511 time: 40
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1308 temp1: 504 temp2: 511 time: 3
+  light: 1319 temp1: 504 temp2: 511 time: 22
+
+..
+  stopped.
+   undefined
+conky
+  conky undefined
+top
+  top undefined
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Mon Feb 23 13:57:24 PST 2015   unix time:  1424728644430
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  light: 1310 temp1: 504 temp2: 511 time: 3
+  light: 1311 temp1: 504 temp2: 511 time: 23
+  light: 1304 temp1: 504 temp2: 511 time: 41
+  light: 1304 temp1: 504 temp2: 511 time: 60
+  light: 1295 temp1: 504 temp2: 511 time: 78
+  light: 1295 temp1: 505 temp2: 511 time: 97
+..
+  stopped.
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1304 temp1: 504 temp2: 511 time: 3
+  light: 1299 temp1: 504 temp2: 511 time: 22
+  light: 1287 temp1: 508 temp2: 511 time: 40
+  light: 1308 temp1: 504 temp2: 511 time: 58
+  light: 1295 temp1: 505 temp2: 511 time: 77
+  light: 1311 temp1: 504 temp2: 511 time: 95
+  light: 1295 temp1: 505 temp2: 511 time: 114
+  light: 1299 temp1: 505 temp2: 511 time: 132
+  light: 1311 temp1: 504 temp2: 511 time: 151
+  light: 1311 temp1: 504 temp2: 511 time: 169
+  light: 1304 temp1: 504 temp2: 511 time: 188
+  light: 1295 temp1: 504 temp2: 511 time: 206
+  light: 1295 temp1: 504 temp2: 511 time: 225
+  light: 1295 temp1: 504 temp2: 511 time: 243
+  light: 1295 temp1: 505 temp2: 511 time: 262
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1310 temp1: 504 temp2: 511 time: 3
+  firstrun=1 has no value in plot-light
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1311 temp1: 504 temp2: 511 time: 3
+  display didn't output to if in plot-light
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1299 temp1: 504 temp2: 511 time: 3
+  light: 1311 temp1: 503 temp2: 511 time: 21
+  light: 1295 temp1: 505 temp2: 511 time: 40
+  light: 1303 temp1: 504 temp2: 511 time: 58
+  light: 1303 temp1: 504 temp2: 511 time: 76
+  light: 1304 temp1: 504 temp2: 511 time: 95
+  light: 1311 temp1: 504 temp2: 511 time: 113
+  light: 1308 temp1: 504 temp2: 511 time: 132
+  light: 1319 temp1: 504 temp2: 511 time: 150
+  light: 1295 temp1: 508 temp2: 511 time: 169
+  light: 1295 temp1: 504 temp2: 511 time: 187
+.rr
+,,
+..
+  stopped.
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1311 temp1: 504 temp2: 515 time: 3
+  light: 1311 temp1: 504 temp2: 511 time: 21
+  light: 1295 temp1: 504 temp2: 511 time: 40
+  light: 1304 temp1: 504 temp2: 511 time: 58
+  light: 1299 temp1: 504 temp2: 511 time: 77
+  light: 1299 temp1: 504 temp2: 511 time: 95
+  light: 1300 temp1: 504 temp2: 511 time: 114
+  light: 1311 temp1: 504 temp2: 511 time: 132
+  light: 1299 temp1: 504 temp2: 511 time: 150
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1299 temp1: 504 temp2: 511 time: 3
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1295 temp1: 504 temp2: 511 time: 3
+..
+  stopped.
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Mon Feb 23 14:23:24 PST 2015   unix time:  1424730204076
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+.rr
+..
+  stopped.
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1150 temp1: 496 temp2: 515 time: 3
+  light: 1155 temp1: 511 temp2: 511 time: 21
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1176 temp1: 508 temp2: 511 time: 3
+  light: 1167 temp1: 508 temp2: 511 time: 22
+  light: 1167 temp1: 508 temp2: 511 time: 40
+  light: 1167 temp1: 508 temp2: 511 time: 59
+  light: 1167 temp1: 508 temp2: 511 time: 77
+  light: 1159 temp1: 510 temp2: 511 time: 96
+  light: 1153 temp1: 510 temp2: 511 time: 114
+  light: 1148 temp1: 497 temp2: 511 time: 132
+  light: 1153 temp1: 511 temp2: 511 time: 151
+  light: 1155 temp1: 510 temp2: 511 time: 169
+  light: 1180 temp1: 508 temp2: 511 time: 188
+  light: 1167 temp1: 508 temp2: 511 time: 206
+  light: 1167 temp1: 505 temp2: 511 time: 225
+  light: 1164 temp1: 508 temp2: 511 time: 243
+  light: 1183 temp1: 504 temp2: 511 time: 262
+  light: 1164 temp1: 510 temp2: 511 time: 280
+  light: 1151 temp1: 496 temp2: 511 time: 298
+  light: 1151 temp1: 496 temp2: 511 time: 317
+  light: 1148 temp1: 496 temp2: 511 time: 335
+  light: 1159 temp1: 508 temp2: 511 time: 354
+  light: 1155 temp1: 508 temp2: 511 time: 372
+  light: 1151 temp1: 496 temp2: 511 time: 391
+  light: 1151 temp1: 496 temp2: 511 time: 409
+  light: 1183 temp1: 505 temp2: 511 time: 427
+  light: 1153 temp1: 510 temp2: 511 time: 446
+  light: 527 temp1: 515 temp2: 519 time: 464

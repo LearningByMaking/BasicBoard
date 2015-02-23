@@ -11,9 +11,14 @@
  end
  
  to init-BasicBoard
+  init-hardware 
  	make "check 0
-    make "oldcheck 0
- 	init-hardware 
+  make "oldcheck 0
+  make "time-list []
+  make "light-list []
+  make "start-time int ( now / 1000 ) 
+  make "firstrun 1   
+
  end
  
  to init-hardware
@@ -24,14 +29,14 @@
  	wait 15
  	ul-go
  	wait 15
- 
+
  end
 
  to see-packet
-   make "packet-bytes rl $1fc0 30   
-   if (count :packet-bytes) > 0 
+  make "packet-bytes rl $1fc0 30   
+  if (count :packet-bytes) > 0 
 	[
-        process-packet             
+    process-packet             
 	]
     
 end
@@ -60,7 +65,22 @@ to process-data-packet
 	make "light wnth 4 :packet-bytes
 	make "temp1 wnth 5 :packet-bytes
 	make "temp2 wnth 6 :packet-bytes
-	print (se "|light:| :light "|temp1:| :temp1 "|temp2:| :temp2)
+  make "time elapsedTime
+	print (se "|light:| :light "|temp1:| :temp1 "|temp2:| :temp2 "|time:| :time)
+  addTimeToList :time
+  addLightToList :light 
+  plot-light
+end
+
+to plot-light
+   x-data "|Elapsed Time (seconds)| :time-list
+   y-data "|Light (adc)| :light-list 
+   plot 2
+   if(:firstrun = 1)
+   [
+      display 
+   ]
+  
 end
 
 to packet-words :l          
@@ -74,3 +94,53 @@ end
 to wnth :i :l
   output (nth 2 * :i :l) + 256 * (nth 2 * :i + 1 :l)
 end
+
+to elapsedTime
+   output  int ( now / 1000 ) - :start-time
+end
+
+to addTimeToList :time
+  make "time-list (se :time-list :time)
+end
+
+to addLightToList :photo
+  make "light-list (se :light-list :photo)
+end
+
+to x-data :n :m
+  make "xname :n
+  make "xcol-data :m
+end
+
+to y-data :n :m
+  make "yname :n
+  make "ycol-data :m
+end
+
+to plot :s
+  setup-screen
+  clean
+  select-all
+  limits xlower xupper ylower yupper 
+  grid 10 10
+  box
+  xaxis 10  1
+  yaxis 10  1
+
+  if :s = 0 [ histogram ]
+  if :s = 1 [ connect ]
+  if :s = 2 [ ptype 2 points ]
+
+  title (se :yname "versus :xname)
+  xlabel :xname
+  redraw
+
+end
+
+to display  
+  blindexec "|display -update 1 screen.png | 
+  make "firstrun 0 
+end
+
+
+
