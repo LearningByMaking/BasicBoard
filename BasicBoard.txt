@@ -31,7 +31,7 @@ constants [
 	 greenon
 	 wait 10
 	 redoff
-     greenoff
+     	 greenoff
  end
  
  to onstart 
