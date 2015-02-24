@@ -17,7 +17,15 @@ constants [
           
 	  ]
 
+ to yellowon
+	 redon
+	 greenon
+ end
 
+ to yellowoff
+	 redoff
+	 greenoff
+ end
 
  to onpowerup
 	 init-pins 
@@ -26,13 +34,15 @@ constants [
 	 redoff
  end
  
+ 
+ 
  to ongo 
-	 redon
-	 greenon
+	 yellowon
 	 wait 10
-	 redoff
-     	 greenoff
+	 yellowoff
  end
+
+ 
  
  to onstart 
  	 greenon
@@ -57,3 +67,4 @@ constants [
  	fprint readA1
  	add-checksum
  end
+

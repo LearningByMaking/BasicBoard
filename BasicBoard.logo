@@ -16,65 +16,60 @@
   make "oldcheck 0
   make "time-list []
   make "light-list []
-  make "start-time int ( now / 1000 ) 
+  make "start-time int ( now / 1000 ) ;accurate to within 1 second
   make "firstrun 1   
 
  end
  
  to init-hardware
- 	stopvm
+ 	stopvm ;stops the app board from running so it can listen to commands
  	ul-ready
- 	wait 15
+ 	wait 15 ;waiting for red light
  	ul-set
- 	wait 15
+ 	wait 15 ;waiting for yellow light
  	ul-go
- 	wait 15
+ 	wait 15 ; wait for green light
 
- end
+ end 
 
+ 
  to see-packet
-  make "packet-bytes rl $1fc0 30   
+  make "packet-bytes get-packet   ;reads the packet off the one-wire network from the app board
   if (count :packet-bytes) > 0 
 	[
-    process-packet             
+		process-header            
 	]
     
 end
 
-to process-packet	
-	process-header  
-end
 
 to process-header
-  let [th 0]
-  let [tl 0]
-  make "oldcheck :check
-  let [nws ((first :packet-bytes) / 2) + 1]
-  make "check wnth :nws :packet-bytes  
-  if not (:check = :oldcheck) 
+
+  make "oldcheck :check 
+  let [nws ((first :packet-bytes) / 2) + 1] 
+  make "check wnth :nws :packet-bytes ;checksum is the last byte in the packet
+  if not (:check = :oldcheck) ;if checksums are equal, the data is NOT new
   [
-    make "type nth 1 :packet-bytes
-    make "wp packet-words :packet-bytes       
-    make "th wnth 2 :packet-bytes         
-    make "tl wnth 3 :packet-bytes        
-    if (:type = 42) [ process-data-packet ]
+    make "type nth 1 :packet-bytes        
+    if (:type = 42) [ process-data-packet ] ;42 is the type we defined on the app board
   ]
 end
 
-to process-data-packet
-	make "light wnth 4 :packet-bytes
-	make "temp1 wnth 5 :packet-bytes
-	make "temp2 wnth 6 :packet-bytes
-  make "time elapsedTime
+to process-data-packet 
+        print :packet-bytes
+	make "light wnth 4 :packet-bytes  ;comes from fprint statement on app board
+	make "temp1 wnth 5 :packet-bytes  ;comes from fprint statement on app board
+	make "temp2 wnth 6 :packet-bytes  ;comes from fprint statement on app board
+  	make "time elapsedTime
 	print (se "|light:| :light "|temp1:| :temp1 "|temp2:| :temp2 "|time:| :time)
-  addTimeToList :time
-  addLightToList :light 
-  plot-light
+  	addTimeToList :time
+ 	addLightToList :light 
+ 	plot-light
 end
 
 to plot-light
    x-data "|Elapsed Time (seconds)| :time-list
-   y-data "|Light (adc)| :light-list 
+   y-data "|Light (adc unit)|       :light-list 
    plot 2
    if(:firstrun = 1)
    [
@@ -140,6 +135,10 @@ end
 to display  
   blindexec "|display -update 1 screen.png | 
   make "firstrun 0 
+end
+
+to get-packet
+   output rl $1fc0 30 
 end
 
 

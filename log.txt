@@ -1816,3 +1816,289 @@ project "BasicBoard
 ..
   stopped.
 
+  Welcome to Logo
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Tue Feb 24 12:30:14 PST 2015   unix time:  1424809814063
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  light: 1231 temp1: 511 temp2: 524 time: 3
+  light: 1191 temp1: 519 temp2: 536 time: 22
+  light: 1183 temp1: 519 temp2: 531 time: 41
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Tue Feb 24 12:33:53 PST 2015   unix time:  1424810033248
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  light: 1167 temp1: 524 temp2: 536 time: 3
+  light: 1180 temp1: 521 temp2: 536 time: 23
+  light: 1201 temp1: 519 temp2: 536 time: 41
+  light: 999 temp1: 519 temp2: 536 time: 60
+  light: 1272 temp1: 511 temp2: 527 time: 78
+  light: 1295 temp1: 519 temp2: 536 time: 97
+  light: 1283 temp1: 519 temp2: 535 time: 115
+  light: 1283 temp1: 519 temp2: 535 time: 134
+  light: 1279 temp1: 508 temp2: 524 time: 152
+  light: 1272 temp1: 504 temp2: 524 time: 171
+  light: 1295 temp1: 517 temp2: 531 time: 189
+  light: 1295 temp1: 515 temp2: 535 time: 208
+  light: 1311 temp1: 515 temp2: 531 time: 226
+  light: 1287 temp1: 516 temp2: 535 time: 244
+  light: 1292 temp1: 516 temp2: 534 time: 263
+  light: 1287 temp1: 517 temp2: 531 time: 281
+  light: 1281 temp1: 515 temp2: 534 time: 300
+  light: 1295 temp1: 515 temp2: 531 time: 318
+  light: 1295 temp1: 515 temp2: 531 time: 337
+  light: 1279 temp1: 504 temp2: 519 time: 355
+  light: 1276 temp1: 504 temp2: 521 time: 374
+  light: 1287 temp1: 515 temp2: 531 time: 392
+  light: 1272 temp1: 504 temp2: 523 time: 411
+  light: 1279 temp1: 504 temp2: 519 time: 429
+  light: 1279 temp1: 504 temp2: 519 time: 448
+  light: 1281 temp1: 515 temp2: 531 time: 466
+  light: 1281 temp1: 515 temp2: 534 time: 485
+  light: 1281 temp1: 511 temp2: 519 time: 503
+  light: 1278 temp1: 504 temp2: 519 time: 521
+  light: 1279 temp1: 504 temp2: 519 time: 540
+  light: 1279 temp1: 504 temp2: 519 time: 558
+  light: 1287 temp1: 513 temp2: 531 time: 577
+  light: 1279 temp1: 504 temp2: 519 time: 595
+  light: 1276 temp1: 504 temp2: 519 time: 614
+  light: 1279 temp1: 504 temp2: 519 time: 632
+  light: 1276 temp1: 504 temp2: 519 time: 651
+  light: 1276 temp1: 504 temp2: 519 time: 669
+  light: 1279 temp1: 504 temp2: 519 time: 688
+  light: 1276 temp1: 504 temp2: 519 time: 706
+  light: 1279 temp1: 504 temp2: 519 time: 725
+  light: 1287 temp1: 515 temp2: 531 time: 743
+  light: 1295 temp1: 511 temp2: 519 time: 762
+  light: 1279 temp1: 505 temp2: 519 time: 780
+  light: 1267 temp1: 503 temp2: 519 time: 798
+  light: 1272 temp1: 504 temp2: 519 time: 817
+  light: 1279 temp1: 504 temp2: 519 time: 836
+  light: 1279 temp1: 504 temp2: 519 time: 854
+  light: 1278 temp1: 505 temp2: 519 time: 872
+  light: 1264 temp1: 505 temp2: 519 time: 891
+  light: 1265 temp1: 504 temp2: 519 time: 909
+  light: 1287 temp1: 511 temp2: 519 time: 928
+  light: 1279 temp1: 504 temp2: 519 time: 946
+  light: 1267 temp1: 504 temp2: 519 time: 965
+  light: 1279 temp1: 504 temp2: 519 time: 983
+  light: 1264 temp1: 504 temp2: 519 time: 1002
+  light: 1287 temp1: 513 temp2: 531 time: 1020
+  light: 1267 temp1: 499 temp2: 519 time: 1039
+  light: 1271 temp1: 504 temp2: 519 time: 1057
+  light: 1276 temp1: 504 temp2: 519 time: 1076
+  light: 1272 temp1: 504 temp2: 519 time: 1094
+  light: 1279 temp1: 504 temp2: 519 time: 1112
+  light: 1284 temp1: 515 temp2: 527 time: 1131
+  light: 1272 temp1: 503 temp2: 519 time: 1149
+  light: 1287 temp1: 511 temp2: 519 time: 1168
+  light: 1283 temp1: 511 temp2: 519 time: 1186
+  light: 1264 temp1: 503 temp2: 519 time: 1205
+  light: 1264 temp1: 504 temp2: 515 time: 1223
+  light: 1279 temp1: 504 temp2: 519 time: 1242
+  light: 1279 temp1: 504 temp2: 519 time: 1260
+  light: 1279 temp1: 504 temp2: 519 time: 1279
+  light: 1311 temp1: 511 temp2: 519 time: 1297
+  light: 1272 temp1: 504 temp2: 519 time: 1315
+  light: 1283 temp1: 511 temp2: 519 time: 1334
+  light: 1279 temp1: 504 temp2: 519 time: 1352
+  light: 1272 temp1: 505 temp2: 519 time: 1371
+  light: 1267 temp1: 504 temp2: 519 time: 1389
+  light: 1295 temp1: 513 temp2: 527 time: 1408
+  light: 1271 temp1: 504 temp2: 519 time: 1426
+  light: 1267 temp1: 504 temp2: 519 time: 1445
+  light: 1283 temp1: 515 temp2: 527 time: 1463
+  light: 1272 temp1: 504 temp2: 519 time: 1482
+  light: 1279 temp1: 504 temp2: 519 time: 1500
+  light: 1281 temp1: 511 temp2: 519 time: 1519
+  light: 1295 temp1: 511 temp2: 519 time: 1537
+  light: 1272 temp1: 504 temp2: 519 time: 1556
+  light: 1279 temp1: 504 temp2: 519 time: 1574
+  light: 1264 temp1: 504 temp2: 519 time: 1592
+  light: 1264 temp1: 504 temp2: 519 time: 1611
+  light: 1279 temp1: 504 temp2: 519 time: 1629
+  light: 1308 temp1: 511 temp2: 519 time: 1648
+  light: 1295 temp1: 511 temp2: 519 time: 1666
+  light: 1287 temp1: 515 temp2: 527 time: 1685
+  light: 1308 temp1: 511 temp2: 519 time: 1703
+  light: 1287 temp1: 511 temp2: 519 time: 1722
+  light: 1299 temp1: 511 temp2: 519 time: 1740
+  light: 1264 temp1: 504 temp2: 519 time: 1759
+  light: 1272 temp1: 504 temp2: 519 time: 1777
+  light: 1276 temp1: 503 temp2: 519 time: 1796
+  light: 1287 temp1: 511 temp2: 519 time: 1814
+  light: 1279 temp1: 504 temp2: 519 time: 1832
+  light: 1264 temp1: 504 temp2: 519 time: 1851
+  light: 1281 temp1: 511 temp2: 519 time: 1869
+  light: 1265 temp1: 504 temp2: 519 time: 1888
+  light: 1255 temp1: 504 temp2: 519 time: 1906
+  light: 1272 temp1: 504 temp2: 519 time: 1925
+  light: 1264 temp1: 504 temp2: 519 time: 1943
+  light: 1279 temp1: 503 temp2: 519 time: 1962
+  light: 1311 temp1: 511 temp2: 519 time: 1980
+  light: 1264 temp1: 504 temp2: 519 time: 1999
+  light: 1264 temp1: 504 temp2: 519 time: 2017
+  light: 1287 temp1: 513 temp2: 531 time: 2036
+  light: 1264 temp1: 504 temp2: 519 time: 2054
+  light: 1272 temp1: 504 temp2: 519 time: 2073
+  light: 1267 temp1: 504 temp2: 519 time: 2091
+  light: 1295 temp1: 511 temp2: 519 time: 2109
+  light: 1278 temp1: 504 temp2: 518 time: 2128
+  light: 1279 temp1: 504 temp2: 519 time: 2146
+  light: 1295 temp1: 511 temp2: 519 time: 2165
+  light: 1311 temp1: 511 temp2: 519 time: 2183
+  light: 1287 temp1: 511 temp2: 519 time: 2202
+  light: 1283 temp1: 515 temp2: 527 time: 2220
+  light: 1304 temp1: 511 temp2: 519 time: 2239
+  light: 1295 temp1: 515 temp2: 527 time: 2257
+  light: 1255 temp1: 504 temp2: 519 time: 2276
+  light: 1292 temp1: 511 temp2: 518 time: 2294
+  light: 1292 temp1: 511 temp2: 519 time: 2313
+  light: 1295 temp1: 515 temp2: 527 time: 2331
+  light: 1271 temp1: 503 temp2: 519 time: 2350
+  light: 1272 temp1: 504 temp2: 519 time: 2368
+  light: 1264 temp1: 504 temp2: 519 time: 2387
+  light: 1255 temp1: 505 temp2: 519 time: 2405
+  light: 1264 temp1: 504 temp2: 519 time: 2424
+  light: 1276 temp1: 504 temp2: 519 time: 2442
+  light: 1264 temp1: 504 temp2: 519 time: 2461
+  light: 1264 temp1: 504 temp2: 519 time: 2479
+  light: 1264 temp1: 504 temp2: 519 time: 2498
+  light: 1287 temp1: 511 temp2: 519 time: 2516
+  light: 1304 temp1: 511 temp2: 519 time: 2535
+  light: 1287 temp1: 511 temp2: 519 time: 2553
+  light: 1264 temp1: 504 temp2: 519 time: 2572
+  light: 1267 temp1: 504 temp2: 519 time: 2590
+  light: 1276 temp1: 504 temp2: 519 time: 2609
+  light: 1272 temp1: 503 temp2: 519 time: 2628
+  light: 1255 temp1: 505 temp2: 519 time: 2646
+  light: 1265 temp1: 504 temp2: 519 time: 2664
+  light: 1272 temp1: 504 temp2: 519 time: 2683
+  light: 1278 temp1: 504 temp2: 519 time: 2701
+  light: 1264 temp1: 504 temp2: 519 time: 2720
+  light: 1276 temp1: 504 temp2: 519 time: 2738
+  light: 1267 temp1: 504 temp2: 519 time: 2757
+  light: 1255 temp1: 504 temp2: 519 time: 2775
+  light: 1272 temp1: 505 temp2: 519 time: 2794
+  light: 1276 temp1: 503 temp2: 519 time: 2812
+  light: 1287 temp1: 515 temp2: 531 time: 2831
+  light: 1249 temp1: 508 temp2: 519 time: 2849
+  light: 1279 temp1: 505 temp2: 519 time: 2868
+  light: 1264 temp1: 505 temp2: 519 time: 2886
+  light: 1272 temp1: 504 temp2: 519 time: 2905
+  light: 1248 temp1: 504 temp2: 519 time: 2923
+  light: 1255 temp1: 504 temp2: 519 time: 2942
+  light: 1264 temp1: 504 temp2: 519 time: 2960
+  light: 1255 temp1: 504 temp2: 519 time: 2979
+  light: 1272 temp1: 504 temp2: 519 time: 2997
+  light: 1264 temp1: 504 temp2: 519 time: 3016
+  light: 1255 temp1: 508 temp2: 519 time: 3034
+  light: 1255 temp1: 505 temp2: 519 time: 3053
+  light: 1248 temp1: 508 temp2: 519 time: 3071
+  light: 1264 temp1: 504 temp2: 519 time: 3090
+  light: 1248 temp1: 508 temp2: 519 time: 3108
+  light: 1255 temp1: 504 temp2: 519 time: 3127
+  light: 1249 temp1: 504 temp2: 519 time: 3145
+  Welcome to Logo
+.BasicBoard
+  I don't know how to .BasicBoard
+.BasicBoard
+  I don't know how to .BasicBoard
+project "BasicBoard
+  Start Project:  BasicBoard     Tue Feb 24 13:50:38 PST 2015   unix time:  1424814638169
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+..
+  stopped.
+,rr
+  rr undefined
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Tue Feb 24 14:23:21 PST 2015   unix time:  1424816601306
+  Opening Project  BasicBoard
+.stopvm
+.compile
+compile
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Tue Feb 24 14:24:40 PST 2015   unix time:  1424816680985
+  Opening Project  BasicBoard
+.print 1234
+  1234

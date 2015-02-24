@@ -59,24 +59,18 @@ to readA0
 end
 
 to readA1
-  setup-adc 4
-  let [adc 0]
-  make "adc read-adc
-  output :adc
+  setup-adc 4 ;from knowing pin number
+  output read-adc
 end
 
 to readA2
-  setup-adc 5
-  let [adc 0]
-  make "adc read-adc
-  output :adc
+  setup-adc 5 ;from knowing pin number
+  output read-adc
 end
 
 to readA3
-  setup-adc 6
-  let [adc 0]
-  make "adc read-adc
-  output :adc
+  setup-adc 6 ;from knowing pin number
+  output read-adc
 end
 
 global [tsh0 tsl0]
