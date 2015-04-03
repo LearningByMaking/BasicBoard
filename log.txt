@@ -1,0 +1,4835 @@
+  Welcome to Logo
+  Welcome to Logo
+test
+  I don't know how to test
+  Welcome to Logo
+test
+  I don't know how to test
+  Welcome to Logo
+  Welcome to Logo
+  Welcome to Logo
+project "newProject
+  I don't know how to project
+  Welcome to Logo
+  Welcome to Logo
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 11:16:44 PST 2015   unix time:  1424459804949
+  Welcome to the  test
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 11:17:57 PST 2015   unix time:  1424459877898
+  Opening Project  test
+.test
+  starting test
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 11:46:27 PST 2015   unix time:  1424461587542
+  Opening Project  test
+.print :who
+  16
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 11:50:10 PST 2015   unix time:  1424461810941
+  Opening Project  test
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 11:51:11 PST 2015   unix time:  1424461871486
+  Opening Project  test
+print 1234
+  Chip not found.
+print 1234
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 11:52:22 PST 2015   unix time:  1424461942398
+  Opening Project  test
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 11:58:40 PST 2015   unix time:  1424462320638
+  Opening Project  test
+print 1234
+  Chip not found.
+print 1234
+  Chip not found.
+.print :onewire
+  true
+.print :who
+  16
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 12:04:55 PST 2015   unix time:  1424462695198
+  Opening Project  test
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 12:13:17 PST 2015   unix time:  1424463197835
+  Opening Project  test
+print 1234
+  1234
+print 1234
+  Chip not found.
+print 1234
+  Chip not found.
+print 1234
+.rr
+  Chip not found.
+  Opening Project  test
+  I don't know how to to in rr
+print 1234
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 12:15:01 PST 2015   unix time:  1424463301695
+  Opening Project  test
+print 1234
+  Chip not found.
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "temp
+  Start Project:  temp     Fri Feb 20 12:16:15 PST 2015   unix time:  1424463375148
+  Can't open file temp.logo in project
+.print 1234
+  I don't know how to .print
+project "test
+  Start Project:  test     Fri Feb 20 12:16:33 PST 2015   unix time:  1424463393862
+  Opening Project  test
+.print 1234
+  1234
+print 1234
+  Chip not found.
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 12:49:54 PST 2015   unix time:  1424465394318
+  Opening Project  test
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 12:56:44 PST 2015   unix time:  1424465804735
+  Opening Project  test
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "test
+  Start Project:  test     Fri Feb 20 12:58:01 PST 2015   unix time:  1424465881305
+  Opening Project  test
+print 1234
+  Chip not found.
+print 1234
+  1234
+print 1234
+  1234
+  Welcome to Logo
+  Welcome to Logo
+project "TempSensor
+  Start Project:  TempSensor     Fri Feb 20 13:02:50 PST 2015   unix time:  1424466170756
+  Opening Project  TempSensor
+print 1234
+  1234
+print 1234
+  1234
+  Welcome to Logo
+project "TempSensor
+  Start Project:  TempSensor     Fri Feb 20 13:04:19 PST 2015   unix time:  1424466259361
+  Opening Project  TempSensor
+print 1234
+  stopvm error
+  wl error
+  runvm error
+  1234
+print 1234
+  1234
+print 1234
+  1234
+print 1234
+  1234
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "TempSensor
+  Start Project:  TempSensor     Fri Feb 20 13:08:41 PST 2015   unix time:  1424466521348
+  Opening Project  TempSensor
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "TempSensor
+  Start Project:  TempSensor     Fri Feb 20 13:09:14 PST 2015   unix time:  1424466554481
+  Opening Project  TempSensor
+print 1234
+  Chip not found.
+print 1234
+  1234
+print 1234
+  1234
+print 1234
+  1234
+print readA0
+  readA0 undefined
+  Welcome to Logo
+project "TempSensor
+  Start Project:  TempSensor     Fri Feb 20 13:36:33 PST 2015   unix time:  1424468193606
+  Opening Project  TempSensor
+.compile
+  Can't open file /home/user/LbyM/BasicBoard/adc.text in source-string
+.compile
+  Compiling...
+  205 bytes
+.download
+  205 bytes
+readA0
+  you don't say what to do with readA0
+print readA0
+  4095
+  Welcome to Logo
+  Welcome to Logo
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 13:39:00 PST 2015   unix time:  1424468340788
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  205 bytes
+.download
+  205 bytes
+.compile
+  Compiling...
+  812 bytes
+.download
+  812 bytes
+redon
+redoff
+blueon
+
+print 1234
+  1234
+blueon
+blueoff
+greeon
+  greeon undefined
+.stopvm
+redon
+redoff
+allon
+  allon undefined
+.compile
+  Compiling...
+  660 bytes
+.download
+  660 bytes
+.compile
+  Compiling...
+  891 bytes
+.download
+  891 bytes
+init-pins
+redon
+redoff
+blueon
+blueoff
+greeon
+  greeon undefined
+greenon
+greenoff
+redon
+redoff
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 13:45:27 PST 2015   unix time:  1424468727540
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  891 bytes
+.download
+  Chip not found.
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 13:46:23 PST 2015   unix time:  1424468783572
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  891 bytes
+print 1234
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 13:48:38 PST 2015   unix time:  1424468918645
+  Opening Project  BasicBoard
+print 1234
+  Welcome to Logo
+project "Heat
+  Start Project:  Heat     Fri Feb 20 13:52:43 PST 2015   unix time:  1424469163876
+  Can't open file Heat.logo in project
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 13:52:51 PST 2015   unix time:  1424469171983
+  Opening Project  BasicBoard
+print 1234
+  Chip not found.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 13:55:25 PST 2015   unix time:  1424469325828
+  Opening Project  BasicBoard
+print 1234
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 14:11:52 PST 2015   unix time:  1424470312518
+  Opening Project  BasicBoard
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 14:13:33 PST 2015   unix time:  1424470413086
+  Opening Project  BasicBoard
+print 1234
+  1234
+.compile
+  Compiling...
+  891 bytes
+.download
+  891 bytes
+init-pins
+  runvm error
+init
+  init undefined
+redon
+ongo
+  Welcome to Logo
+projet "BasicBoard
+  I don't know how to projet
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 14:15:33 PST 2015   unix time:  1424470533019
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  903 bytes
+.download
+  903 bytes
+.stopvm
+.ongo
+.download
+  903 bytes
+.compile
+  Compiling...
+  903 bytes
+.download
+  903 bytes
+.ul-ready
+.ul-set
+.compile
+  Compiling...
+  rednon undefined in onpowerup
+.compile
+  Compiling...
+  912 bytes
+.download
+  912 bytes
+.ul-ready
+.ul-set
+.compile
+  Compiling...
+  912 bytes
+.download
+  912 bytes
+.ul-ready
+.ul-set
+.compile
+  Compiling...
+  921 bytes
+.download
+  921 bytes
+.ul-ready
+.ul-set
+.ul-go
+print 1234
+  1234
+print readA0
+  4095
+print readA1
+  1923
+print readA2
+  1436
+print readA3
+  1107
+print readA4
+  readA4 undefined
+print readA0
+  4095
+print readA1
+  1935
+print readA3
+  1231
+print readA3
+  1191
+print readA3
+  1164
+print readA3
+  1180
+print readA3
+  1183
+print readA3
+  1171
+print readA3
+  1231
+print readA3
+  1167
+print readA3
+  1089
+print readA3
+  1148
+print readA3
+  1171
+print readA0
+  4095
+print readA1
+  1920
+print readA2
+  1447
+print readA3
+  1201
+print readA3
+  1151
+.compule
+  I don't know how to compule
+.compile
+  Compiling...
+  921 bytes
+.download
+  921 bytes
+.ul-ready
+.ul-set
+.ul-go
+print readA3
+  1231
+print readA2
+  1292
+print readA1
+  1520
+print readA0
+  4095
+.compile
+  Compiling...
+  greeonon undefined in ongo
+.compile
+  Compiling...
+  927 bytes
+.download
+  927 bytes
+.ul-ready
+.ul-set
+.ul-go
+redon
+greenon
+redoff
+redon
+greenoff
+repeat 100 [greenon mwait 10 greenoff]
+repeat 100 [greenon mwait 100 greenoff]
+print readA3
+  1136
+print readA3
+  1176
+print readA3
+  1183
+print readA3
+  1167
+redon
+print readA3
+  1404
+print readA3
+  1376
+print readA3
+  1376
+print readA3
+  556
+print readA3
+  556
+print readA3
+  556
+print readA3
+  559
+print readA3
+  558
+print readA3
+  1324
+print readA3
+  1368
+print readA3
+  831
+print readA3
+  748
+print readA3
+  743
+print readA3
+  743
+print readA3
+  743
+print readA3
+  1304
+print readA3
+  1379
+print readA3
+  1392
+print readA2
+  1409
+print readA2
+  639
+print readA2
+  1279
+print readA1
+  1377
+print readA1
+  627
+print readA1
+  1311
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 14:54:00 PST 2015   unix time:  1424472840888
+  Opening Project  BasicBoard
+print 1234
+  1234
+  Welcome to Logo
+project "heat
+  Start Project:  heat     Fri Feb 20 14:56:35 PST 2015   unix time:  1424472995261
+  Can't open file heat.logo in project
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 14:56:41 PST 2015   unix time:  1424473001400
+  Opening Project  BasicBoard
+print 1234
+  1234
+.ul-ready
+.ul-set
+.ul-go
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 15:00:39 PST 2015   unix time:  1424473239851
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  A3 undefined in collect-data
+.compile
+  Compiling...
+  add-checksum undefined in collect-data
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 15:09:29 PST 2015   unix time:  1424473769548
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  1278 bytes
+.download
+  1278 bytes
+.compile
+  Compiling...
+  1287 bytes
+.download
+  1287 bytes
+.ul-ready
+.ul-set
+.ul-go
+.stopvm
+.compile
+  Compiling...
+  1261 bytes
+.download
+  1261 bytes
+.ul-ready
+.ul-set
+.ul-go
+.stopvm
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.init-hardware
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+.rr
+..
+  stopped.
+.rr
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 15:20:52 PST 2015   unix time:  1424474452956
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  I don't know how to type in process-packet
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  177
+  177
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 20 15:22:30 PST 2015   unix time:  1424474550175
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  1287 bytes
+.download
+  1287 bytes
+.BasicBoard
+  starting BasicBoard
+  42
+  42
+  42
+  42
+  42
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  12 42 255 255 84 0 223 36 67 5 254 1 7 2 122 167 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 86 0 186 1 56 5 255 1 7 2 167 202 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 88 0 144 9 65 5 252 1 7 2 201 194 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 90 0 102 17 71 5 252 1 6 2 236 186 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 91 0 81 21 63 5 252 1 7 2 7 183 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 93 0 39 29 39 5 255 1 7 2 68 175 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 95 0 253 36 48 5 255 1 7 2 99 167 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 98 0 195 5 48 5 255 1 5 2 156 198 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 99 0 174 9 46 5 255 1 7 2 176 194 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 101 0 132 17 63 5 252 1 7 2 202 186 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 103 0 90 25 49 5 254 1 7 2 254 178 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  12 42 255 255 105 0 48 33 60 5 252 1 5 2 31 171 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  I don't know how to wnth in process-header
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  I don't know how to packet-words in process-header
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+  DATA!
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light  1311 temp1  511 temp2  515
+  light  1328 temp1  510 temp2  517
+  light  1328 temp1  511 temp2  519
+.rr
+..
+  stopped.
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1344 temp1: 505 temp2: 519
+  light: 1351 temp1: 508 temp2: 519
+  light: 1328 temp1: 510 temp2: 519
+  light: 527 temp1: 524 temp2: 527
+  light: 527 temp1: 524 temp2: 524
+  light: 1343 temp1: 504 temp2: 515
+  light: 1336 temp1: 508 temp2: 515
+  light: 1343 temp1: 505 temp2: 516
+  light: 1358 temp1: 504 temp2: 519
+  light: 1351 temp1: 504 temp2: 519
+  light: 1343 temp1: 505 temp2: 516
+  light: 1336 temp1: 508 temp2: 517
+  light: 1183 temp1: 511 temp2: 515
+  light: 1342 temp1: 505 temp2: 516
+  light: 1345 temp1: 505 temp2: 515
+  light: 1351 temp1: 508 temp2: 518
+  light: 1340 temp1: 508 temp2: 515
+  light: 1340 temp1: 505 temp2: 515
+  light: 1340 temp1: 508 temp2: 515
+  light: 1345 temp1: 504 temp2: 516
+  light: 1340 temp1: 508 temp2: 515
+  light: 1340 temp1: 504 temp2: 515
+  light: 1331 temp1: 505 temp2: 515
+  light: 1345 temp1: 504 temp2: 515
+  light: 1343 temp1: 504 temp2: 518
+  light: 1348 temp1: 504 temp2: 515
+  light: 1121 temp1: 508 temp2: 515
+  light: 1203 temp1: 508 temp2: 516
+  light: 1200 temp1: 508 temp2: 515
+  light: 1328 temp1: 505 temp2: 515
+  light: 1203 temp1: 505 temp2: 516
+  light: 1311 temp1: 504 temp2: 515
+  light: 1175 temp1: 511 temp2: 511
+  light: 1176 temp1: 511 temp2: 515
+  light: 1164 temp1: 511 temp2: 515
+  light: 1272 temp1: 497 temp2: 515
+  light: 1287 temp1: 508 temp2: 511
+  light: 1331 temp1: 504 temp2: 499
+  light: 1311 temp1: 508 temp2: 511
+  light: 1336 temp1: 504 temp2: 511
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Mon Feb 23 10:10:10 PST 2015   unix time:  1424715010111
+  Opening Project  BasicBoard
+.basicboard
+  starting BasicBoard
+  light: 1479 temp1: 492 temp2: 508
+  light: 1359 temp1: 492 temp2: 505
+  light: 711 temp1: 504 temp2: 508
+  light: 831 temp1: 508 temp2: 511
+  light: 847 temp1: 504 temp2: 511
+  light: 847 temp1: 508 temp2: 511
+  light: 835 temp1: 508 temp2: 511
+  light: 831 temp1: 508 temp2: 511
+  light: 835 temp1: 508 temp2: 510
+  light: 828 temp1: 510 temp2: 511
+  light: 856 temp1: 505 temp2: 510
+  light: 847 temp1: 504 temp2: 511
+  light: 835 temp1: 508 temp2: 508
+  light: 752 temp1: 504 temp2: 511
+  light: 750 temp1: 503 temp2: 510
+  light: 755 temp1: 503 temp2: 510
+  light: 753 temp1: 504 temp2: 508
+  light: 760 temp1: 499 temp2: 510
+  light: 755 temp1: 504 temp2: 504
+  light: 752 temp1: 504 temp2: 504
+  light: 755 temp1: 504 temp2: 508
+  light: 755 temp1: 499 temp2: 508
+  light: 739 temp1: 504 temp2: 508
+  light: 737 temp1: 504 temp2: 508
+  light: 732 temp1: 504 temp2: 508
+  light: 719 temp1: 505 temp2: 508
+  light: 732 temp1: 504 temp2: 508
+  light: 739 temp1: 504 temp2: 505
+  light: 736 temp1: 504 temp2: 504
+  light: 728 temp1: 504 temp2: 504
+  light: 737 temp1: 504 temp2: 504
+  light: 732 temp1: 504 temp2: 504
+  light: 734 temp1: 504 temp2: 508
+  light: 732 temp1: 503 temp2: 504
+  light: 736 temp1: 499 temp2: 505
+  light: 736 temp1: 504 temp2: 504
+  light: 728 temp1: 503 temp2: 504
+  light: 737 temp1: 499 temp2: 508
+  light: 835 temp1: 504 temp2: 505
+  light: 839 temp1: 504 temp2: 504
+  light: 839 temp1: 504 temp2: 504
+  light: 856 temp1: 499 temp2: 504
+  light: 839 temp1: 504 temp2: 504
+  light: 839 temp1: 499 temp2: 504
+  light: 839 temp1: 503 temp2: 504
+  light: 839 temp1: 503 temp2: 504
+  light: 823 temp1: 504 temp2: 504
+  light: 819 temp1: 504 temp2: 504
+  light: 839 temp1: 499 temp2: 505
+  light: 835 temp1: 499 temp2: 505
+  light: 839 temp1: 499 temp2: 504
+  light: 839 temp1: 499 temp2: 504
+  light: 828 temp1: 503 temp2: 504
+  light: 817 temp1: 504 temp2: 504
+  light: 847 temp1: 499 temp2: 505
+  light: 824 temp1: 504 temp2: 504
+  light: 831 temp1: 503 temp2: 504
+  light: 816 temp1: 504 temp2: 504
+  light: 812 temp1: 504 temp2: 503
+  light: 824 temp1: 504 temp2: 504
+  light: 823 temp1: 504 temp2: 504
+  light: 771 temp1: 505 temp2: 504
+  light: 839 temp1: 499 temp2: 504
+  light: 668 temp1: 505 temp2: 504
+  light: 679 temp1: 505 temp2: 503
+  light: 671 temp1: 504 temp2: 504
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Mon Feb 23 10:57:16 PST 2015   unix time:  1424717836548
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  I don't know how to .r:temp2 in process-data-packet
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  I don't know how to .r:temp2 in process-data-packet
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1327 temp1: 496 temp2: 508
+  8
+  light: 1319 temp1: 496 temp2: 508
+  8 26
+  light: 1295 temp1: 499 temp2: 505
+  8 26 45
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1311 temp1: 496 temp2: 508
+  I don't know how to light in process-data-packet
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1303 temp1: 496 temp2: 509
+  I don't know how to x-data in plot
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1311 temp1: 499 temp2: 508
+  heat-list has no value in process-data-packet
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1319 temp1: 496 temp2: 508
+  8
+  light-list has no value in process-data-packet
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1203 temp1: 496 temp2: 508
+  8
+  1203
+  light: 1215 temp1: 496 temp2: 508
+  8 26
+  1203 1215
+  light: 1208 temp1: 496 temp2: 508
+  8 26 45
+  1203 1215 1208
+  light: 1208 temp1: 496 temp2: 511
+  8 26 45 63
+  1203 1215 1208 1208
+  light: 1191 temp1: 497 temp2: 509
+  8 26 45 63 81
+  1203 1215 1208 1208 1191
+.rr
+..
+  stopped.
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1191 temp1: 499 temp2: 508 time: 8
+  light: 1208 temp1: 496 temp2: 508 time: 26
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1201 temp1: 499 temp2: 508 time: 3
+  light: 1207 temp1: 496 temp2: 510 time: 21
+  light: 1212 temp1: 496 temp2: 508 time: 40
+  light: 1201 temp1: 497 temp2: 508 time: 58
+.rr
+  light: 1212 temp1: 496 temp2: 508 time: 76
+.BasicBoard..
+  light: 1215 temp1: 496 temp2: 508 time: 95
+..
+  stopped.
+  I don't know how to BasicBoard..
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1180 temp1: 499 temp2: 508 time: 4
+  light: 1191 temp1: 499 temp2: 508 time: 22
+  light: 1191 temp1: 497 temp2: 508 time: 40
+..
+  stopped.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Mon Feb 23 13:00:36 PST 2015   unix time:  1424725236035
+  Opening Project  BasicBoard
+x-data
+  x-data undefined
+.load "logo/project
+.x-data
+  I don't know how to x-data
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  Can't open file logo/Project".logo in BasicBoard
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1380 temp1: 496 temp2: 511 time: 3
+  You don't say what to do with 1380 in plot
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1328 temp1: 499 temp2: 511 time: 3
+  You don't say what to do with 1328 in plot
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1328 temp1: 504 temp2: 511 time: 3
+  You don't say what to do with 1328 in plot-data
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1328 temp1: 504 temp2: 511 time: 3
+  I don't know how to clear-display in plot-data
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBOard
+  starting BasicBoard
+  light: 1328 temp1: 504 temp2: 511 time: 3
+  exec: java.io.IOException: Cannot run program "./pkill.sh": java.io.IOException: error=2, No such file or directory ./pkill.sh xv in clear-display
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Mon Feb 23 13:06:30 PST 2015   unix time:  1424725590892
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  light: 1336 temp1: 499 temp2: 511 time: 3
+  I don't know how to plot in plot-data
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1328 temp1: 504 temp2: 511 time: 3
+  I don't know how to display in plot-light
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1331 temp1: 499 temp2: 511 time: 3
+  exec: java.io.IOException: Cannot run program "/usr/local/bin/xv": java.io.IOException: error=2, No such file or directory /usr/local/bin/xv  geometry 600x400+1000+100  screen.png in display
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1287 temp1: 504 temp2: 511 time: 3
+  You don't say what to do with geometry 600x400+1000+100 in plot-light
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1272 temp1: 497 temp2: 511 time: 3
+  light: 1264 temp1: 496 temp2: 511 time: 22
+  light: 1264 temp1: 496 temp2: 511 time: 40
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1317 temp1: 503 temp2: 511 time: 3
+  light: 1300 temp1: 504 temp2: 511 time: 21
+  light: 1308 temp1: 503 temp2: 511 time: 40
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1311 temp1: 503 temp2: 511 time: 3
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1304 temp1: 504 temp2: 511 time: 3
+  light: 1299 temp1: 504 temp2: 511 time: 21
+  light: 1300 temp1: 504 temp2: 511 time: 40
+  light: 1308 temp1: 504 temp2: 511 time: 58
+  light: 1303 temp1: 504 temp2: 511 time: 77
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1304 temp1: 504 temp2: 511 time: 3
+  light: 1295 temp1: 504 temp2: 511 time: 22
+  light: 1304 temp1: 503 temp2: 511 time: 41
+  light: 1295 temp1: 504 temp2: 511 time: 59
+  light: 1295 temp1: 504 temp2: 511 time: 77
+  light: 1295 temp1: 504 temp2: 511 time: 96
+  light: 1311 temp1: 504 temp2: 511 time: 114
+  light: 1295 temp1: 504 temp2: 511 time: 133
+  light: 1295 temp1: 504 temp2: 511 time: 152
+  light: 1304 temp1: 504 temp2: 511 time: 170
+  light: 1311 temp1: 499 temp2: 511 time: 189
+  light: 1311 temp1: 499 temp2: 511 time: 207
+  light: 1304 temp1: 504 temp2: 511 time: 226
+  light: 1308 temp1: 504 temp2: 511 time: 244
+  light: 1311 temp1: 503 temp2: 511 time: 263
+  light: 1304 temp1: 504 temp2: 511 time: 281
+  light: 1308 temp1: 504 temp2: 511 time: 300
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1304 temp1: 499 temp2: 511 time: 4
+  light: 1311 temp1: 499 temp2: 511 time: 22
+  light: 1295 temp1: 504 temp2: 511 time: 40
+  light: 1319 temp1: 499 temp2: 511 time: 59
+  light: 1311 temp1: 504 temp2: 511 time: 77
+  light: 1295 temp1: 505 temp2: 511 time: 96
+  light: 1319 temp1: 503 temp2: 511 time: 114
+.BasicBoardrr
+  light: 1300 temp1: 504 temp2: 511 time: 133
+..
+  stopped.
+  I don't know how to BasicBoardrr
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1311 temp1: 504 temp2: 511 time: 3
+  light: 1304 temp1: 504 temp2: 511 time: 22
+  light: 1319 temp1: 504 temp2: 511 time: 40
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1308 temp1: 504 temp2: 511 time: 3
+  light: 1319 temp1: 504 temp2: 511 time: 22
+
+..
+  stopped.
+   undefined
+conky
+  conky undefined
+top
+  top undefined
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Mon Feb 23 13:57:24 PST 2015   unix time:  1424728644430
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  light: 1310 temp1: 504 temp2: 511 time: 3
+  light: 1311 temp1: 504 temp2: 511 time: 23
+  light: 1304 temp1: 504 temp2: 511 time: 41
+  light: 1304 temp1: 504 temp2: 511 time: 60
+  light: 1295 temp1: 504 temp2: 511 time: 78
+  light: 1295 temp1: 505 temp2: 511 time: 97
+..
+  stopped.
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1304 temp1: 504 temp2: 511 time: 3
+  light: 1299 temp1: 504 temp2: 511 time: 22
+  light: 1287 temp1: 508 temp2: 511 time: 40
+  light: 1308 temp1: 504 temp2: 511 time: 58
+  light: 1295 temp1: 505 temp2: 511 time: 77
+  light: 1311 temp1: 504 temp2: 511 time: 95
+  light: 1295 temp1: 505 temp2: 511 time: 114
+  light: 1299 temp1: 505 temp2: 511 time: 132
+  light: 1311 temp1: 504 temp2: 511 time: 151
+  light: 1311 temp1: 504 temp2: 511 time: 169
+  light: 1304 temp1: 504 temp2: 511 time: 188
+  light: 1295 temp1: 504 temp2: 511 time: 206
+  light: 1295 temp1: 504 temp2: 511 time: 225
+  light: 1295 temp1: 504 temp2: 511 time: 243
+  light: 1295 temp1: 505 temp2: 511 time: 262
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1310 temp1: 504 temp2: 511 time: 3
+  firstrun=1 has no value in plot-light
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1311 temp1: 504 temp2: 511 time: 3
+  display didn't output to if in plot-light
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1299 temp1: 504 temp2: 511 time: 3
+  light: 1311 temp1: 503 temp2: 511 time: 21
+  light: 1295 temp1: 505 temp2: 511 time: 40
+  light: 1303 temp1: 504 temp2: 511 time: 58
+  light: 1303 temp1: 504 temp2: 511 time: 76
+  light: 1304 temp1: 504 temp2: 511 time: 95
+  light: 1311 temp1: 504 temp2: 511 time: 113
+  light: 1308 temp1: 504 temp2: 511 time: 132
+  light: 1319 temp1: 504 temp2: 511 time: 150
+  light: 1295 temp1: 508 temp2: 511 time: 169
+  light: 1295 temp1: 504 temp2: 511 time: 187
+.rr
+,,
+..
+  stopped.
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1311 temp1: 504 temp2: 515 time: 3
+  light: 1311 temp1: 504 temp2: 511 time: 21
+  light: 1295 temp1: 504 temp2: 511 time: 40
+  light: 1304 temp1: 504 temp2: 511 time: 58
+  light: 1299 temp1: 504 temp2: 511 time: 77
+  light: 1299 temp1: 504 temp2: 511 time: 95
+  light: 1300 temp1: 504 temp2: 511 time: 114
+  light: 1311 temp1: 504 temp2: 511 time: 132
+  light: 1299 temp1: 504 temp2: 511 time: 150
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1299 temp1: 504 temp2: 511 time: 3
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1295 temp1: 504 temp2: 511 time: 3
+..
+  stopped.
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Mon Feb 23 14:23:24 PST 2015   unix time:  1424730204076
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+.rr
+..
+  stopped.
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1150 temp1: 496 temp2: 515 time: 3
+  light: 1155 temp1: 511 temp2: 511 time: 21
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  light: 1176 temp1: 508 temp2: 511 time: 3
+  light: 1167 temp1: 508 temp2: 511 time: 22
+  light: 1167 temp1: 508 temp2: 511 time: 40
+  light: 1167 temp1: 508 temp2: 511 time: 59
+  light: 1167 temp1: 508 temp2: 511 time: 77
+  light: 1159 temp1: 510 temp2: 511 time: 96
+  light: 1153 temp1: 510 temp2: 511 time: 114
+  light: 1148 temp1: 497 temp2: 511 time: 132
+  light: 1153 temp1: 511 temp2: 511 time: 151
+  light: 1155 temp1: 510 temp2: 511 time: 169
+  light: 1180 temp1: 508 temp2: 511 time: 188
+  light: 1167 temp1: 508 temp2: 511 time: 206
+  light: 1167 temp1: 505 temp2: 511 time: 225
+  light: 1164 temp1: 508 temp2: 511 time: 243
+  light: 1183 temp1: 504 temp2: 511 time: 262
+  light: 1164 temp1: 510 temp2: 511 time: 280
+  light: 1151 temp1: 496 temp2: 511 time: 298
+  light: 1151 temp1: 496 temp2: 511 time: 317
+  light: 1148 temp1: 496 temp2: 511 time: 335
+  light: 1159 temp1: 508 temp2: 511 time: 354
+  light: 1155 temp1: 508 temp2: 511 time: 372
+  light: 1151 temp1: 496 temp2: 511 time: 391
+  light: 1151 temp1: 496 temp2: 511 time: 409
+  light: 1183 temp1: 505 temp2: 511 time: 427
+  light: 1153 temp1: 510 temp2: 511 time: 446
+  light: 527 temp1: 515 temp2: 519 time: 464
+  light: 527 temp1: 518 temp2: 521 time: 483
+  light: 527 temp1: 516 temp2: 521 time: 501
+  light: 527 temp1: 515 temp2: 519 time: 520
+  light: 527 temp1: 519 temp2: 519 time: 538
+  light: 527 temp1: 519 temp2: 519 time: 556
+  light: 527 temp1: 515 temp2: 519 time: 575
+  light: 527 temp1: 515 temp2: 519 time: 593
+  light: 527 temp1: 518 temp2: 519 time: 612
+  light: 527 temp1: 515 temp2: 519 time: 630
+  light: 527 temp1: 518 temp2: 519 time: 649
+  light: 1283 temp1: 508 temp2: 511 time: 667
+  light: 1283 temp1: 508 temp2: 511 time: 686
+  light: 1295 temp1: 505 temp2: 511 time: 704
+  light: 1308 temp1: 504 temp2: 511 time: 723
+  light: 1287 temp1: 508 temp2: 511 time: 741
+  light: 1294 temp1: 504 temp2: 511 time: 759
+  light: 1304 temp1: 504 temp2: 511 time: 778
+  light: 1295 temp1: 504 temp2: 511 time: 796
+  light: 1295 temp1: 508 temp2: 511 time: 815
+  light: 1285 temp1: 508 temp2: 511 time: 833
+  light: 1283 temp1: 504 temp2: 515 time: 852
+  light: 1191 temp1: 504 temp2: 511 time: 870
+  light: 1265 temp1: 496 temp2: 511 time: 889
+  light: 1279 temp1: 496 temp2: 511 time: 907
+  light: 1281 temp1: 508 temp2: 511 time: 926
+  light: 1295 temp1: 504 temp2: 511 time: 944
+  light: 1294 temp1: 504 temp2: 511 time: 963
+  light: 1319 temp1: 504 temp2: 511 time: 981
+  light: 1295 temp1: 505 temp2: 511 time: 1000
+  light: 1311 temp1: 504 temp2: 511 time: 1018
+  light: 1287 temp1: 508 temp2: 511 time: 1036
+  light: 1295 temp1: 505 temp2: 511 time: 1055
+  light: 1203 temp1: 504 temp2: 511 time: 1073
+  light: 1336 temp1: 504 temp2: 511 time: 1092
+  light: 1340 temp1: 499 temp2: 511 time: 1110
+  light: 1311 temp1: 504 temp2: 511 time: 1129
+  light: 1329 temp1: 504 temp2: 511 time: 1147
+  light: 1328 temp1: 503 temp2: 511 time: 1166
+  light: 1343 temp1: 497 temp2: 511 time: 1184
+  light: 1340 temp1: 499 temp2: 511 time: 1203
+  light: 1319 temp1: 503 temp2: 511 time: 1221
+  light: 1328 temp1: 499 temp2: 511 time: 1239
+  light: 1328 temp1: 504 temp2: 511 time: 1258
+  light: 1328 temp1: 499 temp2: 511 time: 1276
+  light: 1336 temp1: 499 temp2: 511 time: 1295
+  light: 1340 temp1: 503 temp2: 511 time: 1313
+  light: 1329 temp1: 499 temp2: 511 time: 1332
+  light: 1311 temp1: 504 temp2: 511 time: 1350
+  light: 1343 temp1: 499 temp2: 511 time: 1369
+  light: 1336 temp1: 499 temp2: 511 time: 1387
+  light: 1329 temp1: 504 temp2: 511 time: 1406
+  light: 1331 temp1: 504 temp2: 511 time: 1424
+  light: 1331 temp1: 503 temp2: 511 time: 1443
+  light: 1329 temp1: 499 temp2: 511 time: 1461
+  light: 1328 temp1: 499 temp2: 511 time: 1480
+  light: 1336 temp1: 499 temp2: 511 time: 1498
+  light: 1319 temp1: 499 temp2: 511 time: 1517
+  light: 1345 temp1: 497 temp2: 511 time: 1535
+  light: 1340 temp1: 497 temp2: 511 time: 1554
+  light: 1331 temp1: 499 temp2: 511 time: 1572
+  light: 1328 temp1: 499 temp2: 511 time: 1591
+  light: 1336 temp1: 499 temp2: 511 time: 1609
+  light: 1329 temp1: 499 temp2: 511 time: 1628
+  light: 1328 temp1: 499 temp2: 511 time: 1646
+  light: 1331 temp1: 499 temp2: 511 time: 1665
+  light: 1328 temp1: 499 temp2: 511 time: 1683
+  light: 1331 temp1: 503 temp2: 511 time: 1702
+  light: 1319 temp1: 504 temp2: 511 time: 1720
+  light: 1319 temp1: 503 temp2: 511 time: 1739
+  light: 1326 temp1: 504 temp2: 513 time: 1757
+  light: 1331 temp1: 499 temp2: 511 time: 1776
+  light: 1336 temp1: 499 temp2: 511 time: 1794
+  light: 1328 temp1: 499 temp2: 511 time: 1813
+  light: 1328 temp1: 503 temp2: 510 time: 1831
+  light: 1319 temp1: 504 temp2: 511 time: 1850
+  light: 1326 temp1: 499 temp2: 511 time: 1868
+  light: 1324 temp1: 503 temp2: 511 time: 1887
+  light: 1343 temp1: 499 temp2: 511 time: 1905
+  light: 1319 temp1: 503 temp2: 511 time: 1924
+  light: 1329 temp1: 499 temp2: 511 time: 1942
+  light: 1336 temp1: 499 temp2: 511 time: 1961
+  light: 1328 temp1: 499 temp2: 511 time: 1979
+  light: 1343 temp1: 499 temp2: 511 time: 1998
+  light: 1329 temp1: 499 temp2: 515 time: 2016
+  light: 1319 temp1: 503 temp2: 511 time: 2035
+  light: 1329 temp1: 503 temp2: 511 time: 2053
+  light: 1340 temp1: 503 temp2: 511 time: 2072
+  light: 1319 temp1: 504 temp2: 511 time: 2090
+  light: 1328 temp1: 503 temp2: 511 time: 2109
+  light: 1327 temp1: 499 temp2: 511 time: 2127
+  light: 1328 temp1: 504 temp2: 511 time: 2145
+  light: 1328 temp1: 503 temp2: 511 time: 2164
+  light: 1324 temp1: 504 temp2: 511 time: 2182
+  light: 1319 temp1: 504 temp2: 511 time: 2201
+  light: 1359 temp1: 497 temp2: 515 time: 2219
+  light: 1331 temp1: 499 temp2: 511 time: 2238
+  light: 1345 temp1: 499 temp2: 511 time: 2256
+..
+  stopped.
+
+  Can't open file logo/screen.logo in startup
+
+.print 1234
+  I don't know how to .print
+print 1234
+  1234
+print 1.2
+  1.2
+project "BasicBoard
+  I don't know how to project
+
+project "BasicBoard
+  Start Project:  BasicBoard     Wed Feb 25 11:11:55 PST 2015   unix time:  1424891515335
+
+
+.BasicBoard
+  starting BasicBoard
+  I don't know how to stopvm in init-hardware
+.stovm
+  I don't know how to stovm
+.stopvm
+  I don't know how to stopvm
+stopvm
+  I don't know how to handle-line
+ulogo
+  I don't know how to handle-line
+.ulogo
+.print :jLogoFlag
+  jLogoFlag has no value
+.print :jLogo-flag
+  false
+.stopvm
+  I don't know how to stopvm
+  Welcome of Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Wed Feb 25 11:21:48 PST 2015   unix time:  1424892108399
+  Opening Project  BasicBoard
+  I don't know how to .word in setup-globals
+  heartbeat has no value in ticktask
+  heartbeat has no value in ticktask
+  heartbeat has no value in ticktask
+  heartbeat has no value in ticktask
+  heartbeat has no value in ticktask
+  heartbeat has no value in ticktask
+  heartbeat has no value in ticktask
+  heartbeat has no value in ticktask
+  heartbeat has no value in ticktask
+  heartbeat has no value in ticktask
+  heartbeat has no value in ticktask
+  heartbeat has no value in ticktask
+  Welcome of Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Wed Feb 25 11:24:19 PST 2015   unix time:  1424892259658
+  Opening Project  BasicBoard
+  I don't know how to .word in setup-globals
+  heartbeat has no value in ticktask
+  heartbeat has no value in ticktask
+  heartbeat has no value in ticktask
+..
+  stopped.
+  heartbeat has no value in ticktask
+  heartbeat has no value in ticktask
+..
+  stopped.
+  heartbeat has no value in ticktask
+  heartbeat has no value in ticktask
+  heartbeat has no value in ticktask
+  heartbeat has no value in ticktask
+  heartbeat has no value in ticktask
+  Welcome of Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Wed Feb 25 11:25:45 PST 2015   unix time:  1424892345182
+  Opening Project  BasicBoard
+  I don't know how to .word in setup-globals
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+..
+  stopped.
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+..
+  stopped.
+  who has no value in getstream
+  who has no value in getstream
+
+  who has no value in getstream
+  Welcome of Logo
+]
+  Welcome of Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Wed Feb 25 11:29:15 PST 2015   unix time:  1424892555816
+  Opening Project  BasicBoard
+  I don't know how to .word in setup-globals
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+
+project "BasicBoard
+  Start Project:  BasicBoard     Wed Feb 25 12:29:31 PST 2015   unix time:  1424896171433
+
+.BasicBoard
+  I don't know how to .BasicBoard
+
+.BasicBoard
+  I don't know how to .BasicBoard
+BasicBoard
+  starting BasicBoard
+  I don't know how to stopvm in init-hardware
+  Welcome of Logo
+.project "BasicBoard
+  I don't know how to .project
+project "BasicBoard
+  Start Project:  BasicBoard     Wed Feb 25 12:32:41 PST 2015   unix time:  1424896361582
+  Opening Project  BasicBoard
+  I don't know how to .word in setup-globals
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  Welcome of Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Wed Feb 25 12:37:01 PST 2015   unix time:  1424896621891
+  Welcome of Logo
+  Opening Project  BasicBoard
+  I don't know how to .word in setup-globals
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  Welcome of Logo
+
+ulogo
+  project-name has no value in ulogo
+make "project-name "BasicBoard
+  I don't know how to handle-line
+ulogo
+  I don't know how to handle-line
+sethandleline true
+  I don't know how to handle-line
+.sethandleline true
+ulogo
+  I don't know how to handle-line
+.ulogo
+  project-name has no value in ulogo
+.make "project-name "BasicBoard
+.ulogo
+  Opening Project  BasicBoard
+  I don't know how to .word in setup-globals
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+..
+  stopped.
+  who has no value in getstream
+
+  who has no value in getstream
+  who has no value in getstream
+  Welcome of Logo
+]
+make "run-ulogo true
+sethandleline true ; dot needed for jLogo words - with ulogo code
+make "heartbeat true
+print (se "|Opening Project | :project-name)
+load "logo/compiler
+  busy
+load "logo/decompiler
+  busy
+load "logo/uartcomms
+  busy
+load "logo/screen
+  busy
+load "logo/smplot
+  busy
+load "logo/onewire-packets
+  busy
+  I don't know how to handle-line
+..
+  stopped.
+
+
+make "run-ulogo true
+  I don't know how to handle-line
+sethandleline true ; dot needed for jLogo words - with ulogo code
+make "heartbeat true
+  I don't know how to handle-line
+print (se "|Opening Project | :project-name)
+  I don't know how to handle-line
+load "logo/compiler
+load "logo/decompiler
+  busy
+load "logo/uartcomms
+  busy
+load "logo/screen
+  busy
+load "logo/smplot
+  busy
+load "logo/onewire-packets
+  busy
+  I don't know how to handle-line
+  I don't know how to handle-line
+
+
+sethandleline true
+  I don't know how to handle-line
+.sethandleline true
+.sethandleline false
+make "heartbeat true
+print (se "|Opening Project | :project-name)
+load "logo/compiler
+  project-name has no value
+load "logo/decompiler
+load "logo/uartcomms
+  busy
+load "logo/screen
+  busy
+load "logo/smplot
+  busy
+load "logo/onewire-packets
+  busy
+make "onewire true
+  busy
+load :project-name
+  busy
+
+make "project-name "BasicBoard
+load :project-name
+.BasicBoard
+  I don't know how to .BasicBoard
+BasicBoard
+  starting BasicBoard
+  I don't know how to stopvm in init-hardware
+
+sethandleline true
+.stopvm
+  I don't know how to stopvm
+stopovm
+  stopovm undefined
+stopvm
+  stopvm undefined
+.stopvm
+  I don't know how to stopvm
+print 1234
+  print undefined
+.compile
+  srcpath has no value in compile
+
+
+
+
+  Welcome of Logo
+make "run-ulogo true
+. make "run-ulogo true
+  I don't know how to .
+project "BasicBoard
+  Start Project:  BasicBoard     Wed Feb 25 12:47:32 PST 2015   unix time:  1424897252358
+  Welcome of Logo
+  Opening Project  BasicBoard
+  I don't know how to .word in setup-globals
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+..
+  stopped.
+  who has no value in getstream
+
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  who has no value in getstream
+  Welcome of Logo
+
+load "logo/sm
+  Can't open file logo/sm.logo
+  Can't open file /usr/local/i3/logo/project.logo
+  Can't open file /usr/local/i3/logo/project.logo
+
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Wed Feb 25 13:02:50 PST 2015   unix time:  1424898170142
+  Opening Project  BasicBoard
+  can't open port /dev/ttyUSB0 in open-linux-port
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Wed Feb 25 13:09:21 PST 2015   unix time:  1424898561022
+  Opening Project  BasicBoard
+  can't open port /dev/ttyUSB0 in open-linux-port
+  Welcome to Logo
+project "Heat-Sim
+  Start Project:  Heat-Sim     Wed Feb 25 13:12:05 PST 2015   unix time:  1424898725601
+  Can't open file Heat-Sim.logo in project
+project "BasicBoard
+  Start Project:  BasicBoard     Wed Feb 25 13:12:26 PST 2015   unix time:  1424898746196
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  light: 1272 temp1: 499 temp2: 519 time: 3
+  light: 1251 temp1: 499 temp2: 519 time: 23
+  light: 1260 temp1: 499 temp2: 515 time: 41
+  light: 1255 temp1: 499 temp2: 515 time: 60
+..
+  stopped.
+
+kkkkkkkkkkkkkkk
+  kkkkkkkkkkkkkkk undefined
+
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Wed Feb 25 13:30:07 PST 2015   unix time:  1424899807937
+  Opening Project  BasicBoard
+
+.BasicBoard
+  starting BasicBoard
+  I don't know how to ul-power in init-hardware
+.compile
+  Compiling...
+  1287 bytes
+.download
+  1287 bytes
+greenoff
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Wed Feb 25 13:35:44 PST 2015   unix time:  1424900144979
+  Opening Project  BasicBoard
+
+.BasicBoard
+  starting BasicBoard
+  light: 1283 temp1: 511 temp2: 515 time: 3
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+..
+  stopped.
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Wed Feb 25 14:00:22 PST 2015   unix time:  1424901622729
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  stopvm error
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+,BasicBoard
+  BasicBoard undefined
+.BasicBoard
+  starting BasicBoard
+  stopvm error
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Wed Feb 25 14:01:41 PST 2015   unix time:  1424901701519
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  T42 1424901714 10764 65535 00001 06149 01359 00504 00515
+  light: 1359 temp1: 504 temp2: 515 time: 3
+  exec: java.io.IOException: Cannot run program "./xv": java.io.IOException: error=2, No such file or directory ./xv  -geometry 600x400+1000+100  screen.png in display
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  T42 1424901780 10764 65535 00008 05347 01223 00505 00515
+  light: 1223 temp1: 505 temp2: 515 time: 3
+  exec: java.io.IOException: Cannot run program "./xv": java.io.IOException: error=2, No such file or directory ./xv  -geometry 600x400+1000+100  screen.png in display
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  T42 1424901867 10764 65535 00017 05865 01217 00504 00515
+  light: 1217 temp1: 504 temp2: 515 time: 3
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  T42 1424902027 10764 65535 00034 01775 01240 00504 00515
+  light: 1240 temp1: 504 temp2: 515 time: 3
+,,
+.compile
+..
+  stopped.
+  Compiling...
+  1287 bytes
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.compile
+  Compiling...
+  1287 bytes
+.download
+  1287 bytes
+.BasicBoard
+  starting BasicBoard
+  T42 1424902305 10764 65535 00063 02570 01264 00499 00515
+  light: 1264 temp1: 499 temp2: 515 time: 4
+  T42 1424902324 10764 65535 00064 03573 01240 00504 00515
+  light: 1240 temp1: 504 temp2: 515 time: 22
+  T42 1424902342 10764 65535 00066 05579 01264 00497 00515
+  light: 1264 temp1: 497 temp2: 515 time: 40
+  T42 1424902360 10764 65535 00068 07585 01249 00503 00515
+  light: 1249 temp1: 503 temp2: 515 time: 59
+  T42 1424902379 10764 65535 00070 09591 01248 00503 00515
+  light: 1248 temp1: 503 temp2: 515 time: 77
+  T42 1424902397 10764 65535 00072 00594 01255 00499 00515
+  light: 1255 temp1: 499 temp2: 515 time: 96
+  T42 1424902416 10764 65535 00074 02600 01244 00499 00515
+  light: 1244 temp1: 499 temp2: 515 time: 114
+,,
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+.stopvm
+,,
+..
+  stopped.
+print 1234
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Wed Feb 25 14:16:11 PST 2015   unix time:  1424902571841
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoarsd
+  I don't know how to BasicBoarsd
+.BasicBoard
+  starting BasicBoard
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  T42 1424902740 10764 65535 00017 09399 01328 00504 00515
+  light: 1328 temp1: 504 temp2: 515 time: 3
+..
+  stopped.
+,,
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+.BasicBoard
+  starting BasicBoard
+  T42 1424902801 10764 65535 00024 03701 01272 00497 00515
+  light: 1272 temp1: 497 temp2: 515 time: 3
+  T42 1424902820 10764 65535 00025 04704 01249 00499 00513
+  light: 1249 temp1: 499 temp2: 513 time: 22
+  T42 1424902839 10764 65535 00027 06710 01248 00503 00515
+  light: 1248 temp1: 503 temp2: 515 time: 40
+  T42 1424902857 10764 65535 00029 08716 01264 00499 00515
+  light: 1264 temp1: 499 temp2: 515 time: 59
+  T42 1424902876 10764 65535 00032 00722 01248 00499 00517
+  light: 1248 temp1: 499 temp2: 517 time: 77
+  T42 1424902894 10764 65535 00033 01725 01251 00499 00515
+  light: 1251 temp1: 499 temp2: 515 time: 95
+  T42 1424902913 10764 65535 00035 03731 01247 00499 00515
+  light: 1247 temp1: 499 temp2: 515 time: 114
+  T42 1424902931 10764 65535 00037 05737 01248 00499 00515
+  light: 1248 temp1: 499 temp2: 515 time: 133
+  T42 1424902949 10764 65535 00039 07743 01246 00503 00511
+  light: 1246 temp1: 503 temp2: 511 time: 151
+  T42 1424902968 10764 65535 00040 08746 01264 00499 00515
+  light: 1264 temp1: 499 temp2: 515 time: 169
+  T42 1424902987 10764 65535 00043 00752 01264 00499 00515
+  light: 1264 temp1: 499 temp2: 515 time: 188
+  T42 1424903005 10764 65535 00045 02758 01240 00499 00513
+  light: 1240 temp1: 499 temp2: 513 time: 206
+  T42 1424903023 10764 65535 00047 04764 01231 00504 00511
+  light: 1231 temp1: 504 temp2: 511 time: 225
+  T42 1424903042 10764 65535 00048 05767 01244 00499 00515
+  light: 1244 temp1: 499 temp2: 515 time: 243
+  T42 1424903060 10764 65535 00050 07773 01236 00503 00511
+  light: 1236 temp1: 503 temp2: 511 time: 262
+  T42 1424903079 10764 65535 00052 09779 01248 00499 00515
+  light: 1248 temp1: 499 temp2: 515 time: 280
+  T42 1424903097 10764 65535 00054 00782 01249 00503 00513
+  light: 1249 temp1: 503 temp2: 513 time: 299
+  T42 1424903116 10764 65535 00056 02788 01249 00499 00515
+  light: 1249 temp1: 499 temp2: 515 time: 317
+  T42 1424903134 10764 65535 00058 04794 01276 00499 00515
+  light: 1276 temp1: 499 temp2: 515 time: 336
+  T42 1424903153 10764 65535 00060 06800 01255 00499 00515
+  light: 1255 temp1: 499 temp2: 515 time: 354
+  T42 1424903171 10764 65535 00061 07803 01248 00503 00515
+  light: 1248 temp1: 503 temp2: 515 time: 373
+  T42 1424903190 10764 65535 00063 09809 01249 00499 00515
+  light: 1249 temp1: 499 temp2: 515 time: 391
+  T42 1424903208 10764 65535 00066 01815 01267 00497 00511
+  light: 1267 temp1: 497 temp2: 511 time: 410
+  T42 1424903226 10764 65535 00068 03821 01244 00499 00515
+  light: 1244 temp1: 499 temp2: 515 time: 428
+  T42 1424903245 10764 65535 00069 04824 01244 00499 00515
+  light: 1244 temp1: 499 temp2: 515 time: 446
+  T42 1424903263 10764 65535 00071 06830 01248 00499 00515
+  light: 1248 temp1: 499 temp2: 515 time: 465
+  T42 1424903282 10764 65535 00073 08836 01240 00504 00511
+  light: 1240 temp1: 504 temp2: 511 time: 483
+  T42 1424903300 10764 65535 00076 00842 01247 00499 00511
+  light: 1247 temp1: 499 temp2: 511 time: 502
+  T42 1424903319 10764 65535 00077 01845 01231 00504 00513
+  light: 1231 temp1: 504 temp2: 513 time: 520
+  T42 1424903337 10764 65535 00079 03851 01255 00499 00511
+  light: 1255 temp1: 499 temp2: 511 time: 539
+  T42 1424903356 10764 65535 00081 05857 01215 00504 00515
+  light: 1215 temp1: 504 temp2: 515 time: 557
+  T42 1424903374 10764 65535 00083 07863 01248 00499 00515
+  light: 1248 temp1: 499 temp2: 515 time: 576
+  T42 1424903393 10764 65535 00084 08866 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 594
+  T42 1424903411 10764 65535 00087 00872 01235 00499 00515
+  light: 1235 temp1: 499 temp2: 515 time: 613
+  T42 1424903430 10764 65535 00089 02878 01248 00503 00511
+  light: 1248 temp1: 503 temp2: 511 time: 631
+  T42 1424903448 10764 65535 00091 04884 01247 00503 00511
+  light: 1247 temp1: 503 temp2: 511 time: 650
+  T42 1424903467 10764 65535 00092 05887 01244 00504 00511
+  light: 1244 temp1: 504 temp2: 511 time: 668
+  T42 1424903485 10764 65535 00094 07893 01248 00503 00515
+  light: 1248 temp1: 503 temp2: 515 time: 687
+  T42 1424903504 10764 65535 00096 09899 01248 00499 00515
+  light: 1248 temp1: 499 temp2: 515 time: 705
+  T42 1424903522 10764 65535 00099 01905 01255 00499 00515
+  light: 1255 temp1: 499 temp2: 515 time: 724
+  T42 1424903541 10764 65535 00100 02908 01248 00499 00515
+  light: 1248 temp1: 499 temp2: 515 time: 742
+  T42 1424903559 10764 65535 00102 04914 01255 00499 00515
+  light: 1255 temp1: 499 temp2: 515 time: 761
+  T42 1424903578 10764 65535 00104 06920 01264 00497 00515
+  light: 1264 temp1: 497 temp2: 515 time: 779
+  T42 1424903596 10764 65535 00106 08926 01244 00499 00511
+  light: 1244 temp1: 499 temp2: 511 time: 798
+  T42 1424903615 10764 65535 00107 09929 01244 00499 00513
+  light: 1244 temp1: 499 temp2: 513 time: 816
+  T42 1424903633 10764 65535 00110 01935 01223 00503 00511
+  light: 1223 temp1: 503 temp2: 511 time: 835
+  T42 1424903652 10764 65535 00112 03941 01236 00499 00515
+  light: 1236 temp1: 499 temp2: 515 time: 853
+  T42 1424903670 10764 65535 00114 05947 01272 00499 00515
+  light: 1272 temp1: 499 temp2: 515 time: 872
+  T42 1424903689 10764 65535 00115 06950 01248 00503 00515
+  light: 1248 temp1: 503 temp2: 515 time: 890
+  T42 1424903707 10764 65535 00117 08956 01248 00503 00511
+  light: 1248 temp1: 503 temp2: 511 time: 909
+  T42 1424903725 10764 65535 00120 00962 01223 00504 00511
+  light: 1223 temp1: 504 temp2: 511 time: 927
+  T42 1424903744 10764 65535 00121 01965 01240 00504 00515
+  light: 1240 temp1: 504 temp2: 515 time: 946
+  T42 1424903762 10764 65535 00123 03971 01235 00504 00511
+  light: 1235 temp1: 504 temp2: 511 time: 964
+  T42 1424903781 10764 65535 00125 05977 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 982
+  T42 1424903799 10764 65535 00127 07983 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 1001
+  T42 1424903818 10764 65535 00128 08986 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 1019
+  T42 1424903836 10764 65535 00131 00992 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 1038
+  T42 1424903855 10764 65535 00133 02998 01247 00499 00515
+  light: 1247 temp1: 499 temp2: 515 time: 1056
+  T42 1424903873 10764 65535 00135 05004 01240 00503 00515
+  light: 1240 temp1: 503 temp2: 515 time: 1075
+  T42 1424903892 10764 65535 00136 06007 01244 00499 00515
+  light: 1244 temp1: 499 temp2: 515 time: 1093
+  T42 1424903910 10764 65535 00138 08013 01240 00504 00515
+  light: 1240 temp1: 504 temp2: 515 time: 1112
+  T42 1424903929 10764 65535 00141 00019 01255 00499 00515
+  light: 1255 temp1: 499 temp2: 515 time: 1130
+  T42 1424903947 10764 65535 00143 02025 01230 00504 00515
+  light: 1230 temp1: 504 temp2: 515 time: 1149
+  T42 1424903966 10764 65535 00144 03028 01223 00504 00515
+  light: 1223 temp1: 504 temp2: 515 time: 1167
+  T42 1424903984 10764 65535 00146 05034 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 1186
+  T42 1424904003 10764 65535 00148 07040 01248 00503 00515
+  light: 1248 temp1: 503 temp2: 515 time: 1204
+  T42 1424904021 10764 65535 00150 09046 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 1223
+  T42 1424904040 10764 65535 00152 00049 01240 00499 00511
+  light: 1240 temp1: 499 temp2: 511 time: 1241
+  T42 1424904058 10764 65535 00154 02055 01240 00503 00511
+  light: 1240 temp1: 503 temp2: 511 time: 1260
+  T42 1424904077 10764 65535 00156 04061 01231 00504 00511
+  light: 1231 temp1: 504 temp2: 511 time: 1278
+  T42 1424904095 10764 65535 00158 06067 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 1297
+..
+  stopped.
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Wed Feb 25 14:56:12 PST 2015   unix time:  1424904972754
+  Opening Project  BasicBoard
+.BasicBoard
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Wed Feb 25 14:56:42 PST 2015   unix time:  1424905002227
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  T42 1424905013 10764 65535 00001 06279 01368 00499 00511
+  light: 1368 temp1: 499 temp2: 511 time: 3
+  T42 1424905032 10764 65535 00002 07282 01208 00504 00511
+  light: 1208 temp1: 504 temp2: 511 time: 23
+  T42 1424905051 10764 65535 00004 09288 01208 00508 00511
+  light: 1208 temp1: 508 temp2: 511 time: 41
+  T42 1424905069 10764 65535 00007 01294 01217 00504 00515
+  light: 1217 temp1: 504 temp2: 515 time: 60
+  T42 1424905088 10764 65535 00009 03300 01217 00504 00513
+  light: 1217 temp1: 504 temp2: 513 time: 78
+  T42 1424905106 10764 65535 00010 04303 01219 00504 00513
+  light: 1219 temp1: 504 temp2: 513 time: 97
+  T42 1424905125 10764 65535 00012 06309 01231 00504 00511
+  light: 1231 temp1: 504 temp2: 511 time: 115
+  T42 1424905143 10764 65535 00014 08315 01223 00504 00515
+  light: 1223 temp1: 504 temp2: 515 time: 134
+  T42 1424905162 10764 65535 00017 00321 01198 00508 00511
+  light: 1198 temp1: 508 temp2: 511 time: 152
+  T42 1424905180 10764 65535 00018 01324 01191 00508 00511
+  light: 1191 temp1: 508 temp2: 511 time: 171
+  T42 1424905199 10764 65535 00020 03330 01201 00504 00511
+  light: 1201 temp1: 504 temp2: 511 time: 189
+  T42 1424905217 10764 65535 00022 05336 01223 00504 00511
+  light: 1223 temp1: 504 temp2: 511 time: 208
+  T42 1424905236 10764 65535 00024 07342 01217 00504 00515
+  light: 1217 temp1: 504 temp2: 515 time: 226
+  T42 1424905254 10764 65535 00025 08345 01231 00503 00515
+  light: 1231 temp1: 503 temp2: 515 time: 245
+  T42 1424905273 10764 65535 00028 00351 01235 00499 00515
+  light: 1235 temp1: 499 temp2: 515 time: 263
+  T42 1424905291 10764 65535 00030 02357 01249 00499 00515
+  light: 1249 temp1: 499 temp2: 515 time: 282
+  T42 1424905310 10764 65535 00032 04363 01255 00499 00513
+  light: 1255 temp1: 499 temp2: 513 time: 300
+  T42 1424905328 10764 65535 00033 05366 01248 00499 00511
+  light: 1248 temp1: 499 temp2: 511 time: 319
+  T42 1424905347 10764 65535 00035 07372 01244 00503 00515
+  light: 1244 temp1: 503 temp2: 515 time: 337
+  T42 1424905365 10764 65535 00037 09378 01247 00499 00515
+  light: 1247 temp1: 499 temp2: 515 time: 356
+  T42 1424905384 10764 65535 00040 01384 01248 00499 00515
+  light: 1248 temp1: 499 temp2: 515 time: 374
+  T42 1424905402 10764 65535 00041 02387 01244 00503 00511
+  light: 1244 temp1: 503 temp2: 511 time: 393
+  T42 1424905421 10764 65535 00043 04393 01231 00504 00511
+  light: 1231 temp1: 504 temp2: 511 time: 411
+  T42 1424905439 10764 65535 00045 06399 01244 00499 00515
+  light: 1244 temp1: 499 temp2: 515 time: 430
+  T42 1424905458 10764 65535 00047 08405 01228 00504 00513
+  light: 1228 temp1: 504 temp2: 513 time: 448
+  T42 1424905476 10764 65535 00048 09408 01216 00504 00515
+  light: 1216 temp1: 504 temp2: 515 time: 467
+  T42 1424905495 10764 65535 00051 01414 01217 00504 00511
+  light: 1217 temp1: 504 temp2: 511 time: 485
+  T42 1424905513 10764 65535 00053 03420 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 504
+  T42 1424905532 10764 65535 00055 05426 01228 00505 00511
+  light: 1228 temp1: 505 temp2: 511 time: 522
+  T42 1424905550 10764 65535 00056 06429 01231 00504 00511
+  light: 1231 temp1: 504 temp2: 511 time: 541
+  T42 1424905569 10764 65535 00058 08435 01248 00499 00515
+  light: 1248 temp1: 499 temp2: 515 time: 559
+  T42 1424905587 10764 65535 00061 00441 01240 00499 00515
+  light: 1240 temp1: 499 temp2: 515 time: 577
+  T42 1424905605 10764 65535 00063 02447 01244 00499 00511
+  light: 1244 temp1: 499 temp2: 511 time: 596
+  T42 1424905624 10764 65535 00064 03450 01235 00499 00515
+  light: 1235 temp1: 499 temp2: 515 time: 614
+  T42 1424905642 10764 65535 00066 05456 01231 00503 00511
+  light: 1231 temp1: 503 temp2: 511 time: 633
+  T42 1424905661 10764 65535 00068 07462 01231 00503 00511
+  light: 1231 temp1: 503 temp2: 511 time: 651
+  T42 1424905679 10764 65535 00069 08465 01231 00504 00511
+  light: 1231 temp1: 504 temp2: 511 time: 670
+  T42 1424905698 10764 65535 00072 00471 01240 00499 00515
+  light: 1240 temp1: 499 temp2: 515 time: 688
+  T42 1424905716 10764 65535 00074 02477 01240 00503 00511
+  light: 1240 temp1: 503 temp2: 511 time: 707
+  T42 1424905735 10764 65535 00076 04483 01231 00503 00511
+  light: 1231 temp1: 503 temp2: 511 time: 725
+  T42 1424905753 10764 65535 00077 05486 01235 00499 00511
+  light: 1235 temp1: 499 temp2: 511 time: 744
+  T42 1424905772 10764 65535 00079 07492 01231 00504 00511
+  light: 1231 temp1: 504 temp2: 511 time: 762
+  T42 1424905790 10764 65535 00081 09498 01223 00503 00511
+  light: 1223 temp1: 503 temp2: 511 time: 781
+  T42 1424905809 10764 65535 00084 01504 01223 00503 00511
+  light: 1223 temp1: 503 temp2: 511 time: 799
+  T42 1424905827 10764 65535 00085 02507 01244 00499 00513
+  light: 1244 temp1: 499 temp2: 513 time: 818
+  T42 1424905846 10764 65535 00087 04513 01231 00503 00511
+  light: 1231 temp1: 503 temp2: 511 time: 836
+  T42 1424905864 10764 65535 00089 06519 01223 00504 00515
+  light: 1223 temp1: 504 temp2: 515 time: 855
+  T42 1424905883 10764 65535 00091 08525 01231 00503 00515
+  light: 1231 temp1: 503 temp2: 515 time: 873
+  T42 1424905901 10764 65535 00092 09528 01231 00503 00511
+  light: 1231 temp1: 503 temp2: 511 time: 892
+  T42 1424905920 10764 65535 00095 01534 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 910
+  T42 1424905938 10764 65535 00097 03540 01235 00504 00513
+  light: 1235 temp1: 504 temp2: 513 time: 929
+  T42 1424905957 10764 65535 00099 05546 01244 00499 00515
+  light: 1244 temp1: 499 temp2: 515 time: 947
+  T42 1424905975 10764 65535 00100 06549 01223 00504 00511
+  light: 1223 temp1: 504 temp2: 511 time: 966
+  T42 1424905994 10764 65535 00102 08555 01231 00503 00515
+  light: 1231 temp1: 503 temp2: 515 time: 984
+  T42 1424906012 10764 65535 00105 00561 01231 00503 00515
+  light: 1231 temp1: 503 temp2: 515 time: 1003
+  T42 1424906031 10764 65535 00107 02567 01240 00503 00511
+  light: 1240 temp1: 503 temp2: 511 time: 1021
+  T42 1424906049 10764 65535 00108 03570 01231 00503 00511
+  light: 1231 temp1: 503 temp2: 511 time: 1040
+  T42 1424906068 10764 65535 00110 05576 01251 00499 00511
+  light: 1251 temp1: 499 temp2: 511 time: 1058
+  T42 1424906086 10764 65535 00112 07582 01231 00499 00515
+  light: 1231 temp1: 499 temp2: 515 time: 1077
+  T42 1424906105 10764 65535 00114 09588 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 1095
+  T42 1424906123 10764 65535 00116 00591 01231 00504 00511
+  light: 1231 temp1: 504 temp2: 511 time: 1114
+  T42 1424906142 10764 65535 00118 02597 01248 00499 00515
+  light: 1248 temp1: 499 temp2: 515 time: 1132
+  T42 1424906160 10764 65535 00120 04603 01231 00503 00513
+  light: 1231 temp1: 503 temp2: 513 time: 1151
+  T42 1424906179 10764 65535 00122 06609 01240 00499 00513
+  light: 1240 temp1: 499 temp2: 513 time: 1169
+  T42 1424906197 10764 65535 00123 07612 01240 00499 00513
+  light: 1240 temp1: 499 temp2: 513 time: 1188
+  T42 1424906216 10764 65535 00125 09618 01231 00503 00515
+  light: 1231 temp1: 503 temp2: 515 time: 1206
+  T42 1424906234 10764 65535 00128 01624 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 1225
+  T42 1424906253 10764 65535 00130 03630 01248 00499 00511
+  light: 1248 temp1: 499 temp2: 511 time: 1243
+  T42 1424906271 10764 65535 00131 04633 01235 00504 00511
+  light: 1235 temp1: 504 temp2: 511 time: 1262
+  T42 1424906290 10764 65535 00133 06639 01240 00504 00511
+  light: 1240 temp1: 504 temp2: 511 time: 1280
+  T42 1424906308 10764 65535 00135 08645 01231 00499 00515
+  light: 1231 temp1: 499 temp2: 515 time: 1299
+  T42 1424906327 10764 65535 00138 00651 01239 00499 00511
+  light: 1239 temp1: 499 temp2: 511 time: 1317
+  T42 1424906345 10764 65535 00139 01654 01231 00499 00511
+  light: 1231 temp1: 499 temp2: 511 time: 1336
+  T42 1424906364 10764 65535 00141 03660 01220 00504 00511
+  light: 1220 temp1: 504 temp2: 511 time: 1354
+  T42 1424906382 10764 65535 00143 05666 01223 00503 00511
+  light: 1223 temp1: 503 temp2: 511 time: 1373
+  T42 1424906401 10764 65535 00145 07672 01223 00504 00511
+  light: 1223 temp1: 504 temp2: 511 time: 1391
+  T42 1424906419 10764 65535 00146 08675 01217 00504 00511
+  light: 1217 temp1: 504 temp2: 511 time: 1409
+  T42 1424906437 10764 65535 00149 00681 01208 00504 00511
+  light: 1208 temp1: 504 temp2: 511 time: 1428
+  T42 1424906456 10764 65535 00151 02687 01200 00505 00511
+  light: 1200 temp1: 505 temp2: 511 time: 1446
+  T42 1424906474 10764 65535 00153 04693 01208 00504 00511
+  light: 1208 temp1: 504 temp2: 511 time: 1465
+  T42 1424906493 10764 65535 00154 05696 01215 00504 00511
+  light: 1215 temp1: 504 temp2: 511 time: 1483
+  T42 1424906511 10764 65535 00156 07702 01223 00504 00511
+  light: 1223 temp1: 504 temp2: 511 time: 1502
+  T42 1424906530 10764 65535 00158 09708 01231 00499 00511
+  light: 1231 temp1: 499 temp2: 511 time: 1520
+  T42 1424906548 10764 65535 00161 01714 01240 00499 00511
+  light: 1240 temp1: 499 temp2: 511 time: 1539
+  T42 1424906567 10764 65535 00162 02717 01240 00499 00511
+  light: 1240 temp1: 499 temp2: 511 time: 1557
+  T42 1424906585 10764 65535 00164 04723 01244 00499 00515
+  light: 1244 temp1: 499 temp2: 515 time: 1576
+  T42 1424906604 10764 65535 00166 06729 01231 00503 00511
+  light: 1231 temp1: 503 temp2: 511 time: 1594
+  T42 1424906622 10764 65535 00167 07732 01240 00499 00513
+  light: 1240 temp1: 499 temp2: 513 time: 1613
+  T42 1424906641 10764 65535 00169 09738 01235 00503 00511
+  light: 1235 temp1: 503 temp2: 511 time: 1631
+  T42 1424906659 10764 65535 00172 01744 01240 00503 00511
+  light: 1240 temp1: 503 temp2: 511 time: 1650
+  T42 1424906678 10764 65535 00174 03750 01231 00504 00511
+  light: 1231 temp1: 504 temp2: 511 time: 1668
+  T42 1424906696 10764 65535 00175 04753 01223 00504 00511
+  light: 1223 temp1: 504 temp2: 511 time: 1687
+  T42 1424906715 10764 65535 00177 06759 01231 00504 00511
+  light: 1231 temp1: 504 temp2: 511 time: 1705
+  T42 1424906733 10764 65535 00179 08765 01215 00504 00511
+  light: 1215 temp1: 504 temp2: 511 time: 1724
+  T42 1424906752 10764 65535 00182 00771 01219 00504 00511
+  light: 1219 temp1: 504 temp2: 511 time: 1742
+  T42 1424906770 10764 65535 00183 01774 01212 00504 00511
+  light: 1212 temp1: 504 temp2: 511 time: 1761
+  T42 1424906789 10764 65535 00185 03780 01217 00504 00511
+  light: 1217 temp1: 504 temp2: 511 time: 1779
+  T42 1424906807 10764 65535 00187 05786 01215 00504 00511
+  light: 1215 temp1: 504 temp2: 511 time: 1798
+  T42 1424906826 10764 65535 00189 07792 01203 00504 00511
+  light: 1203 temp1: 504 temp2: 511 time: 1816
+  T42 1424906844 10764 65535 00190 08795 01216 00505 00511
+  light: 1216 temp1: 505 temp2: 511 time: 1835
+  T42 1424906863 10764 65535 00193 00801 01212 00505 00511
+  light: 1212 temp1: 505 temp2: 511 time: 1853
+  T42 1424906881 10764 65535 00195 02807 01219 00504 00511
+  light: 1219 temp1: 504 temp2: 511 time: 1872
+  T42 1424906900 10764 65535 00197 04813 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 1891
+  T42 1424906919 10764 65535 00198 05816 01231 00503 00511
+  light: 1231 temp1: 503 temp2: 511 time: 1909
+  T42 1424906937 10764 65535 00200 07822 01223 00504 00511
+  light: 1223 temp1: 504 temp2: 511 time: 1928
+  T42 1424906956 10764 65535 00202 09828 01223 00504 00515
+  light: 1223 temp1: 504 temp2: 515 time: 1946
+  T42 1424906974 10764 65535 00205 01834 01235 00499 00511
+  light: 1235 temp1: 499 temp2: 511 time: 1965
+  T42 1424906992 10764 65535 00206 02837 01217 00505 00511
+  light: 1217 temp1: 505 temp2: 511 time: 1983
+  T42 1424907011 10764 65535 00208 04843 01215 00504 00515
+  light: 1215 temp1: 504 temp2: 515 time: 2001
+  T42 1424907029 10764 65535 00210 06849 01212 00504 00511
+  light: 1212 temp1: 504 temp2: 511 time: 2020
+  T42 1424907048 10764 65535 00212 08855 01200 00504 00511
+  light: 1200 temp1: 504 temp2: 511 time: 2038
+  T42 1424907067 10764 65535 00213 09858 01216 00504 00511
+  light: 1216 temp1: 504 temp2: 511 time: 2057
+  T42 1424907085 10764 65535 00216 01864 01203 00504 00511
+  light: 1203 temp1: 504 temp2: 511 time: 2076
+  T42 1424907104 10764 65535 00218 03870 01217 00504 00513
+  light: 1217 temp1: 504 temp2: 513 time: 2094
+  T42 1424907122 10764 65535 00220 05876 01223 00499 00511
+  light: 1223 temp1: 499 temp2: 511 time: 2112
+  T42 1424907140 10764 65535 00221 06879 01231 00499 00511
+  light: 1231 temp1: 499 temp2: 511 time: 2131
+  T42 1424907159 10764 65535 00223 08885 01244 00499 00511
+  light: 1244 temp1: 499 temp2: 511 time: 2150
+  T42 1424907178 10764 65535 00226 00891 01255 00499 00511
+  light: 1255 temp1: 499 temp2: 511 time: 2168
+  T42 1424907196 10764 65535 00228 02897 01231 00499 00511
+  light: 1231 temp1: 499 temp2: 511 time: 2187
+  T42 1424907215 10764 65535 00229 03900 01231 00499 00515
+  light: 1231 temp1: 499 temp2: 515 time: 2205
+  T42 1424907233 10764 65535 00231 05906 01240 00499 00511
+  light: 1240 temp1: 499 temp2: 511 time: 2224
+  T42 1424907252 10764 65535 00233 07912 01240 00499 00513
+  light: 1240 temp1: 499 temp2: 513 time: 2242
+  T42 1424907270 10764 65535 00235 09918 01244 00499 00515
+  light: 1244 temp1: 499 temp2: 515 time: 2261
+  T42 1424907289 10764 65535 00237 00921 01244 00499 00511
+  light: 1244 temp1: 499 temp2: 511 time: 2279
+  T42 1424907307 10764 65535 00239 02927 01248 00499 00511
+  light: 1248 temp1: 499 temp2: 511 time: 2298
+  T42 1424907326 10764 65535 00241 04933 01244 00499 00511
+  light: 1244 temp1: 499 temp2: 511 time: 2316
+  T42 1424907344 10764 65535 00243 06939 01244 00499 00511
+  light: 1244 temp1: 499 temp2: 511 time: 2335
+  T42 1424907363 10764 65535 00244 07942 01244 00499 00511
+  light: 1244 temp1: 499 temp2: 511 time: 2353
+  T42 1424907381 10764 65535 00246 09948 01240 00499 00515
+  light: 1240 temp1: 499 temp2: 515 time: 2372
+  T42 1424907400 10764 65535 00249 01954 01251 00499 00511
+  light: 1251 temp1: 499 temp2: 511 time: 2390
+  T42 1424907418 10764 65535 00251 03960 01255 00499 00511
+  light: 1255 temp1: 499 temp2: 511 time: 2409
+  T42 1424907437 10764 65535 00252 04963 01248 00499 00511
+  light: 1248 temp1: 499 temp2: 511 time: 2427
+  T42 1424907455 10764 65535 00254 06969 01240 00499 00515
+  light: 1240 temp1: 499 temp2: 515 time: 2446
+  T42 1424907474 10764 65535 00256 08975 01240 00499 00513
+  light: 1240 temp1: 499 temp2: 513 time: 2464
+  T42 1424907492 10764 65535 00259 00981 01231 00499 00511
+  light: 1231 temp1: 499 temp2: 511 time: 2483
+  T42 1424907511 10764 65535 00260 01984 01231 00499 00511
+  light: 1231 temp1: 499 temp2: 511 time: 2501
+  T42 1424907529 10764 65535 00262 03990 01231 00499 00511
+  light: 1231 temp1: 499 temp2: 511 time: 2520
+  T42 1424907548 10764 65535 00264 05996 01223 00504 00511
+  light: 1223 temp1: 504 temp2: 511 time: 2538
+  T42 1424907566 10764 65535 00266 08002 01208 00504 00511
+  light: 1208 temp1: 504 temp2: 511 time: 2557
+  T42 1424907585 10764 65535 00267 09005 01216 00504 00515
+  light: 1216 temp1: 504 temp2: 515 time: 2575
+  T42 1424907603 10764 65535 00270 01011 01217 00504 00515
+  light: 1217 temp1: 504 temp2: 515 time: 2594
+  T42 1424907622 10764 65535 00272 03017 01215 00504 00513
+  light: 1215 temp1: 504 temp2: 513 time: 2612
+  T42 1424907640 10764 65535 00274 05023 01208 00504 00511
+  light: 1208 temp1: 504 temp2: 511 time: 2631
+  T42 1424907659 10764 65535 00275 06026 01223 00504 00511
+  light: 1223 temp1: 504 temp2: 511 time: 2649
+  T42 1424907677 10764 65535 00277 08032 01231 00504 00511
+  light: 1231 temp1: 504 temp2: 511 time: 2668
+  T42 1424907696 10764 65535 00280 00038 01223 00504 00511
+  light: 1223 temp1: 504 temp2: 511 time: 2686
+  T42 1424907715 10764 65535 00282 02044 01231 00499 00515
+  light: 1231 temp1: 499 temp2: 515 time: 2705
+  T42 1424907733 10764 65535 00283 03047 01231 00504 00511
+  light: 1231 temp1: 504 temp2: 511 time: 2724
+  T42 1424907752 10764 65535 00285 05053 01255 00497 00511
+  light: 1255 temp1: 497 temp2: 511 time: 2742
+  T42 1424907770 10764 65535 00287 07059 01255 00497 00515
+  light: 1255 temp1: 497 temp2: 515 time: 2761
+  T42 1424907789 10764 65535 00289 09065 01264 00497 00515
+  light: 1264 temp1: 497 temp2: 515 time: 2779
+  T42 1424907807 10764 65535 00291 00068 01255 00499 00513
+  light: 1255 temp1: 499 temp2: 513 time: 2798
+  T42 1424907826 10764 65535 00293 02074 01255 00499 00513
+  light: 1255 temp1: 499 temp2: 513 time: 2816
+  T42 1424907844 10764 65535 00295 04080 01264 00497 00515
+  light: 1264 temp1: 497 temp2: 515 time: 2835
+  T42 1424907863 10764 65535 00297 06086 01248 00499 00515
+  light: 1248 temp1: 499 temp2: 515 time: 2853
+  T42 1424907881 10764 65535 00298 07089 01240 00499 00511
+  light: 1240 temp1: 499 temp2: 511 time: 2872
+  T42 1424907900 10764 65535 00300 09095 01248 00499 00513
+  light: 1248 temp1: 499 temp2: 513 time: 2890
+  T42 1424907918 10764 65535 00303 01101 01249 00499 00513
+  light: 1249 temp1: 499 temp2: 513 time: 2909
+  T42 1424907937 10764 65535 00305 03107 01246 00499 00511
+  light: 1246 temp1: 499 temp2: 511 time: 2927
+  T42 1424907955 10764 65535 00306 04110 01248 00499 00511
+  light: 1248 temp1: 499 temp2: 511 time: 2946
+  T42 1424907974 10764 65535 00308 06116 01231 00505 00511
+  light: 1231 temp1: 505 temp2: 511 time: 2964
+  T42 1424907992 10764 65535 00310 08122 01240 00504 00511
+  light: 1240 temp1: 504 temp2: 511 time: 2983
+  T42 1424908011 10764 65535 00313 00128 01248 00499 00515
+  light: 1248 temp1: 499 temp2: 515 time: 3001
+  T42 1424908030 10764 65535 00314 01131 01248 00499 00515
+  light: 1248 temp1: 499 temp2: 515 time: 3020
+  T42 1424908048 10764 65535 00316 03137 01231 00504 00511
+  light: 1231 temp1: 504 temp2: 511 time: 3039
+  T42 1424908067 10764 65535 00318 05143 01968 00511 00515
+  light: 1968 temp1: 511 temp2: 515 time: 3057
+  T42 1424908085 10764 65535 00320 07149 01968 00511 00515
+  light: 1968 temp1: 511 temp2: 515 time: 3076
+  T42 1424908103 10764 65535 00321 08152 01968 00511 00511
+  light: 1968 temp1: 511 temp2: 511 time: 3094
+  T42 1424908122 10764 65535 00324 00158 01968 00511 00515
+  light: 1968 temp1: 511 temp2: 515 time: 3112
+  T42 1424908141 10764 65535 00326 02164 01968 00511 00511
+  light: 1968 temp1: 511 temp2: 511 time: 3131
+  T42 1424908159 10764 65535 00328 04170 01968 00511 00511
+  light: 1968 temp1: 511 temp2: 511 time: 3150
+  T42 1424908178 10764 65535 00329 05173 01968 00511 00511
+  light: 1968 temp1: 511 temp2: 511 time: 3168
+  T42 1424908196 10764 65535 00331 07179 01968 00515 00527
+  light: 1968 temp1: 515 temp2: 527 time: 3187
+  T42 1424908215 10764 65535 00333 09185 01984 00524 00524
+  light: 1984 temp1: 524 temp2: 524 time: 3205
+  T42 1424908233 10764 65535 00336 01191 01968 00511 00515
+  light: 1968 temp1: 511 temp2: 515 time: 3224
+  T42 1424908252 10764 65535 00337 02194 01968 00511 00515
+  light: 1968 temp1: 511 temp2: 515 time: 3242
+  T42 1424908270 10764 65535 00339 04200 01968 00517 00527
+  light: 1968 temp1: 517 temp2: 527 time: 3261
+  T42 1424908289 10764 65535 00341 06206 01969 00513 00527
+  light: 1969 temp1: 513 temp2: 527 time: 3279
+  T42 1424908307 10764 65535 00343 08212 01976 00515 00527
+  light: 1976 temp1: 515 temp2: 527 time: 3298
+  T42 1424908326 10764 65535 00344 09215 01968 00511 00515
+  light: 1968 temp1: 511 temp2: 515 time: 3316
+  T42 1424908344 10764 65535 00347 01221 01968 00511 00515
+  light: 1968 temp1: 511 temp2: 515 time: 3335
+  T42 1424908363 10764 65535 00349 03227 01969 00519 00527
+  light: 1969 temp1: 519 temp2: 527 time: 3353
+  T42 1424908381 10764 65535 00351 05233 01968 00516 00527
+  light: 1968 temp1: 516 temp2: 527 time: 3372
+  T42 1424908400 10764 65535 00352 06236 01968 00515 00527
+  light: 1968 temp1: 515 temp2: 527 time: 3390
+  T42 1424908418 10764 65535 00354 08242 01968 00511 00518
+  light: 1968 temp1: 511 temp2: 518 time: 3409
+  T42 1424908437 10764 65535 00357 00248 01969 00515 00527
+  light: 1969 temp1: 515 temp2: 527 time: 3427
+  T42 1424908455 10764 65535 00358 01251 01244 00510 00515
+  light: 1244 temp1: 510 temp2: 515 time: 3446
+  T42 1424908474 10764 65535 00360 03257 01231 00511 00515
+  light: 1231 temp1: 511 temp2: 515 time: 3464
+  T42 1424908492 10764 65535 00362 05263 01235 00508 00515
+  light: 1235 temp1: 508 temp2: 515 time: 3483
+  T42 1424908511 10764 65535 00364 07269 01231 00508 00515
+  light: 1231 temp1: 508 temp2: 515 time: 3501
+  T42 1424908529 10764 65535 00365 08272 01231 00508 00519
+  light: 1231 temp1: 508 temp2: 519 time: 3520
+  T42 1424908548 10764 65535 00368 00278 01223 00508 00515
+  light: 1223 temp1: 508 temp2: 515 time: 3538
+  T42 1424908566 10764 65535 00370 02284 01223 00511 00515
+  light: 1223 temp1: 511 temp2: 515 time: 3557
+  T42 1424908585 10764 65535 00372 04290 01208 00511 00511
+  light: 1208 temp1: 511 temp2: 511 time: 3575
+  T42 1424908603 10764 65535 00373 05293 01215 00508 00515
+  light: 1215 temp1: 508 temp2: 515 time: 3594
+  T42 1424908622 10764 65535 00375 07299 01231 00508 00519
+  light: 1231 temp1: 508 temp2: 519 time: 3612
+  T42 1424908640 10764 65535 00377 09305 01216 00510 00515
+  light: 1216 temp1: 510 temp2: 515 time: 3631
+  T42 1424908659 10764 65535 00380 01311 01217 00508 00515
+  light: 1217 temp1: 508 temp2: 515 time: 3649
+  T42 1424908677 10764 65535 00381 02314 01231 00508 00515
+  light: 1231 temp1: 508 temp2: 515 time: 3668
+  T42 1424908696 10764 65535 00383 04320 01215 00505 00515
+  light: 1215 temp1: 505 temp2: 515 time: 3686
+  T42 1424908715 10764 65535 00385 06326 01217 00508 00516
+  light: 1217 temp1: 508 temp2: 516 time: 3705
+  T42 1424908733 10764 65535 00387 08332 01215 00508 00517
+  light: 1215 temp1: 508 temp2: 517 time: 3724
+  T42 1424908752 10764 65535 00388 09335 01208 00508 00515
+  light: 1208 temp1: 508 temp2: 515 time: 3742
+  T42 1424908770 10764 65535 00391 01341 01212 00510 00515
+  light: 1212 temp1: 510 temp2: 515 time: 3760
+  T42 1424908788 10764 65535 00393 03347 01200 00511 00511
+  light: 1200 temp1: 511 temp2: 511 time: 3779
+  T42 1424908807 10764 65535 00395 05353 01208 00508 00515
+  light: 1208 temp1: 508 temp2: 515 time: 3797
+  T42 1424908825 10764 65535 00396 06356 01191 00511 00511
+  light: 1191 temp1: 511 temp2: 511 time: 3816
+  T42 1424908844 10764 65535 00398 08362 01203 00508 00513
+  light: 1203 temp1: 508 temp2: 513 time: 3834
+  T42 1424908863 10764 65535 00401 00368 01201 00511 00515
+  light: 1201 temp1: 511 temp2: 515 time: 3853
+  T42 1424908881 10764 65535 00403 02374 01208 00508 00515
+  light: 1208 temp1: 508 temp2: 515 time: 3871
+  T42 1424908900 10764 65535 00404 03377 01212 00505 00511
+  light: 1212 temp1: 505 temp2: 511 time: 3890
+  T42 1424908918 10764 65535 00406 05383 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 3909
+  T42 1424908937 10764 65535 00408 07389 01212 00508 00515
+  light: 1212 temp1: 508 temp2: 515 time: 3927
+  T42 1424908955 10764 65535 00410 09395 01223 00504 00515
+  light: 1223 temp1: 504 temp2: 515 time: 3946
+  T42 1424908974 10764 65535 00412 00398 01215 00508 00515
+  light: 1215 temp1: 508 temp2: 515 time: 3964
+  T42 1424908992 10764 65535 00414 02404 01223 00505 00515
+  light: 1223 temp1: 505 temp2: 515 time: 3983
+  T42 1424909011 10764 65535 00416 04410 01223 00504 00515
+  light: 1223 temp1: 504 temp2: 515 time: 4001
+  T42 1424909029 10764 65535 00418 06416 01223 00508 00515
+  light: 1223 temp1: 508 temp2: 515 time: 4020
+  T42 1424909048 10764 65535 00419 07419 01230 00504 00515
+  light: 1230 temp1: 504 temp2: 515 time: 4038
+  T42 1424909066 10764 65535 00421 09425 01223 00504 00515
+  light: 1223 temp1: 504 temp2: 515 time: 4057
+  T42 1424909085 10764 65535 00424 01431 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 4075
+  T42 1424909103 10764 65535 00426 03437 01217 00505 00515
+  light: 1217 temp1: 505 temp2: 515 time: 4094
+  T42 1424909122 10764 65535 00427 04440 01223 00505 00515
+  light: 1223 temp1: 505 temp2: 515 time: 4112
+  T42 1424909140 10764 65535 00429 06446 01230 00504 00515
+  light: 1230 temp1: 504 temp2: 515 time: 4131
+  T42 1424909159 10764 65535 00431 08452 01216 00505 00515
+  light: 1216 temp1: 505 temp2: 515 time: 4149
+  T42 1424909177 10764 65535 00434 00458 01217 00504 00515
+  light: 1217 temp1: 504 temp2: 515 time: 4168
+  T42 1424909196 10764 65535 00435 01461 01223 00505 00515
+  light: 1223 temp1: 505 temp2: 515 time: 4186
+  T42 1424909214 10764 65535 00437 03467 01223 00504 00517
+  light: 1223 temp1: 504 temp2: 517 time: 4205
+  T42 1424909233 10764 65535 00439 05473 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 4223
+  T42 1424909251 10764 65535 00441 07479 01235 00504 00515
+  light: 1235 temp1: 504 temp2: 515 time: 4242
+  T42 1424909270 10764 65535 00442 08482 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 4260
+  T42 1424909288 10764 65535 00445 00488 01244 00504 00515
+  light: 1244 temp1: 504 temp2: 515 time: 4279
+  T42 1424909307 10764 65535 00447 02494 01248 00504 00515
+  light: 1248 temp1: 504 temp2: 515 time: 4297
+  T42 1424909325 10764 65535 00449 04500 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 4316
+  T42 1424909344 10764 65535 00450 05503 01240 00504 00515
+  light: 1240 temp1: 504 temp2: 515 time: 4334
+  T42 1424909362 10764 65535 00452 07509 01251 00499 00515
+  light: 1251 temp1: 499 temp2: 515 time: 4353
+  T42 1424909381 10764 65535 00454 09515 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 4371
+  T42 1424909399 10764 65535 00457 01521 01249 00499 00515
+  light: 1249 temp1: 499 temp2: 515 time: 4390
+  T42 1424909418 10764 65535 00458 02524 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 4408
+  T42 1424909436 10764 65535 00460 04530 01231 00504 00511
+  light: 1231 temp1: 504 temp2: 511 time: 4427
+  T42 1424909455 10764 65535 00462 06536 01231 00505 00515
+  light: 1231 temp1: 505 temp2: 515 time: 4445
+  T42 1424909473 10764 65535 00464 08542 01231 00505 00511
+  light: 1231 temp1: 505 temp2: 511 time: 4464
+  T42 1424909492 10764 65535 00465 09545 01248 00504 00515
+  light: 1248 temp1: 504 temp2: 515 time: 4482
+  T42 1424909510 10764 65535 00468 01551 01248 00504 00519
+  light: 1248 temp1: 504 temp2: 519 time: 4501
+  T42 1424909529 10764 65535 00470 03557 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 4519
+  T42 1424909547 10764 65535 00472 05563 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 4538
+  T42 1424909566 10764 65535 00473 06566 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 4556
+  T42 1424909584 10764 65535 00475 08572 01240 00504 00511
+  light: 1240 temp1: 504 temp2: 511 time: 4575
+  T42 1424909603 10764 65535 00478 00578 01248 00504 00515
+  light: 1248 temp1: 504 temp2: 515 time: 4593
+  T42 1424909621 10764 65535 00480 02584 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 4612
+  T42 1424909640 10764 65535 00481 03587 01247 00503 00515
+  light: 1247 temp1: 503 temp2: 515 time: 4630
+  T42 1424909658 10764 65535 00483 05593 01244 00503 00515
+  light: 1244 temp1: 503 temp2: 515 time: 4649
+  T42 1424909677 10764 65535 00485 07599 01244 00503 00515
+  light: 1244 temp1: 503 temp2: 515 time: 4667
+  T42 1424909695 10764 65535 00487 09605 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 4686
+  T42 1424909714 10764 65535 00489 00608 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 4704
+  T42 1424909732 10764 65535 00491 02614 01231 00504 00517
+  light: 1231 temp1: 504 temp2: 517 time: 4723
+  T42 1424909751 10764 65535 00493 04620 01228 00504 00511
+  light: 1228 temp1: 504 temp2: 511 time: 4741
+  T42 1424909769 10764 65535 00495 06626 01223 00504 00515
+  light: 1223 temp1: 504 temp2: 515 time: 4760
+  T42 1424909788 10764 65535 00496 07629 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 4778
+  T42 1424909806 10764 65535 00498 09635 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 4797
+  T42 1424909825 10764 65535 00501 01641 01216 00508 00515
+  light: 1216 temp1: 508 temp2: 515 time: 4815
+  T42 1424909843 10764 65535 00503 03647 01223 00504 00515
+  light: 1223 temp1: 504 temp2: 515 time: 4834
+  T42 1424909862 10764 65535 00504 04650 01235 00504 00515
+  light: 1235 temp1: 504 temp2: 515 time: 4852
+  T42 1424909880 10764 65535 00506 06656 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 4871
+  T42 1424909899 10764 65535 00508 08662 01228 00508 00515
+  light: 1228 temp1: 508 temp2: 515 time: 4889
+  T42 1424909917 10764 65535 00511 00668 01231 00505 00515
+  light: 1231 temp1: 505 temp2: 515 time: 4908
+  T42 1424909936 10764 65535 00512 01671 01231 00505 00515
+  light: 1231 temp1: 505 temp2: 515 time: 4926
+  T42 1424909954 10764 65535 00514 03677 01223 00505 00515
+  light: 1223 temp1: 505 temp2: 515 time: 4945
+  T42 1424909973 10764 65535 00516 05683 01219 00508 00515
+  light: 1219 temp1: 508 temp2: 515 time: 4963
+  T42 1424909991 10764 65535 00518 07689 01223 00504 00515
+  light: 1223 temp1: 504 temp2: 515 time: 4982
+  T42 1424910010 10764 65535 00519 08692 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 5000
+  T42 1424910028 10764 65535 00522 00698 01219 00505 00515
+  light: 1219 temp1: 505 temp2: 515 time: 5019
+  T42 1424910047 10764 65535 00524 02704 01203 00508 00515
+  light: 1203 temp1: 508 temp2: 515 time: 5037
+  T42 1424910065 10764 65535 00525 03707 01212 00505 00519
+  light: 1212 temp1: 505 temp2: 519 time: 5056
+  T42 1424910084 10764 65535 00527 05713 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 5074
+  T42 1424910102 10764 65535 00529 07719 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 5093
+  T42 1424910121 10764 65535 00531 09725 01219 00504 00519
+  light: 1219 temp1: 504 temp2: 519 time: 5111
+  T42 1424910139 10764 65535 00533 00728 01223 00505 00515
+  light: 1223 temp1: 505 temp2: 515 time: 5130
+  T42 1424910158 10764 65535 00535 02734 01223 00504 00517
+  light: 1223 temp1: 504 temp2: 517 time: 5148
+  T42 1424910176 10764 65535 00537 04740 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 5167
+  T42 1424910195 10764 65535 00539 06746 01249 00504 00515
+  light: 1249 temp1: 504 temp2: 515 time: 5185
+  T42 1424910213 10764 65535 00540 07749 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 5204
+  T42 1424910232 10764 65535 00542 09755 01231 00504 00519
+  light: 1231 temp1: 504 temp2: 519 time: 5222
+  T42 1424910250 10764 65535 00545 01761 01223 00505 00515
+  light: 1223 temp1: 505 temp2: 515 time: 5241
+  T42 1424910269 10764 65535 00547 03767 01219 00504 00515
+  light: 1219 temp1: 504 temp2: 515 time: 5259
+  T42 1424910287 10764 65535 00548 04770 01212 00505 00515
+  light: 1212 temp1: 505 temp2: 515 time: 5278
+  T42 1424910306 10764 65535 00550 06776 01208 00508 00515
+  light: 1208 temp1: 508 temp2: 515 time: 5297
+  T42 1424910325 10764 65535 00552 08782 01182 00511 00515
+  light: 1182 temp1: 511 temp2: 515 time: 5315
+  T42 1424910343 10764 65535 00555 00788 01196 00511 00515
+  light: 1196 temp1: 511 temp2: 515 time: 5334
+  T42 1424910362 10764 65535 00556 01791 01183 00511 00515
+  light: 1183 temp1: 511 temp2: 515 time: 5352
+  T42 1424910380 10764 65535 00558 03797 01188 00511 00515
+  light: 1188 temp1: 511 temp2: 515 time: 5371
+  T42 1424910399 10764 65535 00560 05803 01167 00511 00515
+  light: 1167 temp1: 511 temp2: 515 time: 5389
+  T42 1424910417 10764 65535 00562 07809 01148 00503 00515
+  light: 1148 temp1: 503 temp2: 515 time: 5408
+  T42 1424910436 10764 65535 00563 08812 01152 00511 00515
+  light: 1152 temp1: 511 temp2: 515 time: 5426
+  T42 1424910454 10764 65535 00566 00818 01139 00499 00515
+  light: 1139 temp1: 499 temp2: 515 time: 5445
+  T42 1424910473 10764 65535 00568 02824 01123 00504 00515
+  light: 1123 temp1: 504 temp2: 515 time: 5463
+  T42 1424910491 10764 65535 00570 04830 01153 00511 00517
+  light: 1153 temp1: 511 temp2: 517 time: 5482
+  T42 1424910510 10764 65535 00571 05833 01180 00511 00515
+  light: 1180 temp1: 511 temp2: 515 time: 5500
+  T42 1424910528 10764 65535 00573 07839 01191 00510 00515
+  light: 1191 temp1: 510 temp2: 515 time: 5519
+  T42 1424910547 10764 65535 00575 09845 01223 00504 00515
+  light: 1223 temp1: 504 temp2: 515 time: 5537
+  T42 1424910565 10764 65535 00578 01851 01217 00505 00515
+  light: 1217 temp1: 505 temp2: 515 time: 5556
+  T42 1424910584 10764 65535 00579 02854 01219 00508 00515
+  light: 1219 temp1: 508 temp2: 515 time: 5574
+  T42 1424910602 10764 65535 00581 04860 01223 00505 00516
+  light: 1223 temp1: 505 temp2: 516 time: 5593
+  T42 1424910621 10764 65535 00583 06866 01248 00504 00515
+  light: 1248 temp1: 504 temp2: 515 time: 5611
+  T42 1424910639 10764 65535 00585 08872 01231 00505 00515
+  light: 1231 temp1: 505 temp2: 515 time: 5630
+  T42 1424910658 10764 65535 00586 09875 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 5648
+  T42 1424910676 10764 65535 00589 01881 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 5667
+  T42 1424910695 10764 65535 00591 03887 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 5685
+  T42 1424910713 10764 65535 00593 05893 01223 00505 00515
+  light: 1223 temp1: 505 temp2: 515 time: 5704
+  T42 1424910732 10764 65535 00594 06896 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 5722
+  T42 1424910750 10764 65535 00596 08902 01223 00508 00515
+  light: 1223 temp1: 508 temp2: 515 time: 5741
+  T42 1424910769 10764 65535 00599 00908 01248 00504 00515
+  light: 1248 temp1: 504 temp2: 515 time: 5759
+  T42 1424910787 10764 65535 00601 02914 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 5778
+  T42 1424910806 10764 65535 00602 03917 01231 00504 00516
+  light: 1231 temp1: 504 temp2: 516 time: 5797
+  T42 1424910825 10764 65535 00604 05923 01240 00505 00515
+  light: 1240 temp1: 505 temp2: 515 time: 5815
+  T42 1424910843 10764 65535 00606 07929 01223 00508 00515
+  light: 1223 temp1: 508 temp2: 515 time: 5834
+  T42 1424910862 10764 65535 00608 09935 01231 00505 00515
+  light: 1231 temp1: 505 temp2: 515 time: 5852
+  T42 1424910880 10764 65535 00610 00938 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 5871
+  T42 1424910899 10764 65535 00612 02944 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 5889
+  T42 1424910917 10764 65535 00614 04950 01223 00508 00515
+  light: 1223 temp1: 508 temp2: 515 time: 5908
+  T42 1424910936 10764 65535 00616 06956 01231 00505 00515
+  light: 1231 temp1: 505 temp2: 515 time: 5926
+  T42 1424910954 10764 65535 00617 07959 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 5945
+  T42 1424910973 10764 65535 00619 09965 01219 00508 00515
+  light: 1219 temp1: 508 temp2: 515 time: 5963
+  T42 1424910991 10764 65535 00622 01971 01231 00504 00515
+  light: 1231 temp1: 504 temp2: 515 time: 5982
+  T42 1424911010 10764 65535 00624 03977 01153 00511 00515
+  light: 1153 temp1: 511 temp2: 515 time: 6000
+  T42 1424911028 10764 65535 00625 04980 01167 00511 00515
+  light: 1167 temp1: 511 temp2: 515 time: 6019
+  T42 1424911047 10764 65535 00627 06986 01180 00511 00515
+  light: 1180 temp1: 511 temp2: 515 time: 6037
+  T42 1424911066 10764 65535 00629 08992 01167 00511 00515
+  light: 1167 temp1: 511 temp2: 515 time: 6056
+  T42 1424911084 10764 65535 00632 00998 01191 00511 00515
+  light: 1191 temp1: 511 temp2: 515 time: 6075
+  T42 1424911103 10764 65535 00633 02001 01183 00511 00515
+  light: 1183 temp1: 511 temp2: 515 time: 6093
+  T42 1424911121 10764 65535 00635 04007 01191 00511 00515
+  light: 1191 temp1: 511 temp2: 515 time: 6112
+  T42 1424911140 10764 65535 00637 06013 01183 00511 00516
+  light: 1183 temp1: 511 temp2: 516 time: 6130
+  T42 1424911158 10764 65535 00639 08019 01183 00511 00515
+  light: 1183 temp1: 511 temp2: 515 time: 6149
+  T42 1424911177 10764 65535 00640 09022 01175 00511 00517
+  light: 1175 temp1: 511 temp2: 517 time: 6167
+  T42 1424911195 10764 65535 00643 01028 01175 00511 00518
+  light: 1175 temp1: 511 temp2: 518 time: 6186
+  T42 1424911214 10764 65535 00645 03034 01167 00511 00515
+  light: 1167 temp1: 511 temp2: 515 time: 6204
+  T42 1424911232 10764 65535 00647 05040 01167 00515 00527
+  light: 1167 temp1: 515 temp2: 527 time: 6223
+  T42 1424911251 10764 65535 00648 06043 01180 00511 00516
+  light: 1180 temp1: 511 temp2: 516 time: 6241
+  T42 1424911269 10764 65535 00650 08049 01167 00511 00516
+  light: 1167 temp1: 511 temp2: 516 time: 6260
+  T42 1424911288 10764 65535 00653 00055 01167 00511 00518
+  light: 1167 temp1: 511 temp2: 518 time: 6278
+  T42 1424911306 10764 65535 00655 02061 01167 00515 00527
+  light: 1167 temp1: 515 temp2: 527 time: 6297
+  T42 1424911325 10764 65535 00656 03064 01176 00511 00518
+  light: 1176 temp1: 511 temp2: 518 time: 6315
+  T42 1424911343 10764 65535 00658 05070 01167 00515 00527
+  light: 1167 temp1: 515 temp2: 527 time: 6334
+  T42 1424911362 10764 65535 00660 07076 01159 00515 00527
+  light: 1159 temp1: 515 temp2: 527 time: 6352
+  T42 1424911380 10764 65535 00662 09082 01187 00511 00515
+  light: 1187 temp1: 511 temp2: 515 time: 6371
+  T42 1424911399 10764 65535 00664 00085 01183 00511 00515
+  light: 1183 temp1: 511 temp2: 515 time: 6389
+  T42 1424911417 10764 65535 00666 02091 01167 00515 00527
+  light: 1167 temp1: 515 temp2: 527 time: 6408
+  T42 1424911436 10764 65535 00668 04097 01164 00515 00527
+  light: 1164 temp1: 515 temp2: 527 time: 6426
+  T42 1424911454 10764 65535 00670 06103 01144 00504 00519
+  light: 1144 temp1: 504 temp2: 519 time: 6445
+  T42 1424911473 10764 65535 00671 07106 01148 00504 00519
+  light: 1148 temp1: 504 temp2: 519 time: 6464
+  T42 1424911492 10764 65535 00673 09112 01148 00504 00519
+  light: 1148 temp1: 504 temp2: 519 time: 6482
+..
+  stopped.
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Feb 26 11:32:35 PST 2015   unix time:  1424979155580
+  Opening Project  BasicBoard
+.rr
+  Start Project:  BasicBoard     Thu Feb 26 11:32:39 PST 2015   unix time:  1424979159568
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Feb 26 11:33:39 PST 2015   unix time:  1424979219723
+  Opening Project  BasicBoard
+.rr
+  Start Project:  BasicBoard     Thu Feb 26 11:33:47 PST 2015   unix time:  1424979227576
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Feb 26 12:10:34 PST 2015   unix time:  1424981434474
+  Opening Project  BasicBoard
+.rr
+  Start Project:  BasicBoard     Thu Feb 26 12:10:38 PST 2015   unix time:  1424981438459
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Feb 26 12:11:44 PST 2015   unix time:  1424981504087
+  Opening Project  BasicBoard
+.rr
+  Start Project:  BasicBoard     Thu Feb 26 12:11:46 PST 2015   unix time:  1424981506846
+  Opening Project  BasicBoard
+  I don't know how to to in rr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Feb 26 12:13:52 PST 2015   unix time:  1424981632642
+  Opening Project  BasicBoard
+.rr
+  reloading
+  Opening Project  BasicBoard
+
+   undefined
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Feb 26 12:14:48 PST 2015   unix time:  1424981688351
+  Opening Project  BasicBoard
+.rr
+.print 1234
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Feb 26 12:15:23 PST 2015   unix time:  1424981723089
+  Opening Project  BasicBoard
+.print 1234
+  1234
+  Welcome to Logo
+project "BasicBOard
+  Start Project:  BasicBOard     Thu Feb 26 12:15:53 PST 2015   unix time:  1424981753633
+  Can't open file BasicBOard.logo in project
+project "BasicBoard
+  Start Project:  BasicBOard     Thu Feb 26 12:15:57 PST 2015   unix time:  1424981757271
+  Can't open file BasicBOard.logo in project
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Feb 26 12:16:47 PST 2015   unix time:  1424981807091
+  Opening Project  BasicBoard
+.print 1234
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Feb 26 12:20:41 PST 2015   unix time:  1424982041444
+  Opening Project  BasicBoard
+.print 1234
+  1234
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Feb 26 12:21:51 PST 2015   unix time:  1424982111105
+  Opening Project  BasicBoard
+.rr
+.print 1234
+  Start Project:  BasicBoard     Thu Feb 26 12:22:02 PST 2015   unix time:  1424982122853
+  Opening Project  BasicBoard
+  1234
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Feb 26 12:30:53 PST 2015   unix time:  1424982653739
+  Opening Project  BasicBoard
+.print 1234
+  1234
+.rr
+
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Feb 26 12:35:49 PST 2015   unix time:  1424982949363
+  Opening Project  BasicBoard
+.rr
+  Start Project:  BasicBoard     Thu Feb 26 12:36:18 PST 2015   unix time:  1424982978058
+  Opening Project  BasicBoard
+  project reloaded
+
+
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Feb 26 12:46:58 PST 2015   unix time:  1424983618410
+  Opening Project  BasicBoard
+.print 1234
+  1234
+.rr
+  Opening Project  BasicBoard
+  project reloaded
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Feb 26 14:57:54 PST 2015   unix time:  1424991474799
+  Opening Project  BasicBoard
+print 1234
+  1234
+.BasicBoard
+  starting BasicBoard
+  T42 1424991491 10764 65535 00003 05439 01439 00504 00511
+  light: 1439 temp1: 504 temp2: 511 time: 3
+  T42 1424991511 10764 65535 00004 06442 01295 00508 00511
+  light: 1295 temp1: 508 temp2: 511 time: 22
+  T42 1424991529 10764 65535 00006 08448 01308 00505 00511
+  light: 1308 temp1: 505 temp2: 511 time: 41
+  T42 1424991548 10764 65535 00009 00454 01304 00508 00511
+  light: 1304 temp1: 508 temp2: 511 time: 59
+  T42 1424991566 10764 65535 00011 02460 01295 00511 00511
+  light: 1295 temp1: 511 temp2: 511 time: 78
+  T42 1424991585 10764 65535 00012 03463 01311 00508 00511
+  light: 1311 temp1: 508 temp2: 511 time: 96
+  T42 1424991603 10764 65535 00014 05469 01299 00508 00511
+  light: 1299 temp1: 508 temp2: 511 time: 115
+  T42 1424991622 10764 65535 00016 07475 01311 00504 00511
+  light: 1311 temp1: 504 temp2: 511 time: 133
+  T42 1424991640 10764 65535 00018 09481 01316 00505 00511
+  light: 1316 temp1: 505 temp2: 511 time: 152
+  T42 1424991659 10764 65535 00020 00484 01308 00508 00511
+  light: 1308 temp1: 508 temp2: 511 time: 170
+  T42 1424991677 10764 65535 00022 02490 01309 00504 00515
+  light: 1309 temp1: 504 temp2: 515 time: 189
+  T42 1424991696 10764 65535 00024 04496 01191 00511 00516
+  light: 1191 temp1: 511 temp2: 516 time: 207
+  T42 1424991714 10764 65535 00026 06502 01063 00511 00515
+  light: 1063 temp1: 511 temp2: 515 time: 226
+  T42 1424991733 10764 65535 00027 07505 00864 00515 00527
+  light: 864 temp1: 515 temp2: 527 time: 244
+  T42 1424991751 10764 65535 00029 09511 01340 00505 00516
+  light: 1340 temp1: 505 temp2: 516 time: 263
+  T42 1424991770 10764 65535 00032 01517 01328 00510 00515
+  light: 1328 temp1: 510 temp2: 515 time: 281
+  T42 1424991788 10764 65535 00034 03523 01340 00508 00519
+  light: 1340 temp1: 508 temp2: 519 time: 300
+  T42 1424991807 10764 65535 00035 04526 01329 00508 00519
+  light: 1329 temp1: 508 temp2: 519 time: 318
+  T42 1424991825 10764 65535 00037 06532 01336 00508 00519
+  light: 1336 temp1: 508 temp2: 519 time: 337
+  T42 1424991844 10764 65535 00039 08538 01344 00510 00519
+  light: 1344 temp1: 510 temp2: 519 time: 355
+  T42 1424991862 10764 65535 00042 00544 01276 00504 00519
+  light: 1276 temp1: 504 temp2: 519 time: 374
+  T42 1424991881 10764 65535 00043 01547 00935 00519 00527
+  light: 935 temp1: 519 temp2: 527 time: 392
+  T42 1424991899 10764 65535 00045 03553 01327 00511 00519
+  light: 1327 temp1: 511 temp2: 519 time: 411
+  T42 1424991918 10764 65535 00047 05559 01329 00511 00519
+  light: 1329 temp1: 511 temp2: 519 time: 429
+  T42 1424991936 10764 65535 00049 07565 01329 00511 00519
+  light: 1329 temp1: 511 temp2: 519 time: 448
+  T42 1424991955 10764 65535 00050 08568 01343 00511 00519
+  light: 1343 temp1: 511 temp2: 519 time: 466
+  T42 1424991973 10764 65535 00053 00574 01287 00515 00531
+  light: 1287 temp1: 515 temp2: 531 time: 484
+  T42 1424991991 10764 65535 00055 02580 01279 00504 00519
+  light: 1279 temp1: 504 temp2: 519 time: 503
+  T42 1424992010 10764 65535 00057 04586 01287 00511 00519
+  light: 1287 temp1: 511 temp2: 519 time: 521
+  T42 1424992028 10764 65535 00058 05589 01287 00515 00531
+  light: 1287 temp1: 515 temp2: 531 time: 540
+  T42 1424992047 10764 65535 00060 07595 01299 00513 00531
+  light: 1299 temp1: 513 temp2: 531 time: 558
+  T42 1424992065 10764 65535 00062 09601 01276 00505 00519
+  light: 1276 temp1: 505 temp2: 519 time: 577
+  T42 1424992084 10764 65535 00065 01607 01304 00515 00531
+  light: 1304 temp1: 515 temp2: 531 time: 595
+  T42 1424992102 10764 65535 00066 02610 01284 00515 00527
+  light: 1284 temp1: 515 temp2: 527 time: 614
+  T42 1424992121 10764 65535 00068 04616 01295 00511 00519
+  light: 1295 temp1: 511 temp2: 519 time: 632
+  T42 1424992139 10764 65535 00070 06622 01295 00511 00519
+  light: 1295 temp1: 511 temp2: 519 time: 651
+  T42 1424992158 10764 65535 00072 08628 01283 00515 00527
+  light: 1283 temp1: 515 temp2: 527 time: 669
+  T42 1424992176 10764 65535 00073 09631 01287 00511 00519
+  light: 1287 temp1: 511 temp2: 519 time: 688
+  T42 1424992195 10764 65535 00076 01637 01287 00511 00516
+  light: 1287 temp1: 511 temp2: 516 time: 707
+  T42 1424992213 10764 65535 00078 03643 01281 00511 00517
+  light: 1281 temp1: 511 temp2: 517 time: 725
+  T42 1424992232 10764 65535 00080 05649 01281 00515 00527
+  light: 1281 temp1: 515 temp2: 527 time: 743
+  T42 1424992250 10764 65535 00081 06652 01287 00511 00518
+  light: 1287 temp1: 511 temp2: 518 time: 762
+  T42 1424992269 10764 65535 00083 08658 01279 00504 00518
+  light: 1279 temp1: 504 temp2: 518 time: 780
+  T42 1424992287 10764 65535 00086 00664 01279 00504 00519
+  light: 1279 temp1: 504 temp2: 519 time: 799
+  T42 1424992306 10764 65535 00088 02670 01279 00504 00519
+  light: 1279 temp1: 504 temp2: 519 time: 817
+  T42 1424992325 10764 65535 00089 03673 01292 00511 00515
+  light: 1292 temp1: 511 temp2: 515 time: 836
+  T42 1424992343 10764 65535 00091 05679 01295 00511 00515
+  light: 1295 temp1: 511 temp2: 515 time: 855
+  T42 1424992362 10764 65535 00093 07685 01278 00504 00518
+  light: 1278 temp1: 504 temp2: 518 time: 873
+  T42 1424992380 10764 65535 00095 09691 01287 00511 00515
+  light: 1287 temp1: 511 temp2: 515 time: 892
+  T42 1424992399 10764 65535 00097 00694 01279 00499 00515
+  light: 1279 temp1: 499 temp2: 515 time: 910
+  T42 1424992417 10764 65535 00099 02700 01281 00511 00515
+  light: 1281 temp1: 511 temp2: 515 time: 929
+  T42 1424992436 10764 65535 00101 04706 01295 00511 00515
+  light: 1295 temp1: 511 temp2: 515 time: 947
+  T42 1424992454 10764 65535 00103 06712 01283 00511 00515
+  light: 1283 temp1: 511 temp2: 515 time: 966
+  T42 1424992473 10764 65535 00104 07715 01278 00499 00515
+  light: 1278 temp1: 499 temp2: 515 time: 984
+  T42 1424992491 10764 65535 00106 09721 01287 00511 00515
+  light: 1287 temp1: 511 temp2: 515 time: 1003
+  T42 1424992510 10764 65535 00109 01727 01295 00511 00515
+  light: 1295 temp1: 511 temp2: 515 time: 1021
+  T42 1424992528 10764 65535 00110 02730 01279 00499 00515
+  light: 1279 temp1: 499 temp2: 515 time: 1040
+  T42 1424992547 10764 65535 00112 04736 01287 00511 00515
+  light: 1287 temp1: 511 temp2: 515 time: 1058
+  T42 1424992565 10764 65535 00114 06742 01287 00511 00515
+  light: 1287 temp1: 511 temp2: 515 time: 1077
+  T42 1424992584 10764 65535 00116 08748 01287 00511 00515
+  light: 1287 temp1: 511 temp2: 515 time: 1095
+  T42 1424992602 10764 65535 00117 09751 01287 00511 00513
+  light: 1287 temp1: 511 temp2: 513 time: 1114
+  T42 1424992621 10764 65535 00120 01757 01276 00499 00515
+  light: 1276 temp1: 499 temp2: 515 time: 1132
+  T42 1424992639 10764 65535 00122 03763 01283 00511 00511
+  light: 1283 temp1: 511 temp2: 511 time: 1151
+  T42 1424992658 10764 65535 00124 05769 01276 00499 00515
+  light: 1276 temp1: 499 temp2: 515 time: 1169
+  T42 1424992676 10764 65535 00125 06772 01279 00499 00515
+  light: 1279 temp1: 499 temp2: 515 time: 1188
+  T42 1424992695 10764 65535 00127 08778 01272 00499 00515
+  light: 1272 temp1: 499 temp2: 515 time: 1206
+  T42 1424992713 10764 65535 00130 00784 01295 00508 00515
+  light: 1295 temp1: 508 temp2: 515 time: 1225
+  T42 1424992732 10764 65535 00132 02790 01283 00511 00511
+  light: 1283 temp1: 511 temp2: 511 time: 1243
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 27 10:00:38 PST 2015   unix time:  1425060038620
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  T42 1425060050 10764 65535 00003 00124 01507 00812 00839
+  light: 1507 temp1: 812 temp2: 839 time: 3
+  T42 1425060070 10764 65535 00004 01127 01287 00828 00831
+  light: 1287 temp1: 828 temp2: 831 time: 23
+  T42 1425060088 10764 65535 00006 03133 01279 00817 00831
+  light: 1279 temp1: 817 temp2: 831 time: 42
+  T42 1425060107 10764 65535 00008 05139 01295 00825 00831
+  light: 1295 temp1: 825 temp2: 831 time: 60
+  T42 1425060125 10764 65535 00009 06142 01276 00815 00831
+  light: 1276 temp1: 815 temp2: 831 time: 79
+  T42 1425060144 10764 65535 00011 08148 01392 00812 00831
+  light: 1392 temp1: 812 temp2: 831 time: 97
+  T42 1425060162 10764 65535 00014 00154 01439 00819 00831
+  light: 1439 temp1: 819 temp2: 831 time: 116
+  T42 1425060181 10764 65535 00015 01157 01439 00819 00831
+  light: 1439 temp1: 819 temp2: 831 time: 134
+  T42 1425060199 10764 65535 00017 03163 01369 00817 00831
+  light: 1369 temp1: 817 temp2: 831 time: 153
+  T42 1425060218 10764 65535 00019 05169 01359 00817 00831
+  light: 1359 temp1: 817 temp2: 831 time: 171
+  T42 1425060236 10764 65535 00020 06172 01415 00819 00830
+  light: 1415 temp1: 819 temp2: 830 time: 190
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 27 10:52:11 PST 2015   unix time:  1425063131161
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  stopvm error
+  runvm error
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 27 10:52:41 PST 2015   unix time:  1425063161517
+  Opening Project  BasicBoard
+.BasicBoard
+..
+  stopped.
+.stopvm
+print 1234
+  starting BasicBoard
+  stopvm error
+  runvm error
+..
+  stopped.
+print 1234
+..
+  stopped.
+  Chip not found.
+  stopvm error
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Feb 27 10:53:53 PST 2015   unix time:  1425063233400
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  T42 1425063245 10764 65535 00001 07473 01457 00799 00817
+  light: 1457 temp1: 799 temp2: 817 time: 3
+  T42 1425063265 10764 65535 00002 08476 01260 00799 00819
+  light: 1260 temp1: 799 temp2: 819 time: 22
+  T42 1425063283 10764 65535 00005 00482 01255 00799 00819
+  light: 1255 temp1: 799 temp2: 819 time: 41
+  T42 1425063302 10764 65535 00007 02488 01289 00815 00819
+  light: 1289 temp1: 815 temp2: 819 time: 59
+  T42 1425063320 10764 65535 00008 03491 01260 00799 00819
+  light: 1260 temp1: 799 temp2: 819 time: 78
+  T42 1425063339 10764 65535 00010 05497 01260 00799 00819
+  light: 1260 temp1: 799 temp2: 819 time: 96
+  T42 1425063357 10764 65535 00012 07503 01231 00807 00817
+  light: 1231 temp1: 807 temp2: 817 time: 115
+  T42 1425063376 10764 65535 00013 08506 01231 00807 00819
+  light: 1231 temp1: 807 temp2: 819 time: 133
+  T42 1425063395 10764 65535 00016 00512 01228 00807 00819
+  light: 1228 temp1: 807 temp2: 819 time: 152
+  T42 1425063413 10764 65535 00018 02518 01223 00807 00819
+  light: 1223 temp1: 807 temp2: 819 time: 171
+  T42 1425063432 10764 65535 00020 04524 01223 00807 00819
+  light: 1223 temp1: 807 temp2: 819 time: 190
+  T42 1425063450 10764 65535 00021 05527 01223 00807 00819
+  light: 1223 temp1: 807 temp2: 819 time: 208
+  T42 1425063469 10764 65535 00023 07533 01254 00799 00819
+  light: 1254 temp1: 799 temp2: 819 time: 226
+  T42 1425063487 10764 65535 00025 09539 01265 00799 00817
+  light: 1265 temp1: 799 temp2: 817 time: 245
+  T42 1425063506 10764 65535 00027 00542 01289 00807 00817
+  light: 1289 temp1: 807 temp2: 817 time: 263
+  T42 1425063524 10764 65535 00029 02548 01271 00799 00817
+  light: 1271 temp1: 799 temp2: 817 time: 282
+  T42 1425063543 10764 65535 00031 04554 01439 00807 00819
+  light: 1439 temp1: 807 temp2: 819 time: 300
+  T42 1425063561 10764 65535 00032 05557 01599 00799 00817
+  light: 1599 temp1: 799 temp2: 817 time: 319
+  T42 1425063580 10764 65535 00034 07563 01472 00799 00816
+  light: 1472 temp1: 799 temp2: 816 time: 337
+  T42 1425063598 10764 65535 00036 09569 01459 00799 00819
+  light: 1459 temp1: 799 temp2: 819 time: 356
+  T42 1425063617 10764 65535 00038 00572 01328 00807 00816
+  light: 1328 temp1: 807 temp2: 816 time: 374
+  T42 1425063635 10764 65535 00040 02578 01328 00807 00816
+  light: 1328 temp1: 807 temp2: 816 time: 393
+  T42 1425063654 10764 65535 00042 04584 01287 00815 00817
+  light: 1287 temp1: 815 temp2: 817 time: 411
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Sat Feb 28 08:58:31 PST 2015   unix time:  1425142711638
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  T42 1425142725 10764 65535 00004 06910 01477 00703 00739
+  light: 1477 temp1: 703 temp2: 739 time: 4
+  T42 1425142745 10764 65535 00005 07913 01279 00705 00743
+  light: 1279 temp1: 705 temp2: 743 time: 23
+w..
+..
+  stopped.
+  w.. undefined
+.BasicBoard
+  starting BasicBoard
+  T42 1425142761 10764 65535 00008 02535 01327 00719 00739
+  light: 1327 temp1: 719 temp2: 739 time: 3
+..
+  stopped.
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Sat Feb 28 08:59:56 PST 2015   unix time:  1425142796616
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  T42 1425142811 10764 65535 00002 05711 01423 00728 00743
+  light: 1423 temp1: 728 temp2: 743 time: 3
+..
+  stopped.
+.compile
+  Compiling...
+  1287 bytes
+.download
+  1287 bytes
+ul-power
+ul-init
+ul-run
+  ul-run undefined
+ul-go
+init-pins
+redon
+redoff
+greenon
+greenoff
+blueon
+blueoff
+greenon
+redon
+redoff
+.compile
+  Compiling...
+  rednon undefined in ul-go
+.compile
+  Compiling...
+  1287 bytes
+.download
+  1287 bytes
+.BasicBoard
+  starting BasicBoard
+  T42 1425143701 10764 65535 00091 04821 01624 00719 00755
+  light: 1624 temp1: 719 temp2: 755 time: 3
+  T42 1425143719 10764 65535 00092 05824 01308 00743 00753
+  light: 1308 temp1: 743 temp2: 753 time: 22
+  T42 1425143738 10764 65535 00094 07830 01311 00743 00753
+  light: 1311 temp1: 743 temp2: 753 time: 40
+  T42 1425143756 10764 65535 00096 09836 01295 00752 00752
+  light: 1295 temp1: 752 temp2: 752 time: 59
+  T42 1425143775 10764 65535 00098 00839 01319 00743 00755
+  light: 1319 temp1: 743 temp2: 755 time: 77
+  T42 1425143793 10764 65535 00100 02845 01295 00749 00755
+  light: 1295 temp1: 749 temp2: 755 time: 96
+  T42 1425143812 10764 65535 00102 04851 01335 00743 00755
+  light: 1335 temp1: 743 temp2: 755 time: 114
+  T42 1425143830 10764 65535 00103 05854 01295 00753 00755
+  light: 1295 temp1: 753 temp2: 755 time: 133
+  T42 1425143849 10764 65535 00105 07860 01300 00753 00748
+  light: 1300 temp1: 753 temp2: 748 time: 151
+  T42 1425143867 10764 65535 00107 09866 01299 00753 00755
+  light: 1299 temp1: 753 temp2: 755 time: 170
+  T42 1425143886 10764 65535 00109 00869 01343 00743 00759
+  light: 1343 temp1: 743 temp2: 759 time: 188
+  T42 1425143904 10764 65535 00111 02875 01287 00755 00760
+  light: 1287 temp1: 755 temp2: 760 time: 207
+  T42 1425143923 10764 65535 00113 04881 01295 00759 00759
+  light: 1295 temp1: 759 temp2: 759 time: 225
+  T42 1425143941 10764 65535 00114 05884 01311 00753 00759
+  light: 1311 temp1: 753 temp2: 759 time: 244
+  T42 1425143960 10764 65535 00116 07890 01299 00755 00761
+  light: 1299 temp1: 755 temp2: 761 time: 262
+  T42 1425143978 10764 65535 00118 09896 01343 00752 00761
+  light: 1343 temp1: 752 temp2: 761 time: 281
+  T42 1425143997 10764 65535 00120 00899 01331 00752 00760
+  light: 1331 temp1: 752 temp2: 760 time: 299
+  T42 1425144015 10764 65535 00122 02905 01301 00755 00760
+  light: 1301 temp1: 755 temp2: 760 time: 318
+  T42 1425144034 10764 65535 00124 04911 01295 00759 00760
+  light: 1295 temp1: 759 temp2: 760 time: 336
+  T42 1425144052 10764 65535 00126 06917 01308 00755 00763
+  light: 1308 temp1: 755 temp2: 763 time: 355
+  T42 1425144071 10764 65535 00127 07920 01311 00755 00761
+  light: 1311 temp1: 755 temp2: 761 time: 373
+  T42 1425144089 10764 65535 00129 09926 01304 00759 00761
+  light: 1304 temp1: 759 temp2: 761 time: 392
+  T42 1425144108 10764 65535 00132 01932 01303 00759 00765
+  light: 1303 temp1: 759 temp2: 765 time: 410
+  T42 1425144126 10764 65535 00133 02935 01324 00755 00761
+  light: 1324 temp1: 755 temp2: 761 time: 429
+  T42 1425144145 10764 65535 00135 04941 01304 00760 00761
+  light: 1304 temp1: 760 temp2: 761 time: 447
+  T42 1425144163 10764 65535 00137 06947 01351 00751 00767
+  light: 1351 temp1: 751 temp2: 767 time: 466
+  T42 1425144182 10764 65535 00138 07950 01311 00755 00764
+  light: 1311 temp1: 755 temp2: 764 time: 484
+  T42 1425144200 10764 65535 00140 09956 01311 00760 00764
+  light: 1311 temp1: 760 temp2: 764 time: 503
+  T42 1425144219 10764 65535 00143 01962 01311 00755 00764
+  light: 1311 temp1: 755 temp2: 764 time: 521
+  T42 1425144237 10764 65535 00144 02965 01311 00759 00765
+  light: 1311 temp1: 759 temp2: 765 time: 540
+  T42 1425144256 10764 65535 00146 04971 01336 00760 00768
+  light: 1336 temp1: 760 temp2: 768 time: 558
+  T42 1425144274 10764 65535 00148 06977 01311 00760 00768
+  light: 1311 temp1: 760 temp2: 768 time: 577
+  T42 1425144293 10764 65535 00149 07980 01311 00761 00767
+  light: 1311 temp1: 761 temp2: 767 time: 595
+  T42 1425144311 10764 65535 00151 09986 01311 00759 00768
+  light: 1311 temp1: 759 temp2: 768 time: 614
+  T42 1425144330 10764 65535 00154 01992 01328 00760 00768
+  light: 1328 temp1: 760 temp2: 768 time: 632
+  T42 1425144348 10764 65535 00155 02995 01319 00761 00768
+  light: 1319 temp1: 761 temp2: 768 time: 651
+  T42 1425144367 10764 65535 00157 05001 01319 00764 00768
+  light: 1319 temp1: 764 temp2: 768 time: 670
+  T42 1425144386 10764 65535 00159 07007 01311 00764 00768
+  light: 1311 temp1: 764 temp2: 768 time: 688
+  T42 1425144404 10764 65535 00160 08010 01332 00764 00769
+  light: 1332 temp1: 764 temp2: 769 time: 707
+  T42 1425144423 10764 65535 00163 00016 01311 00765 00768
+  light: 1311 temp1: 765 temp2: 768 time: 725
+  T42 1425144441 10764 65535 00165 02022 01311 00768 00780
+  light: 1311 temp1: 768 temp2: 780 time: 744
+  T42 1425144460 10764 65535 00167 04028 01335 00764 00768
+  light: 1335 temp1: 764 temp2: 768 time: 762
+  T42 1425144478 10764 65535 00168 05031 01343 00760 00771
+  light: 1343 temp1: 760 temp2: 771 time: 781
+  T42 1425144497 10764 65535 00170 07037 01311 00767 00769
+  light: 1311 temp1: 767 temp2: 769 time: 799
+  T42 1425144515 10764 65535 00172 09043 01326 00767 00769
+  light: 1326 temp1: 767 temp2: 769 time: 817
+  T42 1425144534 10764 65535 00174 00046 01351 00761 00771
+  light: 1351 temp1: 761 temp2: 771 time: 836
+  T42 1425144552 10764 65535 00176 02052 01311 00764 00771
+  light: 1311 temp1: 764 temp2: 771 time: 854
+  T42 1425144571 10764 65535 00178 04058 01351 00761 00771
+  light: 1351 temp1: 761 temp2: 771 time: 873
+  T42 1425144589 10764 65535 00179 05061 01340 00764 00773
+  light: 1340 temp1: 764 temp2: 773 time: 892
+  T42 1425144607 10764 65535 00181 07067 01337 00766 00771
+  light: 1337 temp1: 766 temp2: 771 time: 910
+  T42 1425144626 10764 65535 00183 09073 01311 00769 00783
+  light: 1311 temp1: 769 temp2: 783 time: 928
+  T42 1425144644 10764 65535 00185 00076 01311 00768 00783
+  light: 1311 temp1: 768 temp2: 783 time: 947
+  T42 1425144663 10764 65535 00187 02082 01347 00768 00783
+  light: 1347 temp1: 768 temp2: 783 time: 965
+  T42 1425144682 10764 65535 00189 04088 01324 00771 00783
+  light: 1324 temp1: 771 temp2: 783 time: 984
+  T42 1425144700 10764 65535 00190 05091 01319 00769 00783
+  light: 1319 temp1: 769 temp2: 783 time: 1002
+  T42 1425144718 10764 65535 00192 07097 01324 00769 00783
+  light: 1324 temp1: 769 temp2: 783 time: 1021
+  T42 1425144737 10764 65535 00194 09103 01311 00771 00783
+  light: 1311 temp1: 771 temp2: 783 time: 1039
+  T42 1425144755 10764 65535 00196 00106 01329 00769 00783
+  light: 1329 temp1: 769 temp2: 783 time: 1058
+  T42 1425144774 10764 65535 00198 02112 01335 00768 00788
+  light: 1335 temp1: 768 temp2: 788 time: 1076
+  T42 1425144792 10764 65535 00200 04118 01351 00768 00783
+  light: 1351 temp1: 768 temp2: 783 time: 1095
+  T42 1425144811 10764 65535 00201 05121 01319 00771 00783
+  light: 1319 temp1: 771 temp2: 783 time: 1114
+  T42 1425144830 10764 65535 00203 07127 01324 00771 00783
+  light: 1324 temp1: 771 temp2: 783 time: 1132
+  T42 1425144848 10764 65535 00205 09133 01324 00775 00783
+  light: 1324 temp1: 775 temp2: 783 time: 1151
+  T42 1425144867 10764 65535 00208 01139 01311 00773 00783
+  light: 1311 temp1: 773 temp2: 783 time: 1169
+  T42 1425144885 10764 65535 00209 02142 01359 00771 00783
+  light: 1359 temp1: 771 temp2: 783 time: 1188
+  T42 1425144904 10764 65535 00211 04148 01324 00771 00783
+  light: 1324 temp1: 771 temp2: 783 time: 1206
+  T42 1425144922 10764 65535 00213 06154 01347 00769 00789
+  light: 1347 temp1: 769 temp2: 789 time: 1225
+  T42 1425144941 10764 65535 00214 07157 01319 00768 00789
+  light: 1319 temp1: 768 temp2: 789 time: 1243
+  T42 1425144959 10764 65535 00216 09163 01329 00760 00781
+  light: 1329 temp1: 760 temp2: 781 time: 1262
+  T42 1425144978 10764 65535 00219 01169 01319 00775 00791
+  light: 1319 temp1: 775 temp2: 791 time: 1280
+  T42 1425144996 10764 65535 00220 02172 01324 00773 00787
+  light: 1324 temp1: 773 temp2: 787 time: 1299
+  T42 1425145015 10764 65535 00222 04178 01324 00774 00787
+  light: 1324 temp1: 774 temp2: 787 time: 1317
+  T42 1425145033 10764 65535 00224 06184 01324 00775 00783
+  light: 1324 temp1: 775 temp2: 783 time: 1336
+  T42 1425145052 10764 65535 00225 07187 01311 00771 00789
+  light: 1311 temp1: 771 temp2: 789 time: 1354
+  T42 1425145070 10764 65535 00227 09193 01356 00769 00791
+  light: 1356 temp1: 769 temp2: 791 time: 1373
+  T42 1425145089 10764 65535 00230 01199 01347 00769 00789
+  light: 1347 temp1: 769 temp2: 789 time: 1391
+  T42 1425145107 10764 65535 00231 02202 01368 00768 00787
+  light: 1368 temp1: 768 temp2: 787 time: 1410
+  T42 1425145126 10764 65535 00233 04208 01328 00775 00791
+  light: 1328 temp1: 775 temp2: 791 time: 1428
+  T42 1425145144 10764 65535 00235 06214 01319 00775 00789
+  light: 1319 temp1: 775 temp2: 789 time: 1447
+  T42 1425145163 10764 65535 00236 07217 01324 00775 00791
+  light: 1324 temp1: 775 temp2: 791 time: 1465
+  T42 1425145181 10764 65535 00238 09223 01343 00769 00789
+  light: 1343 temp1: 769 temp2: 789 time: 1484
+  T42 1425145200 10764 65535 00241 01229 01319 00775 00791
+  light: 1319 temp1: 775 temp2: 791 time: 1502
+  T42 1425145218 10764 65535 00242 02232 01319 00775 00789
+  light: 1319 temp1: 775 temp2: 789 time: 1521
+  T42 1425145237 10764 65535 00244 04238 01359 00768 00791
+  light: 1359 temp1: 768 temp2: 791 time: 1539
+  T42 1425145255 10764 65535 00246 06244 01328 00775 00789
+  light: 1328 temp1: 775 temp2: 789 time: 1558
+  T42 1425145274 10764 65535 00248 08250 01343 00769 00791
+  light: 1343 temp1: 769 temp2: 791 time: 1576
+  T42 1425145292 10764 65535 00249 09253 01351 00771 00791
+  light: 1351 temp1: 771 temp2: 791 time: 1595
+  T42 1425145311 10764 65535 00252 01259 01340 00773 00791
+  light: 1340 temp1: 773 temp2: 791 time: 1613
+  T42 1425145329 10764 65535 00254 03265 01343 00771 00787
+  light: 1343 temp1: 771 temp2: 787 time: 1632
+  T42 1425145348 10764 65535 00255 04268 01343 00771 00791
+  light: 1343 temp1: 771 temp2: 791 time: 1650
+  T42 1425145366 10764 65535 00257 06274 01359 00768 00791
+  light: 1359 temp1: 768 temp2: 791 time: 1669
+  T42 1425145385 10764 65535 00259 08280 01328 00775 00791
+  light: 1328 temp1: 775 temp2: 791 time: 1687
+  T42 1425145403 10764 65535 00260 09283 01328 00775 00789
+  light: 1328 temp1: 775 temp2: 789 time: 1706
+  T42 1425145422 10764 65535 00263 01289 01331 00771 00787
+  light: 1331 temp1: 771 temp2: 787 time: 1724
+  T42 1425145440 10764 65535 00265 03295 01347 00769 00791
+  light: 1347 temp1: 769 temp2: 791 time: 1743
+  T42 1425145459 10764 65535 00266 04298 01359 00768 00791
+  light: 1359 temp1: 768 temp2: 791 time: 1761
+  T42 1425145477 10764 65535 00268 06304 01368 00768 00789
+  light: 1368 temp1: 768 temp2: 789 time: 1780
+  T42 1425145496 10764 65535 00270 08310 01340 00771 00792
+  light: 1340 temp1: 771 temp2: 792 time: 1798
+  T42 1425145514 10764 65535 00271 09313 01332 00775 00791
+  light: 1332 temp1: 775 temp2: 791 time: 1817
+  T42 1425145533 10764 65535 00274 01319 01328 00775 00783
+  light: 1328 temp1: 775 temp2: 783 time: 1835
+  T42 1425145551 10764 65535 00276 03325 01335 00775 00791
+  light: 1335 temp1: 775 temp2: 791 time: 1854
+  T42 1425145570 10764 65535 00277 04328 01359 00768 00792
+  light: 1359 temp1: 768 temp2: 792 time: 1873
+  T42 1425145589 10764 65535 00279 06334 01327 00775 00791
+  light: 1327 temp1: 775 temp2: 791 time: 1891
+  T42 1425145607 10764 65535 00281 08340 01359 00771 00793
+  light: 1359 temp1: 771 temp2: 793 time: 1910
+  T42 1425145626 10764 65535 00282 09343 01331 00771 00791
+  light: 1331 temp1: 771 temp2: 791 time: 1928
+  T42 1425145644 10764 65535 00285 01349 01359 00768 00791
+  light: 1359 temp1: 768 temp2: 791 time: 1947
+  T42 1425145663 10764 65535 00287 03355 01359 00768 00793
+  light: 1359 temp1: 768 temp2: 793 time: 1965
+  T42 1425145681 10764 65535 00289 05361 01343 00771 00791
+  light: 1343 temp1: 771 temp2: 791 time: 1984
+  T42 1425145700 10764 65535 00290 06364 01375 00755 00781
+  light: 1375 temp1: 755 temp2: 781 time: 2002
+  T42 1425145718 10764 65535 00292 08370 01336 00775 00791
+  light: 1336 temp1: 775 temp2: 791 time: 2021
+  T42 1425145737 10764 65535 00295 00376 01368 00767 00775
+  light: 1368 temp1: 767 temp2: 775 time: 2039
+  T42 1425145755 10764 65535 00296 01379 01368 00769 00791
+  light: 1368 temp1: 769 temp2: 791 time: 2058
+  T42 1425145774 10764 65535 00298 03385 01343 00773 00787
+  light: 1343 temp1: 773 temp2: 787 time: 2076
+  T42 1425145792 10764 65535 00300 05391 01377 00768 00792
+  light: 1377 temp1: 768 temp2: 792 time: 2095
+  T42 1425145811 10764 65535 00301 06394 01358 00768 00791
+  light: 1358 temp1: 768 temp2: 791 time: 2113
+  T42 1425145829 10764 65535 00303 08400 01326 00775 00791
+  light: 1326 temp1: 775 temp2: 791 time: 2132
+  T42 1425145848 10764 65535 00306 00406 01328 00773 00791
+  light: 1328 temp1: 773 temp2: 791 time: 2150
+  T42 1425145866 10764 65535 00307 01409 01348 00773 00783
+  light: 1348 temp1: 773 temp2: 783 time: 2169
+  T42 1425145885 10764 65535 00309 03415 01328 00764 00780
+  light: 1328 temp1: 764 temp2: 780 time: 2188
+  T42 1425145903 10764 65535 00311 05421 01359 00769 00792
+  light: 1359 temp1: 769 temp2: 792 time: 2206
+  T42 1425145922 10764 65535 00312 06424 01328 00779 00791
+  light: 1328 temp1: 779 temp2: 791 time: 2225
+  T42 1425145941 10764 65535 00314 08430 01343 00773 00792
+  light: 1343 temp1: 773 temp2: 792 time: 2243
+  T42 1425145959 10764 65535 00317 00436 01328 00771 00791
+  light: 1328 temp1: 771 temp2: 791 time: 2262
+  T42 1425145978 10764 65535 00318 01439 01328 00775 00791
+  light: 1328 temp1: 775 temp2: 791 time: 2280
+  T42 1425145996 10764 65535 00320 03445 01343 00771 00791
+  light: 1343 temp1: 771 temp2: 791 time: 2299
+  T42 1425146015 10764 65535 00322 05451 01336 00773 00791
+  light: 1336 temp1: 773 temp2: 791 time: 2317
+  T42 1425146033 10764 65535 00324 07457 01335 00775 00792
+  light: 1335 temp1: 775 temp2: 792 time: 2336
+  T42 1425146052 10764 65535 00325 08460 01343 00771 00792
+  light: 1343 temp1: 771 temp2: 792 time: 2354
+  T42 1425146070 10764 65535 00328 00466 01343 00771 00783
+  light: 1343 temp1: 771 temp2: 783 time: 2373
+  T42 1425146089 10764 65535 00330 02472 01359 00769 00791
+  light: 1359 temp1: 769 temp2: 791 time: 2391
+  T42 1425146107 10764 65535 00331 03475 01359 00771 00791
+  light: 1359 temp1: 771 temp2: 791 time: 2410
+  T42 1425146126 10764 65535 00333 05481 01376 00768 00793
+  light: 1376 temp1: 768 temp2: 793 time: 2428
+  T42 1425146144 10764 65535 00335 07487 01351 00771 00793
+  light: 1351 temp1: 771 temp2: 793 time: 2447
+  T42 1425146163 10764 65535 00336 08490 01342 00771 00791
+  light: 1342 temp1: 771 temp2: 791 time: 2465
+  T42 1425146181 10764 65535 00339 00496 01351 00771 00792
+  light: 1351 temp1: 771 temp2: 792 time: 2484
+  T42 1425146200 10764 65535 00341 02502 01340 00771 00793
+  light: 1340 temp1: 771 temp2: 793 time: 2502
+  T42 1425146218 10764 65535 00342 03505 01331 00775 00793
+  light: 1331 temp1: 775 temp2: 793 time: 2521
+  T42 1425146237 10764 65535 00344 05511 01331 00775 00791
+  light: 1331 temp1: 775 temp2: 791 time: 2539
+  T42 1425146255 10764 65535 00346 07517 01324 00775 00792
+  light: 1324 temp1: 775 temp2: 792 time: 2558
+  T42 1425146274 10764 65535 00347 08520 01331 00775 00792
+  light: 1331 temp1: 775 temp2: 792 time: 2576
+  T42 1425146293 10764 65535 00350 00526 01337 00768 00791
+  light: 1337 temp1: 768 temp2: 791 time: 2595
+  T42 1425146311 10764 65535 00352 02532 01356 00771 00789
+  light: 1356 temp1: 771 temp2: 789 time: 2614
+  T42 1425146330 10764 65535 00353 03535 01295 00780 00791
+  light: 1295 temp1: 780 temp2: 791 time: 2632
+  T42 1425146348 10764 65535 00355 05541 01329 00780 00793
+  light: 1329 temp1: 780 temp2: 793 time: 2651
+  T42 1425146367 10764 65535 00357 07547 01359 00769 00792
+  light: 1359 temp1: 769 temp2: 792 time: 2669
+..
+  stopped.
+  Welcome to Logo
+porject "BasicBoard
+  I don't know how to porject
+project "BasicBoard
+  Start Project:  BasicBoard     Sat Feb 28 14:53:43 PST 2015   unix time:  1425164023263
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  T42 1425164036 10764 65535 00003 00746 01592 00771 00796
+  light: 1592 temp1: 771 temp2: 796 time: 3
+  T42 1425164055 10764 65535 00004 01749 01449 00775 00796
+  light: 1449 temp1: 775 temp2: 796 time: 22
+  T42 1425164074 10764 65535 00006 03755 01420 00783 00792
+  light: 1420 temp1: 783 temp2: 792 time: 41
+  T42 1425164092 10764 65535 00008 05761 01427 00780 00792
+  light: 1427 temp1: 780 temp2: 792 time: 60
+  T42 1425164111 10764 65535 00009 06764 01447 00783 00793
+  light: 1447 temp1: 783 temp2: 793 time: 78
+  T42 1425164129 10764 65535 00011 08770 01432 00780 00791
+  light: 1432 temp1: 780 temp2: 791 time: 97
+  T42 1425164148 10764 65535 00014 00776 01439 00775 00793
+  light: 1439 temp1: 775 temp2: 793 time: 115
+  T42 1425164166 10764 65535 00015 01779 01439 00779 00795
+  light: 1439 temp1: 779 temp2: 795 time: 134
+  T42 1425164185 10764 65535 00017 03785 01447 00775 00795
+  light: 1447 temp1: 775 temp2: 795 time: 152
+  T42 1425164203 10764 65535 00019 05791 01439 00780 00796
+  light: 1439 temp1: 780 temp2: 796 time: 171
+  T42 1425164222 10764 65535 00020 06794 01438 00780 00796
+  light: 1438 temp1: 780 temp2: 796 time: 189
+  T42 1425164240 10764 65535 00022 08800 01475 00773 00795
+  light: 1475 temp1: 773 temp2: 795 time: 208
+  T42 1425164259 10764 65535 00025 00806 01479 00771 00797
+  light: 1479 temp1: 771 temp2: 797 time: 226
+  T42 1425164277 10764 65535 00027 02812 01472 00764 00783
+  light: 1472 temp1: 764 temp2: 783 time: 245
+  T42 1425164296 10764 65535 00028 03815 01459 00775 00796
+  light: 1459 temp1: 775 temp2: 796 time: 263
+  T42 1425164314 10764 65535 00030 05821 00504 00793 00793
+  light: 504 temp1: 793 temp2: 793 time: 282
+  T42 1425164333 10764 65535 00032 07827 00505 00792 00795
+  light: 505 temp1: 792 temp2: 795 time: 300
+  T42 1425164351 10764 65535 00033 08830 00504 00793 00795
+  light: 504 temp1: 793 temp2: 795 time: 319
+  T42 1425164370 10764 65535 00036 00836 00504 00792 00796
+  light: 504 temp1: 792 temp2: 796 time: 337
+  T42 1425164388 10764 65535 00038 02842 00504 00791 00793
+  light: 504 temp1: 791 temp2: 793 time: 356
+  T42 1425164407 10764 65535 00039 03845 00505 00793 00795
+  light: 505 temp1: 793 temp2: 795 time: 374
+  T42 1425164425 10764 65535 00041 05851 00504 00792 00791
+  light: 504 temp1: 792 temp2: 791 time: 393
+  T42 1425164444 10764 65535 00043 07857 01393 00768 00793
+  light: 1393 temp1: 768 temp2: 793 time: 411
+  T42 1425164462 10764 65535 00044 08860 01392 00769 00795
+  light: 1392 temp1: 769 temp2: 795 time: 430
+  T42 1425164481 10764 65535 00047 00866 01392 00759 00783
+  light: 1392 temp1: 759 temp2: 783 time: 448
+  T42 1425164499 10764 65535 00049 02872 01383 00771 00796
+  light: 1383 temp1: 771 temp2: 796 time: 467
+  T42 1425164518 10764 65535 00050 03875 01383 00771 00796
+  light: 1383 temp1: 771 temp2: 796 time: 485
+  T42 1425164536 10764 65535 00052 05881 01379 00775 00797
+  light: 1379 temp1: 775 temp2: 797 time: 504
+  T42 1425164555 10764 65535 00054 07887 01383 00761 00783
+  light: 1383 temp1: 761 temp2: 783 time: 522
+  T42 1425164573 10764 65535 00055 08890 01381 00769 00796
+  light: 1381 temp1: 769 temp2: 796 time: 541
+  T42 1425164592 10764 65535 00058 00896 01377 00772 00793
+  light: 1377 temp1: 772 temp2: 793 time: 559
+  T42 1425164610 10764 65535 00060 02902 01377 00772 00799
+  light: 1377 temp1: 772 temp2: 799 time: 578
+  T42 1425164629 10764 65535 00061 03905 01423 00783 00793
+  light: 1423 temp1: 783 temp2: 793 time: 596
+  T42 1425164647 10764 65535 00063 05911 01377 00768 00797
+  light: 1377 temp1: 768 temp2: 797 time: 615
+  T42 1425164666 10764 65535 00065 07917 01393 00769 00796
+  light: 1393 temp1: 769 temp2: 796 time: 633
+  T42 1425164684 10764 65535 00066 08920 01392 00769 00797
+  light: 1392 temp1: 769 temp2: 797 time: 652
+  T42 1425164703 10764 65535 00069 00926 01400 00768 00796
+  light: 1400 temp1: 768 temp2: 796 time: 670
+  T42 1425164721 10764 65535 00071 02932 01383 00771 00797
+  light: 1383 temp1: 771 temp2: 797 time: 689
+  T42 1425164740 10764 65535 00073 04938 01415 00783 00797
+  light: 1415 temp1: 783 temp2: 797 time: 707
+  T42 1425164758 10764 65535 00074 05941 01389 00769 00799
+  light: 1389 temp1: 769 temp2: 799 time: 726
+  T42 1425164777 10764 65535 00076 07947 01393 00768 00797
+  light: 1393 temp1: 768 temp2: 797 time: 744
+  T42 1425164795 10764 65535 00078 09953 01397 00768 00797
+  light: 1397 temp1: 768 temp2: 797 time: 763
+  T42 1425164814 10764 65535 00080 00956 01411 00783 00797
+  light: 1411 temp1: 783 temp2: 797 time: 781
+  T42 1425164832 10764 65535 00082 02962 01404 00768 00799
+  light: 1404 temp1: 768 temp2: 799 time: 800
+  T42 1425164851 10764 65535 00084 04968 01431 00783 00795
+  light: 1431 temp1: 783 temp2: 795 time: 818
+  T42 1425164869 10764 65535 00085 05971 01376 00775 00797
+  light: 1376 temp1: 775 temp2: 797 time: 837
+  T42 1425164888 10764 65535 00087 07977 01393 00768 00799
+  light: 1393 temp1: 768 temp2: 799 time: 855
+  T42 1425164906 10764 65535 00089 09983 01368 00775 00797
+  light: 1368 temp1: 775 temp2: 797 time: 874
+  T42 1425164925 10764 65535 00091 00986 01343 00780 00797
+  light: 1343 temp1: 780 temp2: 797 time: 892
+  T42 1425164943 10764 65535 00093 02992 01287 00787 00796
+  light: 1287 temp1: 787 temp2: 796 time: 911
+  T42 1425164962 10764 65535 00095 04998 01311 00783 00792
+  light: 1311 temp1: 783 temp2: 792 time: 929
+  T42 1425164980 10764 65535 00096 06001 01277 00769 00797
+  light: 1277 temp1: 769 temp2: 797 time: 948
+  T42 1425164999 10764 65535 00098 08007 01311 00783 00795
+  light: 1311 temp1: 783 temp2: 795 time: 966
+  T42 1425165017 10764 65535 00101 00013 01283 00788 00796
+  light: 1283 temp1: 788 temp2: 796 time: 985
+  T42 1425165036 10764 65535 00102 01016 01311 00783 00797
+  light: 1311 temp1: 783 temp2: 797 time: 1003
+  T42 1425165054 10764 65535 00104 03022 01295 00783 00797
+  light: 1295 temp1: 783 temp2: 797 time: 1022
+  T42 1425165073 10764 65535 00106 05028 01287 00791 00795
+  light: 1287 temp1: 791 temp2: 795 time: 1040
+  T42 1425165091 10764 65535 00108 07034 01272 00771 00796
+  light: 1272 temp1: 771 temp2: 796 time: 1059
+  T42 1425165110 10764 65535 00109 08037 01311 00783 00796
+  light: 1311 temp1: 783 temp2: 796 time: 1077
+  T42 1425165128 10764 65535 00112 00043 01279 00769 00796
+  light: 1279 temp1: 769 temp2: 796 time: 1096
+  T42 1425165147 10764 65535 00114 02049 01279 00768 00798
+  light: 1279 temp1: 768 temp2: 798 time: 1114
+  T42 1425165165 10764 65535 00115 03052 01308 00783 00791
+  light: 1308 temp1: 783 temp2: 791 time: 1133
+  T42 1425165184 10764 65535 00117 05058 01295 00783 00796
+  light: 1295 temp1: 783 temp2: 796 time: 1151
+  T42 1425165202 10764 65535 00119 07064 01276 00771 00796
+  light: 1276 temp1: 771 temp2: 796 time: 1170
+  T42 1425165221 10764 65535 00120 08067 01292 00783 00796
+  light: 1292 temp1: 783 temp2: 796 time: 1188
+  T42 1425165239 10764 65535 00123 00073 01295 00783 00796
+  light: 1295 temp1: 783 temp2: 796 time: 1207
+  T42 1425165258 10764 65535 00125 02079 01267 00773 00797
+  light: 1267 temp1: 773 temp2: 797 time: 1225
+  T42 1425165276 10764 65535 00126 03082 01273 00771 00796
+  light: 1273 temp1: 771 temp2: 796 time: 1244
+  T42 1425165295 10764 65535 00128 05088 01251 00775 00793
+  light: 1251 temp1: 775 temp2: 793 time: 1262
+  T42 1425165313 10764 65535 00130 07094 01255 00775 00797
+  light: 1255 temp1: 775 temp2: 797 time: 1281
+  T42 1425165332 10764 65535 00131 08097 01255 00775 00796
+  light: 1255 temp1: 775 temp2: 796 time: 1299
+  T42 1425165350 10764 65535 00134 00103 01265 00771 00796
+  light: 1265 temp1: 771 temp2: 796 time: 1318
+  T42 1425165369 10764 65535 00136 02109 01271 00771 00799
+  light: 1271 temp1: 771 temp2: 799 time: 1336
+  T42 1425165387 10764 65535 00137 03112 01248 00777 00796
+  light: 1248 temp1: 777 temp2: 796 time: 1355
+  T42 1425165406 10764 65535 00139 05118 01264 00771 00796
+  light: 1264 temp1: 771 temp2: 796 time: 1373
+  T42 1425165424 10764 65535 00141 07124 01248 00779 00797
+  light: 1248 temp1: 779 temp2: 797 time: 1392
+  T42 1425165443 10764 65535 00142 08127 01263 00775 00796
+  light: 1263 temp1: 775 temp2: 796 time: 1410
+  T42 1425165461 10764 65535 00145 00133 01255 00775 00796
+  light: 1255 temp1: 775 temp2: 796 time: 1429
+  T42 1425165480 10764 65535 00147 02139 01240 00779 00796
+  light: 1240 temp1: 779 temp2: 796 time: 1447
+  T42 1425165498 10764 65535 00149 04145 01255 00775 00796
+  light: 1255 temp1: 775 temp2: 796 time: 1466
+  T42 1425165517 10764 65535 00150 05148 01279 00755 00789
+  light: 1279 temp1: 755 temp2: 789 time: 1484
+  T42 1425165535 10764 65535 00152 07154 01262 00775 00796
+  light: 1262 temp1: 775 temp2: 796 time: 1503
+  T42 1425165554 10764 65535 00154 09160 01260 00773 00793
+  light: 1260 temp1: 773 temp2: 793 time: 1521
+  T42 1425165572 10764 65535 00156 00163 01265 00773 00797
+  light: 1265 temp1: 773 temp2: 797 time: 1540
+  T42 1425165591 10764 65535 00158 02169 01255 00768 00796
+  light: 1255 temp1: 768 temp2: 796 time: 1558
+  T42 1425165609 10764 65535 00160 04175 01249 00775 00796
+  light: 1249 temp1: 775 temp2: 796 time: 1577
+  T42 1425165628 10764 65535 00161 05178 01248 00779 00796
+  light: 1248 temp1: 779 temp2: 796 time: 1595
+  T42 1425165646 10764 65535 00163 07184 01231 00780 00793
+  light: 1231 temp1: 780 temp2: 793 time: 1614
+  T42 1425165665 10764 65535 00165 09190 01244 00780 00799
+  light: 1244 temp1: 780 temp2: 799 time: 1632
+  T42 1425165683 10764 65535 00167 00193 01231 00781 00797
+  light: 1231 temp1: 781 temp2: 797 time: 1651
+  T42 1425165702 10764 65535 00169 02199 01264 00773 00799
+  light: 1264 temp1: 773 temp2: 799 time: 1669
+  T42 1425165720 10764 65535 00171 04205 01260 00775 00796
+  light: 1260 temp1: 775 temp2: 796 time: 1688
+  T42 1425165739 10764 65535 00172 05208 01255 00775 00793
+  light: 1255 temp1: 775 temp2: 793 time: 1706
+  T42 1425165757 10764 65535 00174 07214 01230 00779 00796
+  light: 1230 temp1: 779 temp2: 796 time: 1725
+  T42 1425165776 10764 65535 00176 09220 01264 00775 00796
+  light: 1264 temp1: 775 temp2: 796 time: 1743
+  T42 1425165795 10764 65535 00178 00223 01231 00780 00796
+  light: 1231 temp1: 780 temp2: 796 time: 1762
+  T42 1425165813 10764 65535 00180 02229 01247 00779 00796
+  light: 1247 temp1: 779 temp2: 796 time: 1781
+  T42 1425165832 10764 65535 00182 04235 01239 00779 00796
+  light: 1239 temp1: 779 temp2: 796 time: 1799
+  T42 1425165850 10764 65535 00183 05238 01231 00779 00796
+  light: 1231 temp1: 779 temp2: 796 time: 1818
+  T42 1425165869 10764 65535 00185 07244 01260 00775 00797
+  light: 1260 temp1: 775 temp2: 797 time: 1836
+  T42 1425165887 10764 65535 00187 09250 01231 00775 00799
+  light: 1231 temp1: 775 temp2: 799 time: 1855
+  T42 1425165906 10764 65535 00190 01256 01247 00775 00799
+  light: 1247 temp1: 775 temp2: 799 time: 1873
+  T42 1425165924 10764 65535 00191 02259 01262 00775 00799
+  light: 1262 temp1: 775 temp2: 799 time: 1892
+  T42 1425165943 10764 65535 00193 04265 01247 00780 00799
+  light: 1247 temp1: 780 temp2: 799 time: 1910
+  T42 1425165961 10764 65535 00195 06271 01251 00769 00799
+  light: 1251 temp1: 769 temp2: 799 time: 1929
+  T42 1425165980 10764 65535 00196 07274 01240 00780 00796
+  light: 1240 temp1: 780 temp2: 796 time: 1947
+  T42 1425165998 10764 65535 00198 09280 01251 00779 00799
+  light: 1251 temp1: 779 temp2: 799 time: 1966
+  T42 1425166017 10764 65535 00201 01286 01247 00777 00799
+  light: 1247 temp1: 777 temp2: 799 time: 1984
+  T42 1425166035 10764 65535 00202 02289 01241 00780 00799
+  light: 1241 temp1: 780 temp2: 799 time: 2003
+  T42 1425166054 10764 65535 00204 04295 01272 00775 00796
+  light: 1272 temp1: 775 temp2: 796 time: 2021
+  T42 1425166072 10764 65535 00206 06301 01271 00773 00796
+  light: 1271 temp1: 773 temp2: 796 time: 2040
+  T42 1425166091 10764 65535 00207 07304 01240 00775 00796
+  light: 1240 temp1: 775 temp2: 796 time: 2058
+  T42 1425166109 10764 65535 00209 09310 01246 00777 00799
+  light: 1246 temp1: 777 temp2: 799 time: 2077
+  T42 1425166128 10764 65535 00212 01316 01273 00769 00797
+  light: 1273 temp1: 769 temp2: 797 time: 2095
+  T42 1425166146 10764 65535 00213 02319 01255 00775 00799
+  light: 1255 temp1: 775 temp2: 799 time: 2114
+  T42 1425166165 10764 65535 00215 04325 01276 00771 00799
+  light: 1276 temp1: 771 temp2: 799 time: 2132
+  T42 1425166183 10764 65535 00217 06331 01328 00783 00799
+  light: 1328 temp1: 783 temp2: 799 time: 2151
+  T42 1425166202 10764 65535 00218 07334 01340 00781 00797
+  light: 1340 temp1: 781 temp2: 797 time: 2169
+  T42 1425166220 10764 65535 00220 09340 01340 00783 00796
+  light: 1340 temp1: 783 temp2: 796 time: 2188
+  T42 1425166239 10764 65535 00223 01346 01376 00775 00799
+  light: 1376 temp1: 775 temp2: 799 time: 2206
+  T42 1425166257 10764 65535 00225 03352 01359 00769 00796
+  light: 1359 temp1: 769 temp2: 796 time: 2225
+  T42 1425166276 10764 65535 00226 04355 01319 00783 00799
+  light: 1319 temp1: 783 temp2: 799 time: 2243
+  T42 1425166294 10764 65535 00228 06361 01255 00775 00798
+  light: 1255 temp1: 775 temp2: 798 time: 2262
+  T42 1425166313 10764 65535 00230 08367 01273 00771 00796
+  light: 1273 temp1: 771 temp2: 796 time: 2281
+  T42 1425166332 10764 65535 00231 09370 01248 00775 00798
+  light: 1248 temp1: 775 temp2: 798 time: 2299
+  T42 1425166350 10764 65535 00234 01376 01248 00775 00799
+  light: 1248 temp1: 775 temp2: 799 time: 2318
+  T42 1425166369 10764 65535 00236 03382 01439 00791 00828
+  light: 1439 temp1: 791 temp2: 828 time: 2336
+  T42 1425166387 10764 65535 00237 04385 01304 00793 00812
+  light: 1304 temp1: 793 temp2: 812 time: 2355
+  T42 1425166406 10764 65535 00239 06391 01415 00799 00812
+  light: 1415 temp1: 799 temp2: 812 time: 2373
+  T42 1425166424 10764 65535 00241 08397 01459 00796 00819
+  light: 1459 temp1: 796 temp2: 819 time: 2392
+  T42 1425166443 10764 65535 00242 09400 01439 00799 00817
+  light: 1439 temp1: 799 temp2: 817 time: 2410
+  T42 1425166461 10764 65535 00245 01406 01432 00792 00807
+  light: 1432 temp1: 792 temp2: 807 time: 2429
+  T42 1425166480 10764 65535 00247 03412 01433 00793 00803
+  light: 1433 temp1: 793 temp2: 803 time: 2447
+  T42 1425166498 10764 65535 00248 04415 01439 00791 00799
+  light: 1439 temp1: 791 temp2: 799 time: 2466
+  T42 1425166517 10764 65535 00250 06421 01455 00783 00799
+  light: 1455 temp1: 783 temp2: 799 time: 2484
+  T42 1425166535 10764 65535 00252 08427 01472 00783 00805
+  light: 1472 temp1: 783 temp2: 805 time: 2503
+  T42 1425166554 10764 65535 00253 09430 01461 00783 00805
+  light: 1461 temp1: 783 temp2: 805 time: 2521
+  T42 1425166572 10764 65535 00256 01436 01436 00789 00799
+  light: 1436 temp1: 789 temp2: 799 time: 2540
+  T42 1425166591 10764 65535 00258 03442 01447 00787 00799
+  light: 1447 temp1: 787 temp2: 799 time: 2558
+  T42 1425166609 10764 65535 00260 05448 01500 00775 00799
+  light: 1500 temp1: 775 temp2: 799 time: 2577
+  T42 1425166628 10764 65535 00261 06451 01484 00781 00799
+  light: 1484 temp1: 781 temp2: 799 time: 2595
+  T42 1425166646 10764 65535 00263 08457 01529 00766 00793
+  light: 1529 temp1: 766 temp2: 793 time: 2614
+  T42 1425166665 10764 65535 00266 00463 01487 00781 00799
+  light: 1487 temp1: 781 temp2: 799 time: 2632
+  T42 1425166683 10764 65535 00267 01466 01500 00775 00799
+  light: 1500 temp1: 775 temp2: 799 time: 2651
+  T42 1425166702 10764 65535 00269 03472 01487 00780 00799
+  light: 1487 temp1: 780 temp2: 799 time: 2670
+  T42 1425166721 10764 65535 00271 05478 01479 00783 00799
+  light: 1479 temp1: 783 temp2: 799 time: 2688
+  T42 1425166739 10764 65535 00272 06481 01496 00780 00799
+  light: 1496 temp1: 780 temp2: 799 time: 2707
+  T42 1425166758 10764 65535 00274 08487 01468 00783 00799
+  light: 1468 temp1: 783 temp2: 799 time: 2725
+  T42 1425166776 10764 65535 00277 00493 01527 00768 00799
+  light: 1527 temp1: 768 temp2: 799 time: 2744
+  T42 1425166795 10764 65535 00278 01496 01447 00783 00799
+  light: 1447 temp1: 783 temp2: 799 time: 2762
+  T42 1425166813 10764 65535 00280 03502 01465 00783 00799
+  light: 1465 temp1: 783 temp2: 799 time: 2781
+  T42 1425166832 10764 65535 00282 05508 01465 00783 00799
+  light: 1465 temp1: 783 temp2: 799 time: 2799
+  T42 1425166850 10764 65535 00283 06511 01464 00783 00799
+  light: 1464 temp1: 783 temp2: 799 time: 2818
+  T42 1425166869 10764 65535 00285 08517 01487 00780 00799
+  light: 1487 temp1: 780 temp2: 799 time: 2836
+  T42 1425166887 10764 65535 00288 00523 01496 00775 00799
+  light: 1496 temp1: 775 temp2: 799 time: 2855
+  T42 1425166906 10764 65535 00289 01526 01495 00775 00799
+  light: 1495 temp1: 775 temp2: 799 time: 2873
+  T42 1425166924 10764 65535 00291 03532 01487 00780 00799
+  light: 1487 temp1: 780 temp2: 799 time: 2892
+  T42 1425166943 10764 65535 00293 05538 01511 00773 00799
+  light: 1511 temp1: 773 temp2: 799 time: 2910
+  T42 1425166961 10764 65535 00295 07544 01479 00783 00799
+  light: 1479 temp1: 783 temp2: 799 time: 2929
+  T42 1425166980 10764 65535 00296 08547 01479 00775 00799
+  light: 1479 temp1: 775 temp2: 799 time: 2947
+  T42 1425166998 10764 65535 00299 00553 01511 00771 00799
+  light: 1511 temp1: 771 temp2: 799 time: 2966
+  T42 1425167017 10764 65535 00301 02559 01495 00775 00799
+  light: 1495 temp1: 775 temp2: 799 time: 2984
+  T42 1425167035 10764 65535 00302 03562 01511 00771 00799
+  light: 1511 temp1: 771 temp2: 799 time: 3003
+  T42 1425167054 10764 65535 00304 05568 01536 00791 00799
+  light: 1536 temp1: 791 temp2: 799 time: 3021
+  T42 1425167073 10764 65535 00306 07574 01503 00775 00799
+  light: 1503 temp1: 775 temp2: 799 time: 3040
+  T42 1425167091 10764 65535 00307 08577 01527 00767 00791
+  light: 1527 temp1: 767 temp2: 791 time: 3059
+  T42 1425167110 10764 65535 00310 00583 01551 00787 00799
+  light: 1551 temp1: 787 temp2: 799 time: 3077
+  T42 1425167128 10764 65535 00312 02589 01560 00783 00799
+  light: 1560 temp1: 783 temp2: 799 time: 3096
+  T42 1425167147 10764 65535 00313 03592 01592 00780 00799
+  light: 1592 temp1: 780 temp2: 799 time: 3114
+  T42 1425167165 10764 65535 00315 05598 01575 00783 00799
+  light: 1575 temp1: 783 temp2: 799 time: 3133
+  T42 1425167184 10764 65535 00317 07604 01551 00787 00799
+  light: 1551 temp1: 787 temp2: 799 time: 3151
+  T42 1425167202 10764 65535 00318 08607 01591 00780 00799
+  light: 1591 temp1: 780 temp2: 799 time: 3170
+  T42 1425167221 10764 65535 00321 00613 01551 00783 00799
+  light: 1551 temp1: 783 temp2: 799 time: 3188
+  T42 1425167239 10764 65535 00323 02619 01593 00781 00799
+  light: 1593 temp1: 781 temp2: 799 time: 3207
+  T42 1425167258 10764 65535 00324 03622 01584 00781 00799
+  light: 1584 temp1: 781 temp2: 799 time: 3225
+  T42 1425167276 10764 65535 00326 05628 01560 00783 00799
+  light: 1560 temp1: 783 temp2: 799 time: 3244
+  T42 1425167295 10764 65535 00328 07634 01532 00759 00795
+  light: 1532 temp1: 759 temp2: 795 time: 3262
+  T42 1425167313 10764 65535 00329 08637 01567 00783 00799
+  light: 1567 temp1: 783 temp2: 799 time: 3281
+  T42 1425167332 10764 65535 00332 00643 01523 00771 00799
+  light: 1523 temp1: 771 temp2: 799 time: 3299
+  T42 1425167350 10764 65535 00334 02649 01551 00787 00799
+  light: 1551 temp1: 787 temp2: 799 time: 3318
+  T42 1425167369 10764 65535 00336 04655 01580 00783 00799
+  light: 1580 temp1: 783 temp2: 799 time: 3337
+  T42 1425167387 10764 65535 00337 05658 01532 00768 00803
+  light: 1532 temp1: 768 temp2: 803 time: 3355
+  T42 1425167406 10764 65535 00339 07664 01560 00783 00799
+  light: 1560 temp1: 783 temp2: 799 time: 3374
+  T42 1425167425 10764 65535 00341 09670 01560 00783 00799
+  light: 1560 temp1: 783 temp2: 799 time: 3392
+  T42 1425167443 10764 65535 00343 00673 01559 00783 00799
+  light: 1559 temp1: 783 temp2: 799 time: 3411
+  T42 1425167462 10764 65535 00345 02679 01559 00783 00799
+  light: 1559 temp1: 783 temp2: 799 time: 3429
+  T42 1425167480 10764 65535 00347 04685 01551 00783 00799
+  light: 1551 temp1: 783 temp2: 799 time: 3448
+  T42 1425167499 10764 65535 00348 05688 01537 00791 00799
+  light: 1537 temp1: 791 temp2: 799 time: 3466
+  T42 1425167517 10764 65535 00350 07694 01539 00783 00799
+  light: 1539 temp1: 783 temp2: 799 time: 3485
+  T42 1425167536 10764 65535 00352 09700 01527 00768 00799
+  light: 1527 temp1: 768 temp2: 799 time: 3503
+  T42 1425167554 10764 65535 00354 00703 01539 00791 00799
+  light: 1539 temp1: 791 temp2: 799 time: 3522
+  T42 1425167573 10764 65535 00356 02709 01537 00789 00799
+  light: 1537 temp1: 789 temp2: 799 time: 3540
+  T42 1425167591 10764 65535 00358 04715 01551 00791 00799
+  light: 1551 temp1: 791 temp2: 799 time: 3559
+  T42 1425167610 10764 65535 00359 05718 01543 00791 00799
+  light: 1543 temp1: 791 temp2: 799 time: 3577
+  T42 1425167628 10764 65535 00361 07724 01585 00780 00799
+  light: 1585 temp1: 780 temp2: 799 time: 3596
+  T42 1425167647 10764 65535 00363 09730 01551 00783 00799
+  light: 1551 temp1: 783 temp2: 799 time: 3614
+  T42 1425167665 10764 65535 00365 00733 01567 00783 00799
+  light: 1567 temp1: 783 temp2: 799 time: 3633
+  T42 1425167684 10764 65535 00367 02739 01528 00768 00799
+  light: 1528 temp1: 768 temp2: 799 time: 3651
+  T42 1425167702 10764 65535 00369 04745 01532 00764 00793
+  light: 1532 temp1: 764 temp2: 793 time: 3670
+  T42 1425167721 10764 65535 00371 06751 01520 00771 00799
+  light: 1520 temp1: 771 temp2: 799 time: 3688
+  T42 1425167739 10764 65535 00372 07754 01528 00768 00799
+  light: 1528 temp1: 768 temp2: 799 time: 3707
+  T42 1425167758 10764 65535 00374 09760 01539 00791 00799
+  light: 1539 temp1: 791 temp2: 799 time: 3726
+  T42 1425167777 10764 65535 00377 01766 01548 00787 00799
+  light: 1548 temp1: 787 temp2: 799 time: 3744
+  T42 1425167795 10764 65535 00378 02769 01543 00789 00799
+  light: 1543 temp1: 789 temp2: 799 time: 3763
+  T42 1425167814 10764 65535 00380 04775 01560 00787 00799
+  light: 1560 temp1: 787 temp2: 799 time: 3781
+  T42 1425167832 10764 65535 00382 06781 01560 00787 00799
+  light: 1560 temp1: 787 temp2: 799 time: 3800
+  T42 1425167851 10764 65535 00383 07784 01550 00789 00799
+  light: 1550 temp1: 789 temp2: 799 time: 3818
+  T42 1425167869 10764 65535 00385 09790 01536 00795 00799
+  light: 1536 temp1: 795 temp2: 799 time: 3837
+  T42 1425167888 10764 65535 00388 01796 01564 00787 00799
+  light: 1564 temp1: 787 temp2: 799 time: 3855
+  T42 1425167906 10764 65535 00389 02799 01551 00775 00799
+  light: 1551 temp1: 775 temp2: 799 time: 3874
+  T42 1425167925 10764 65535 00391 04805 01599 00771 00799
+  light: 1599 temp1: 771 temp2: 799 time: 3893
+  T42 1425167944 10764 65535 00393 06811 01553 00787 00799
+  light: 1553 temp1: 787 temp2: 799 time: 3911
+  T42 1425167962 10764 65535 00394 07814 01560 00783 00799
+  light: 1560 temp1: 783 temp2: 799 time: 3930
+  T42 1425167981 10764 65535 00396 09820 01567 00783 00799
+  light: 1567 temp1: 783 temp2: 799 time: 3948
+  T42 1425167999 10764 65535 00399 01826 01548 00791 00799
+  light: 1548 temp1: 791 temp2: 799 time: 3967
+  T42 1425168018 10764 65535 00401 03832 01551 00783 00799
+  light: 1551 temp1: 783 temp2: 799 time: 3985
+  T42 1425168036 10764 65535 00402 04835 01582 00783 00799
+  light: 1582 temp1: 783 temp2: 799 time: 4004
+  T42 1425168055 10764 65535 00404 06841 01561 00783 00799
+  light: 1561 temp1: 783 temp2: 799 time: 4022
+  T42 1425168073 10764 65535 00406 08847 01511 00775 00799
+  light: 1511 temp1: 775 temp2: 799 time: 4041
+  T42 1425168092 10764 65535 00407 09850 01519 00771 00799
+  light: 1519 temp1: 771 temp2: 799 time: 4059
+  T42 1425168110 10764 65535 00410 01856 01470 00783 00799
+  light: 1470 temp1: 783 temp2: 799 time: 4078
+  T42 1425168129 10764 65535 00412 03862 01479 00783 00799
+  light: 1479 temp1: 783 temp2: 799 time: 4096
+  T42 1425168147 10764 65535 00413 04865 01439 00791 00799
+  light: 1439 temp1: 791 temp2: 799 time: 4115
+  T42 1425168166 10764 65535 00415 06871 01472 00783 00799
+  light: 1472 temp1: 783 temp2: 799 time: 4133
+  T42 1425168184 10764 65535 00417 08877 01447 00789 00799
+  light: 1447 temp1: 789 temp2: 799 time: 4152
+  T42 1425168203 10764 65535 00418 09880 01461 00783 00799
+  light: 1461 temp1: 783 temp2: 799 time: 4171
+  T42 1425168222 10764 65535 00421 01886 01479 00783 00799
+  light: 1479 temp1: 783 temp2: 799 time: 4189
+  T42 1425168240 10764 65535 00423 03892 01503 00771 00799
+  light: 1503 temp1: 771 temp2: 799 time: 4208
+  T42 1425168259 10764 65535 00424 04895 01420 00793 00799
+  light: 1420 temp1: 793 temp2: 799 time: 4227
+  T42 1425168278 10764 65535 00426 06901 01464 00783 00799
+  light: 1464 temp1: 783 temp2: 799 time: 4245
+  T42 1425168296 10764 65535 00428 08907 01427 00791 00799
+  light: 1427 temp1: 791 temp2: 799 time: 4264
+  T42 1425168315 10764 65535 00431 00913 01452 00783 00799
+  light: 1452 temp1: 783 temp2: 799 time: 4282
+  T42 1425168333 10764 65535 00432 01916 01423 00792 00799
+  light: 1423 temp1: 792 temp2: 799 time: 4301
+  T42 1425168352 10764 65535 00434 03922 01408 00793 00799
+  light: 1408 temp1: 793 temp2: 799 time: 4319
+  T42 1425168370 10764 65535 00436 05928 01423 00793 00799
+  light: 1423 temp1: 793 temp2: 799 time: 4338
+  T42 1425168389 10764 65535 00437 06931 01415 00793 00799
+  light: 1415 temp1: 793 temp2: 799 time: 4356
+  T42 1425168407 10764 65535 00439 08937 01432 00792 00799
+  light: 1432 temp1: 792 temp2: 799 time: 4375
+  T42 1425168426 10764 65535 00442 00943 01459 00783 00799
+  light: 1459 temp1: 783 temp2: 799 time: 4393
+  T42 1425168445 10764 65535 00443 01946 01439 00791 00799
+  light: 1439 temp1: 791 temp2: 799 time: 4412
+..
+  stopped.
+gedit BasicBoard.txt
+  gedit undefined
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Sat Feb 28 16:20:33 PST 2015   unix time:  1425169233053
+  Opening Project  BasicBoard
+.print now
+  1425169235106
+.print now
+  1425169238504
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Sat Feb 28 16:34:16 PST 2015   unix time:  1425170056373
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  T42 1425170072 10764 65535 00606 07860 01337 00789 00799
+  light: 1337 temp1: 789 temp2: 799 time: 3
+  T42 1425170091 10764 65535 00607 08863 01356 00787 00799
+  light: 1356 temp1: 787 temp2: 799 time: 23
+  T42 1425170110 10764 65535 00610 00869 01295 00799 00799
+  light: 1295 temp1: 799 temp2: 799 time: 41
+  T42 1425170128 10764 65535 00612 02875 01311 00793 00803
+  light: 1311 temp1: 793 temp2: 803 time: 60
+  T42 1425170147 10764 65535 00613 03878 01372 00783 00807
+  light: 1372 temp1: 783 temp2: 807 time: 78
+  T42 1425170165 10764 65535 00615 05884 01351 00787 00799
+  light: 1351 temp1: 787 temp2: 799 time: 97
+  T42 1425170184 10764 65535 00617 07890 01329 00793 00805
+  light: 1329 temp1: 793 temp2: 805 time: 115
+  T42 1425170202 10764 65535 00618 08893 01351 00783 00799
+  light: 1351 temp1: 783 temp2: 799 time: 134
+  T42 1425170221 10764 65535 00621 00899 00510 00799 00799
+  light: 510 temp1: 799 temp2: 799 time: 152
+  T42 1425170239 10764 65535 00623 02905 00505 00799 00807
+  light: 505 temp1: 799 temp2: 807 time: 171
+  T42 1425170258 10764 65535 00624 03908 00508 00799 00799
+  light: 508 temp1: 799 temp2: 799 time: 189
+  T42 1425170276 10764 65535 00626 05914 01336 00793 00799
+  light: 1336 temp1: 793 temp2: 799 time: 208
+  T42 1425170295 10764 65535 00628 07920 01980 00768 00807
+  light: 1980 temp1: 768 temp2: 807 time: 226
+  T42 1425170313 10764 65535 00629 08923 01944 00780 00807
+  light: 1944 temp1: 780 temp2: 807 time: 245
+  T42 1425170332 10764 65535 00632 00929 01333 00791 00807
+  light: 1333 temp1: 791 temp2: 807 time: 263
+  T42 1425170350 10764 65535 00634 02935 01377 00783 00807
+  light: 1377 temp1: 783 temp2: 807 time: 282
+  T42 1425170369 10764 65535 00636 04941 01363 00783 00807
+  light: 1363 temp1: 783 temp2: 807 time: 300
+  T42 1425170388 10764 65535 00637 05944 01311 00796 00807
+  light: 1311 temp1: 796 temp2: 807 time: 319
+  T42 1425170406 10764 65535 00639 07950 01340 00793 00799
+  light: 1340 temp1: 793 temp2: 799 time: 337
+  T42 1425170424 10764 65535 00641 09956 01295 00799 00799
+  light: 1295 temp1: 799 temp2: 799 time: 356
+  T42 1425170443 10764 65535 00643 00959 01295 00799 00799
+  light: 1295 temp1: 799 temp2: 799 time: 374
+  T42 1425170461 10764 65535 00645 02965 01295 00799 00799
+  light: 1295 temp1: 799 temp2: 799 time: 393
+  T42 1425170480 10764 65535 00647 04971 01299 00799 00807
+  light: 1299 temp1: 799 temp2: 807 time: 411
+  T42 1425170498 10764 65535 00648 05974 01329 00793 00807
+  light: 1329 temp1: 793 temp2: 807 time: 430
+  T42 1425170517 10764 65535 00650 07980 01328 00787 00799
+  light: 1328 temp1: 787 temp2: 799 time: 448
+  T42 1425170535 10764 65535 00652 09986 01287 00799 00799
+  light: 1287 temp1: 799 temp2: 799 time: 467
+  T42 1425170554 10764 65535 00654 00989 01329 00793 00803
+  light: 1329 temp1: 793 temp2: 803 time: 485
+  T42 1425170572 10764 65535 00656 02995 01319 00793 00799
+  light: 1319 temp1: 793 temp2: 799 time: 504
+  T42 1425170591 10764 65535 00658 05001 01319 00793 00805
+  light: 1319 temp1: 793 temp2: 805 time: 522
+  T42 1425170609 10764 65535 00659 06004 01287 00799 00807
+  light: 1287 temp1: 799 temp2: 807 time: 541
+  T42 1425170628 10764 65535 00661 08010 01311 00795 00799
+  light: 1311 temp1: 795 temp2: 799 time: 559
+  T42 1425170646 10764 65535 00664 00016 01287 00799 00807
+  light: 1287 temp1: 799 temp2: 807 time: 578
+  T42 1425170665 10764 65535 00665 01019 01679 00789 00799
+  light: 1679 temp1: 789 temp2: 799 time: 596
+  T42 1425170684 10764 65535 00667 03025 01713 00783 00799
+  light: 1713 temp1: 783 temp2: 799 time: 615
+  T42 1425170702 10764 65535 00669 05031 01831 00781 00807
+  light: 1831 temp1: 781 temp2: 807 time: 633
+  T42 1425170721 10764 65535 00670 06034 01743 00773 00799
+  light: 1743 temp1: 773 temp2: 799 time: 652
+  T42 1425170739 10764 65535 00672 08040 01852 00775 00807
+  light: 1852 temp1: 775 temp2: 807 time: 671
+  T42 1425170758 10764 65535 00675 00046 01788 00760 00799
+  light: 1788 temp1: 760 temp2: 799 time: 689
+  T42 1425170776 10764 65535 00677 02052 01792 00791 00807
+  light: 1792 temp1: 791 temp2: 807 time: 708
+  T42 1425170795 10764 65535 00678 03055 01779 00761 00799
+  light: 1779 temp1: 761 temp2: 799 time: 726
+  T42 1425170813 10764 65535 00680 05061 01804 00783 00799
+  light: 1804 temp1: 783 temp2: 799 time: 745
+  T42 1425170832 10764 65535 00682 07067 01889 00761 00799
+  light: 1889 temp1: 761 temp2: 799 time: 763
+  T42 1425170850 10764 65535 00683 08070 01849 00775 00807
+  light: 1849 temp1: 775 temp2: 807 time: 782
+  T42 1425170869 10764 65535 00686 00076 01847 00775 00807
+  light: 1847 temp1: 775 temp2: 807 time: 800
+  T42 1425170887 10764 65535 00688 02082 01781 00760 00799
+  light: 1781 temp1: 760 temp2: 799 time: 819
+  T42 1425170906 10764 65535 00689 03085 01811 00783 00807
+  light: 1811 temp1: 783 temp2: 807 time: 837
+  T42 1425170924 10764 65535 00691 05091 01840 00783 00807
+  light: 1840 temp1: 783 temp2: 807 time: 856
+  T42 1425170943 10764 65535 00693 07097 01799 00791 00803
+  light: 1799 temp1: 791 temp2: 803 time: 874
+  T42 1425170961 10764 65535 00694 08100 01857 00771 00807
+  light: 1857 temp1: 771 temp2: 807 time: 893
+  T42 1425170980 10764 65535 00697 00106 01823 00783 00807
+  light: 1823 temp1: 783 temp2: 807 time: 911
+  T42 1425170998 10764 65535 00699 02112 01888 00765 00799
+  light: 1888 temp1: 765 temp2: 799 time: 930
+  T42 1425171017 10764 65535 00700 03115 01792 00792 00807
+  light: 1792 temp1: 792 temp2: 807 time: 948
+  T42 1425171035 10764 65535 00702 05121 01887 00767 00799
+  light: 1887 temp1: 767 temp2: 799 time: 967
+  T42 1425171054 10764 65535 00704 07127 01879 00769 00807
+  light: 1879 temp1: 769 temp2: 807 time: 986
+  T42 1425171073 10764 65535 00706 09133 01823 00783 00807
+  light: 1823 temp1: 783 temp2: 807 time: 1004
+  T42 1425171091 10764 65535 00708 00136 01792 00793 00807
+  light: 1792 temp1: 793 temp2: 807 time: 1023
+  T42 1425171110 10764 65535 00710 02142 01772 00764 00796
+  light: 1772 temp1: 764 temp2: 796 time: 1041
+  T42 1425171128 10764 65535 00712 04148 01820 00787 00807
+  light: 1820 temp1: 787 temp2: 807 time: 1060
+  T42 1425171147 10764 65535 00713 05151 01880 00768 00807
+  light: 1880 temp1: 768 temp2: 807 time: 1078
+  T42 1425171165 10764 65535 00715 07157 01905 00764 00799
+  light: 1905 temp1: 764 temp2: 799 time: 1097
+  T42 1425171184 10764 65535 00717 09163 01821 00783 00807
+  light: 1821 temp1: 783 temp2: 807 time: 1115
+  T42 1425171202 10764 65535 00719 00166 01783 00764 00799
+  light: 1783 temp1: 764 temp2: 799 time: 1134
+  T42 1425171221 10764 65535 00721 02172 01788 00764 00799
+  light: 1788 temp1: 764 temp2: 799 time: 1152
+  T42 1425171239 10764 65535 00723 04178 01807 00792 00807
+  light: 1807 temp1: 792 temp2: 807 time: 1171
+  T42 1425171258 10764 65535 00724 05181 01904 00760 00799
+  light: 1904 temp1: 760 temp2: 799 time: 1189
+  T42 1425171276 10764 65535 00726 07187 01811 00792 00807
+  light: 1811 temp1: 792 temp2: 807 time: 1208
+  T42 1425171295 10764 65535 00728 09193 01807 00791 00807
+  light: 1807 temp1: 791 temp2: 807 time: 1226
+  T42 1425171313 10764 65535 00730 00196 01831 00783 00807
+  light: 1831 temp1: 783 temp2: 807 time: 1245
+  T42 1425171332 10764 65535 00732 02202 01777 00768 00812
+  light: 1777 temp1: 768 temp2: 812 time: 1263
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Tue Mar 10 10:49:04 PDT 2015   unix time:  1426009744549
+  Opening Project  BasicBoard
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Tue Mar 10 10:50:48 PDT 2015   unix time:  1426009848818
+  Opening Project  BasicBoard
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Tue Mar 10 10:51:23 PDT 2015   unix time:  1426009883361
+  Opening Project  BasicBoard
+print 1234
+  Chip not found.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Tue Mar 10 11:37:56 PDT 2015   unix time:  1426012676631
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  rpacket undefined in init-packet
+.d.compile
+  I don't know how to d.compile
+.compile
+  Compiling...
+  rpacket undefined in init-packet
+.compile
+  Compiling...
+  1287 bytes
+.download
+  1287 bytes
+.BasicBoard
+  starting BasicBoard
+  T42 1426012810 10764 65535 00027 00539 01527 00768 00799
+  light: 1527 temp1: 768 temp2: 799 time: 3
+  T42 1426012830 10764 65535 00028 01542 01191 00793 00799
+  light: 1191 temp1: 793 temp2: 799 time: 23
+  T42 1426012848 10764 65535 00030 03548 01177 00796 00799
+  light: 1177 temp1: 796 temp2: 799 time: 42
+  T42 1426012867 10764 65535 00032 05554 01183 00795 00799
+  light: 1183 temp1: 795 temp2: 799 time: 60
+..
+  stopped.
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Apr  3 11:28:48 PDT 2015   unix time:  1428085728106
+  Opening Project  BasicBoard
+  can't open port /dev/ttyUSB0 in open-linux-port
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Apr  3 11:30:53 PDT 2015   unix time:  1428085853381
+  Opening Project  BasicBoard
+  can't open port /dev/ttyUSB0 in open-linux-port
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Apr  3 11:35:32 PDT 2015   unix time:  1428086132240
+  Opening Project  BasicBoard
+print 1234
+  1234
+redon
+  redon undefined
+.compile
+  Compiling...
+  1287 bytes
+redon
+redon
+  runvm error
+reprint 1234
+  runvm error
+  reprint undefined
+print 1234
+  1234

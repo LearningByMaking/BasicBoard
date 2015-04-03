@@ -1,0 +1,42 @@
+;ulogo file for $projectName
+ 
+constants [[rpacket $1fc0]]
+
+ to ul-power
+	 init-pins 
+	 redon
+	 wait 10
+	 redoff
+ end
+ 
+ to ul-init 
+	 redon
+	 greenon
+	 wait 10
+	 redoff
+     greenoff
+ end
+ 
+ to ul-go 
+ 	 greenon
+	 wait 10
+	 greenoff
+
+	 loop
+	 [
+		redon	 	
+		collect-data
+		wait 10 
+		redoff
+	 	wait 100
+	 ]
+ 
+ end
+
+ to collect-data
+ 	init-packet 42 ;42 represents light and temp data
+ 	fprint readA3 ;light sensor
+ 	fprint readA2 ;temp sensor
+ 	fprint readA1 ;temp sensor
+ 	add-checksum
+ end
