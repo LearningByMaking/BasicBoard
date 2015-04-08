@@ -62,9 +62,9 @@ constants [
 
  to collect-data
  	init-packet 42
- 	fprint readADC 3
- 	fprint readADC 2
- 	fprint readADC 1
+ 	fprint readADC 6
+ 	fprint readADC 5
+ 	fprint readADC 4
  	add-checksum
  end
 
