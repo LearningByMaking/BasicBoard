@@ -17,8 +17,6 @@
   make "time-list []
   make "light-list []
   make "start-time int ( now / 1000 ) ;accurate to within 1 second
-  make "firstrun 1   
-
  end
  
  to init-hardware
@@ -34,7 +32,7 @@
  
  to see-packet
   make "packet-bytes retrieve-packet   ;reads the packet off the one-wire network from the app board
-  if (count :packet-bytes) > 0 
+  if (count :packet-bytes) > 0 ;make sure packet is not empty
 	[
 		process-header            
 	]
@@ -44,26 +42,30 @@ end
 
 to process-header
 
-  make "oldcheck :check 
-  let [nws ((first :packet-bytes) / 2) + 1] 
+  make "oldcheck :check ;copy value from new check to old
+  let [nws ((first :packet-bytes) / 2) + 1]  ;the checksum is the very last byte in the packet
   make "check wnth :nws :packet-bytes ;checksum is the last byte in the packet
   if not (:check = :oldcheck) ;if checksums are equal, the data is NOT new
   [
-    make "type nth 1 :packet-bytes        
+    make "type nth 1 :packet-bytes ;pull type information out of packet       
     if (:type = 42) [ process-data-packet ] ;42 is the type we defined on the app board
   ]
 end
 
 to process-data-packet 
-        print :packet-bytes
-	make "light wnth 4 :packet-bytes  ;comes from fprint statement on app board
-	make "temp1 wnth 5 :packet-bytes  ;comes from fprint statement on app board
-	make "temp2 wnth 6 :packet-bytes  ;comes from fprint statement on app board
-  	make "time elapsedTime
-	print (se "|light:| :light "|temp1:| :temp1 "|temp2:| :temp2 "|time:| :time)
-  	addTimeToList :time
- 	addLightToList :light 
+  print :packet-bytes ;print the raw paclet data
+	
+  make "light wnth 4 :packet-bytes  ;read the 1st non header word from the packet (light)
+	make "temp1 wnth 5 :packet-bytes  ;read the 2nd non header word from the packet (temp)
+	make "temp2 wnth 6 :packet-bytes  ;read the 3rd non header word from the packet (temp)
+	make "time elapsedTime
+	
+  print (se "|light:| :light "|temp1:| :temp1 "|temp2:| :temp2 "|time:| :time) ;print values 
+  
+  addTimeToList :time ;add time values for plotting
+ 	addLightToList :light ;add light values for plotting
  	plot-light
+
 end
 
 to plot-light
@@ -77,19 +79,11 @@ to plot-light
   
 end
 
-to packet-words :l          
-  let [res []]
-  let [nws (first :l) / 2 + 2]
-  if ( :nws > 25 ) [ make "nws 25 ]
-  dotimes [i :nws - 1][make "res se :res bf 100000 + wnth :i :l]
-  output :res
-end
-
-to wnth :i :l
+to wnth :i :l ;pull the nth word out of a packet
   output (nth 2 * :i :l) + 256 * (nth 2 * :i + 1 :l)
 end
 
-to elapsedTime
+to elapsedTime ;calculate time since the experiment started
    output  int ( now / 1000 ) - :start-time
 end
 
@@ -136,6 +130,6 @@ to display
   make "firstrun 0 
 end
 
-to retrieve-packet
+to retrieve-packet ;reads the packet from the pre-assigned memory location on the MSP430
    output rl $1fc0 30 
 end
