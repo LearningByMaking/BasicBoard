@@ -13,6 +13,8 @@ constants [[rpacket $1fc0]] ;this constant defined the memory address where pack
  
  to ul-init
 	 yellowon 
+         dp3output ;prepare pin for external LED
+         dp2output ;prepare pin for external LED
 	 wait 10
 	 yellowoff
  end
@@ -66,14 +68,23 @@ to calibrateADC :n
    let [total :total / :sample]
    prs "Average:
    print :total
+
 end
 
-to init-leds
-   writeb p2dir $38
-   writeb p2out $00
-   write adcctl0 $10
-   write adcctl1 $f8
-   bset adcae0 1
-   bset adcctl0 2
+to led1on
+   dp3on ;turns on the io pin for LED 1
 end
+
+to led1off
+  dp3off ;turns off the io pin for LED 1
+end
+
+to led2on
+   dp2on ;turns on the io pin for LED 2
+end
+
+to led2off 
+   dp2off ;turns off the io pin for LED 2
+end
+
 

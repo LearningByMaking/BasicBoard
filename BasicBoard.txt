@@ -13,6 +13,8 @@ constants [[rpacket $1fc0]] ;this constant defined the memory address where pack
  
  to ul-init
 	 yellowon 
+         dp3output ;prepare pin for external LED
+         dp2output ;prepare pin for external LED
 	 wait 10
 	 yellowoff
  end
@@ -54,18 +56,35 @@ constants [[rpacket $1fc0]] ;this constant defined the memory address where pack
  end
 
 to calibrateADC :n 
-   let [total 0]
-   let [sample 10]
+   let [total 0] ;creates a variable for a running total
+   let [sample 10] ;set the number of samples to average
    repeat :sample	
    [
-     let [adc (readADC :n)]
-     let [total :total + :adc]
-     print :adc      
+     let [adc (readADC :n)] ;get the value from the ADC
+     let [total :total + :adc] ;add that ADC value to the total
+     print :adc      ;print the ADC value
      wait 10
    ]
-   let [total :total / :sample]
+   let [total :total / :sample] ;find the average (mean) value
    prs "Average:
-   print :total
+   print :total ;print the average
+
+end
+
+to led1on
+   dp3on ;turns on the io pin for LED 1
+end
+
+to led1off
+  dp3off ;turns off the io pin for LED 1
+end
+
+to led2on
+   dp2on ;turns on the io pin for LED 2
+end
+
+to led2off 
+   dp2off ;turns off the io pin for LED 2
 end
 
 

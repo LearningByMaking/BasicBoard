@@ -5323,3 +5323,50 @@ blueon
 blueoff
 greenon
 greenoff
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Apr  9 11:08:08 PDT 2015   unix time:  1428602888441
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  1328 bytes
+dp3output
+dp3on
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Apr  9 11:09:54 PDT 2015   unix time:  1428602994329
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  1328 bytes
+.download
+  Chip not found.
+.download
+  Chip not found.
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Apr  9 11:11:29 PDT 2015   unix time:  1428603089454
+  Opening Project  BasicBoard
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Apr  9 11:12:06 PDT 2015   unix time:  1428603126221
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  1328 bytes
+.download
+  1328 bytes
+dp3output
+dp3on
+redon
+redoff
+blueon
+blueoff
+greenon
+greenoff
+dp3on
+dp3output
+dp3on
+dp3off
+dp3on
+dp3off
