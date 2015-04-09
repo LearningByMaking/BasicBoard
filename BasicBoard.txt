@@ -3,7 +3,7 @@
 constants [[rpacket $1fc0]] ;this constant defined the memory address where packets are written on the MSP430
 
  to ul-power
-	 init-pins ;this initializes the LED pins
+	 init-leds ;this initializes the LED pins
 	 redon 
 	 wait 10 
 	 redoff 
@@ -67,4 +67,5 @@ to calibrateADC :n
    prs "Average:
    print :total
 end
+
 

@@ -1,59 +1,79 @@
-;ulogo file for $projectName
+;ulogo file for BasicBoard
  
-constants [	
-
-	  [p1dir $22][p1out $21][p1in $20]
-          [p2dir $2a][p2out $29]
-          [p3sel $1b]
-          [p4dir $1E][p4out $1D][p4in $1C][p4sel $1F]
-          [p5dir $32][p5out $31][p5in $30][p5sel $33]
-	  [p6dir $36] [p6out $35]
-          [ucb0ctl0 $68][ucb0ctl1 $69]
-
-	  [ucb0br0 $6a][ucb0br1 $6b]
-
-	  [ucb0stat $6d][ucb0rxbuf $6e][ucb0txbuf $6f]
-          [packet $1f80][rpacket $1fc0]
-          
-	  ]
-
-
+constants [[rpacket $1fc0]] ;this constant defined the memory address where packets are written on the MSP430
 
  to ul-power
-	 init-pins 
-	 redon
-	 wait 10
-	 redoff
+	 init-leds ;this initializes the LED pins
+	 redon 
+	 wait 10 
+	 redoff 
  end
  
- to ul-init 
-	 redon
-	 greenon
-	 wait 10
-	 redoff
-     	 greenoff
- end
  
- to ul-go 
+ 
+ to ul-init
+	 yellowon 
+	 wait 10
+	 yellowoff
+ end
+
+ 
+ 
+ to ul-go
  	 greenon
 	 wait 10
 	 greenoff
 
-	 loop
+	 loop ;this part of the code is executed forever
 	 [
-		redon	 	
+		greenon	 	
 		collect-data
 		wait 10 
-		redoff
+		greenoff
 	 	wait 100
 	 ]
  
  end
 
  to collect-data
- 	init-packet 42 ;42 represents light and temp data
- 	fprint readA3
- 	fprint readA2
- 	fprint readA1
- 	add-checksum
+ 	init-packet 42 ;create a new packet with an (abritary) packet number of 43
+ 	fprint readADC 6 ;read the light sensor value from ADC 6
+ 	fprint readADC 5 ;read the temp sensor value from ADC 5
+ 	fprint readADC 4 ;read the temp sensor value from ADC 4
+ 	add-checksum 
  end
+
+ to yellowon
+	 redon
+	 greenon
+ end
+
+ to yellowoff
+	 redoff
+	 greenoff
+ end
+
+to calibrateADC :n 
+   let [total 0]
+   let [sample 10]
+   repeat :sample	
+   [
+     let [adc (readADC :n)]
+     let [total :total + :adc]
+     print :adc      
+     wait 10
+   ]
+   let [total :total / :sample]
+   prs "Average:
+   print :total
+end
+
+to init-leds
+   writeb p2dir $38
+   writeb p2out $00
+   write adcctl0 $10
+   write adcctl1 $f8
+   bset adcae0 1
+   bset adcctl0 2
+end
+

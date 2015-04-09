@@ -5158,3 +5158,168 @@ print 1234
   light: 1465 temp1: 1715 temp2: 1871 time: 23
 ..
   stopped.
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Apr  9 10:31:16 PDT 2015   unix time:  1428600676182
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  1336 bytes
+.download
+  1336 bytes
+calibrateADC 7
+  815
+  825
+  828
+  828
+  828
+  828
+  828
+  831
+  828
+  831
+  Average:
+  827
+calibrateADC 7
+  735
+  716
+  711
+  707
+  703
+  703
+  697
+  691
+  695
+  691
+  Average:
+  704
+calibrateADC 7
+  1615
+  1615
+  1614
+  1612
+  1607
+  1607
+  1607
+  1607
+  1607
+  1607
+  Average:
+  1609
+calibrateADC 6
+  1603
+  1615
+  1615
+  1615
+  1615
+  1615
+  1621
+  1615
+  1628
+  1625
+  Average:
+  1616
+calibrateADC 7
+  1601
+  1592
+  1587
+  1591
+  1589
+  1592
+  1587
+  1585
+  1585
+  1585
+  Average:
+  1589
+calibrateADC 7
+  1591
+  1581
+  1583
+  1580
+  1580
+  1580
+  1580
+  1575
+  1580
+  1575
+  Average:
+  1580
+calibrateADC 6
+  1601
+  1607
+  1605
+  1607
+  1607
+  1604
+  1607
+  1607
+  1605
+  1603
+  Average:
+  1605
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Apr  9 10:51:03 PDT 2015   unix time:  1428601863209
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  dp4enable undefined in init-pins
+.compile
+  Compiling...
+  1328 bytes
+.download
+  1328 bytes
+redon
+redoff
+blueon
+blueoff
+greenon
+greenoff
+calibrateADC 7
+  1299
+  1319
+  1319
+  1319
+  1319
+  1319
+  1319
+  1319
+  1311
+  1319
+  Average:
+  1316
+dp4on
+dp8on
+dp8output
+dp8on
+dp3output
+dp3on
+dp3off
+dp2output
+dp2on
+dp2off
+dp8output
+dp8on
+  Welcome to Logo
+.compile
+  I don't know how to .compile
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Apr  9 10:58:07 PDT 2015   unix time:  1428602287931
+  Opening Project  BasicBoard
+.compile
+  Can't open file /home/user/BasicBoard/temp_inits.txt in source-string
+.compile
+  Compiling...
+  redon undefined in ul-power
+.compile
+  Compiling...
+  1328 bytes
+.download
+  1328 bytes
+redon
+redoff
+blueon
+blueoff
+greenon
+greenoff
