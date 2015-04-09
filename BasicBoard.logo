@@ -12,11 +12,12 @@
  
  to init-BasicBoard
   init-hardware 
- 	make "check 0
+  make "check 0
   make "oldcheck 0
   make "time-list []
   make "light-list []
   make "start-time int ( now / 1000 ) ;accurate to within 1 second
+  make "firstrun true
  end
  
  to init-hardware

@@ -5370,3 +5370,82 @@ dp3on
 dp3off
 dp3on
 dp3off
+  Welcome to Logo
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Apr  9 15:35:04 PDT 2015   unix time:  1428618904527
+  Opening Project  BasicBoard
+.Basicboard
+  starting BasicBoard
+  12 42 255 255 39 6 234 17 255 3 240 6 228 7 17 171 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1023 temp1: 1776 temp2: 2020 time: 3
+  firstrun has no value in plot-light
+..
+  stopped.
+blueoff
+  blueoff undefined
+.compile
+  Compiling...
+  1358 bytes
+blueoff
+alloff
+  runvm error
+.stopvm
+redon
+print 1234
+  1234
+bluoff
+  bluoff undefined
+.compile
+  Compiling...
+  1358 bytes
+blueoff
+redon
+  runvm error
+.compile
+  Compiling...
+  1358 bytes
+.download
+  1358 bytes
+redon
+redoff
+blueoff
+greenoff
+.BasicBoard
+  starting BasicBoard
+  12 42 255 255 4 0 129 22 175 4 180 6 112 7 157 172 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1199 temp1: 1716 temp2: 1904 time: 3
+  firstrun has no value in plot-light
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  project reloaded
+.BasicBoard
+  starting BasicBoard
+  12 42 255 255 9 0 230 0 223 4 31 7 140 7 124 193 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1247 temp1: 1823 temp2: 1932 time: 3
+  12 42 255 255 10 0 209 4 222 4 31 7 142 7 143 189 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1246 temp1: 1823 temp2: 1934 time: 21
+  12 42 255 255 12 0 167 12 190 4 216 6 179 7 249 181 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1214 temp1: 1752 temp2: 1971 time: 39
+  12 42 255 255 14 0 125 20 199 4 220 6 176 7 23 174 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1223 temp1: 1756 temp2: 1968 time: 58
+..
+  stopped.
+.stopvm
+print 1234
+  1234
+blueoff
+greenoff
+ul-init
+ul-power
+.compile
+  Compiling...
+  1361 bytes
+.download
+  1361 bytes
+.BasicBoard
+  starting BasicBoard
+  12 42 255 255 20 0 70 7 159 4 159 6 87 7 6 188 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1183 temp1: 1695 temp2: 1879 time: 3
