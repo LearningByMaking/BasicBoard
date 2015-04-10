@@ -5611,3 +5611,122 @@ led1on
 red2on
   red2on undefined
 led2on
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Apr 10 14:48:16 PDT 2015   unix time:  1428702496838
+  Opening Project  BasicBoard
+.rr
+  Opening Project  BasicBoard
+  project reloaded
+.BasicBoard
+  starting BasicBoard
+  nth doesn't like 18 as input in wnth
+..
+  stopped.
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Apr 10 14:56:23 PDT 2015   unix time:  1428702983532
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  1394 bytes
+.download
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Apr 10 14:57:21 PDT 2015   unix time:  1428703041275
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  runvm error
+..
+  stopped.
+print 1234
+  Chip not found.
+  Welcome to Logo
+project "BasicBOard
+  Start Project:  BasicBOard     Fri Apr 10 14:58:15 PDT 2015   unix time:  1428703095476
+  Can't open file BasicBOard.logo in project
+project "BasicBoard
+  Start Project:  BasicBOard     Fri Apr 10 14:58:22 PDT 2015   unix time:  1428703102626
+  Can't open file BasicBOard.logo in project
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Apr 10 14:58:55 PDT 2015   unix time:  1428703135803
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  1394 bytes
+.download
+  Chip not found.
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Apr 10 14:59:35 PDT 2015   unix time:  1428703175064
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  1394 bytes
+.download
+  Chip not found.
+  Welcome to Logo
+C
+  I don't know how to c
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Apr 10 15:01:17 PDT 2015   unix time:  1428703277758
+  Opening Project  BasicBoard
+print 1234
+  Chip not found.
+  Welcome to Logo
+projet "BasicBoard
+  I don't know how to projet
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Apr 10 15:03:45 PDT 2015   unix time:  1428703425722
+  Opening Project  BasicBoard
+print 1234
+  1234
+.compile
+  Compiling...
+  1394 bytes
+.download
+  1394 bytes
+.BasicBoard
+  starting BasicBoard
+  12 42 255 255 6 0 153 17 113 7 79 3 103 3 47 182 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1905 temp1: 847 temp2: 871 time: 3
+  12 42 255 255 7 0 132 21 87 7 79 3 103 3 93 178 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1879 temp1: 847 temp2: 871 time: 23
+..
+  stopped.
+.rr
+  Opening Project  BasicBoard
+  project reloaded
+.BasicBoard
+  starting BasicBoard
+  12 42 255 255 14 0 146 24 81 7 79 3 97 3 84 175 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1873 temp1: 847 temp2: 865 time: 3
+  12 42 255 255 15 0 125 28 84 7 79 3 97 3 101 171 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1876 temp1: 847 temp2: 865 time: 21
+  12 42 255 255 17 0 83 36 83 7 79 3 97 3 142 163 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1875 temp1: 847 temp2: 865 time: 40
+  12 42 255 255 20 0 25 5 84 7 76 3 97 3 199 194 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1876 temp1: 844 temp2: 865 time: 59
+  12 42 255 255 21 0 4 9 83 7 76 3 96 3 221 190 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1875 temp1: 844 temp2: 864 time: 77
+  12 42 255 255 23 0 218 16 83 7 76 3 96 3 5 183 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1875 temp1: 844 temp2: 864 time: 96
+  12 42 255 255 25 0 176 24 84 7 71 3 95 3 50 175 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1876 temp1: 839 temp2: 863 time: 114
+  12 42 255 255 26 0 155 28 83 7 71 3 96 3 70 171 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1875 temp1: 839 temp2: 864 time: 132
+  12 42 255 255 28 0 113 36 83 7 71 3 95 3 111 163 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1875 temp1: 839 temp2: 863 time: 151
+  12 42 255 255 31 0 55 5 81 7 71 3 95 3 168 194 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1873 temp1: 839 temp2: 863 time: 169
+  12 42 255 255 32 0 34 9 69 7 71 3 95 3 200 190 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1861 temp1: 839 temp2: 863 time: 188
+  12 42 255 255 34 0 248 16 81 7 71 3 92 3 231 182 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1873 temp1: 839 temp2: 860 time: 206
+  12 42 255 255 36 0 206 24 81 7 71 3 95 3 12 175 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1873 temp1: 839 temp2: 863 time: 225
+..
+  stopped.

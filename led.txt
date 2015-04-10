@@ -15,7 +15,7 @@ constants[[p1dir $22][p1out $21][p1sel $20]
           [adcae0 $4a][adcae1 $4b][adcctl0 $01b0][adcctl1 $1b2][adcmem $1b4]]
 
 
-to init-leds
+to init-OnBoardLeds
 writeb p2dir $38
 writeb p2out $00
 write adcctl0 $10

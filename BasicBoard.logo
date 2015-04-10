@@ -17,7 +17,6 @@
   make "time-list []
   make "light-list []
   make "start-time int ( now / 1000 ) ;accurate to within 1 second
-  make "firstrun true
  end
  
  to init-hardware
@@ -73,11 +72,7 @@ to plot-light
    x-data "|Elapsed Time (seconds)| :time-list
    y-data "|Light (adc unit)|       :light-list 
    plot 2
-   if(:firstrun = 1)
-   [
-      display 
-   ]
-  
+   display  
 end
 
 to wnth :i :l ;pull the nth word out of a packet
@@ -126,9 +121,9 @@ to plot :s
 
 end
 
-to display  
-  blindexec "|display -update 1 screen.png | 
-  make "firstrun 0 
+to display
+  blindexec "|killall xv| 
+  blindexec "|xv screen.png -ge 500x500+900+10 | 
 end
 
 to retrieve-packet ;reads the packet from the pre-assigned memory location on the MSP430

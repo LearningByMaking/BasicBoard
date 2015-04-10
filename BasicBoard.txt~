@@ -4,7 +4,7 @@ constants [[rpacket $1fc0]] ;this constant defined the memory address where pack
 
  
  to ul-power
-	 init-leds 
+	 init-OnBoardLeds
 	 redon 
 	 wait 10 
 	 redoff 
@@ -27,7 +27,7 @@ constants [[rpacket $1fc0]] ;this constant defined the memory address where pack
 	 greenoff
  end 
 
- to prepareIOPinsforExternalLeds
+ to init-OffBoardLeds
 	dp3output 
 	dp3off 
         dp2output 
@@ -85,7 +85,6 @@ to calibrateADC :n
    let [total :total / :sample] 
    prs "Average:
    print :total 
-
 end
 
 to led1on
