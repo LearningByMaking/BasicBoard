@@ -5449,3 +5449,165 @@ ul-power
   starting BasicBoard
   12 42 255 255 20 0 70 7 159 4 159 6 87 7 6 188 0 0 255 255 255 255 0 0 0 0 255 255 255 255
   light: 1183 temp1: 1695 temp2: 1879 time: 3
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Apr 10 10:39:00 PDT 2015   unix time:  1428687540066
+  Opening Project  BasicBoard
+print 1234
+  1234
+.compile
+  Compiling...
+  1361 bytes
+redon
+blueon
+greenon
+alloff
+led1on
+led2on
+
+led1on
+.BasicBoard
+  starting BasicBoard
+  12 42 255 255 231 0 227 18 31 4 127 6 220 7 177 175 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1055 temp1: 1663 temp2: 2012 time: 3
+.stopvm
+led1off
+.stopvm
+print 1234
+  12 42 255 255 232 0 206 22 224 4 9 7 84 7 2 171 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1248 temp1: 1801 temp2: 1876 time: 23
+print 1234
+ul-power
+.ul-power
+  12 42 255 255 233 0 185 26 185 4 201 6 156 7 53 167 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1209 temp1: 1737 temp2: 1948 time: 41
+..
+  stopped.
+  1234
+  1234
+.ul-init
+led1on
+led1off
+led2off
+led2on
+led2on
+led1on
+.ul-power
+.ul-power
+.ul-init
+.compile
+  Compiling...
+  1367 bytes
+.download
+  1367 bytes
+.ul-power
+.ul-init
+led1on
+led2on
+
+print readADC 6
+  1888
+led2off
+led1off
+print readADC 6
+  1892
+print readADC 6
+  1844
+print readADC 6
+  1845
+print readADC 6
+  1888
+print readADC 6
+  4093
+print readADC 6
+  1912
+print readADC 6
+  1840
+print readADC 6
+  1843
+print readADC 6
+  2108
+led1on
+led2on
+print readADC 6
+  1900
+led2off
+led1off
+print readADC 6
+  1904
+
+.BasicBoard
+  starting BasicBoard
+  12 42 255 255 115 0 171 14 115 7 103 3 120 3 133 184 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1907 temp1: 871 temp2: 888 time: 3
+  12 42 255 255 116 0 150 18 103 7 103 3 119 3 166 180 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1895 temp1: 871 temp2: 887 time: 22
+  12 42 255 255 118 0 108 26 95 7 97 3 115 3 224 172 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1887 temp1: 865 temp2: 883 time: 40
+led2on
+..
+  stopped.
+.ul-go
+..
+  stopped.
+ld2off
+  ld2off undefined
+led2off
+.ul-go
+..
+  stopped.
+greenon
+  Welcome to Logo
+cd ..
+  I don't know how to cd
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Apr 10 14:23:05 PDT 2015   unix time:  1428700985792
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  emd undefined in prepareIOPinsForExternalLeds
+.compile
+  Compiling...
+  emd undefined in prepareIOPinsForExternalLeds
+.compile
+  Compiling...
+  1373 bytes
+.download
+  Chip not found.
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Apr 10 14:24:51 PDT 2015   unix time:  1428701091708
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  1373 bytes
+.download
+  Chip not found.
+..
+  stopped.
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Fri Apr 10 14:26:55 PDT 2015   unix time:  1428701215973
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  1373 bytes
+.download
+  1373 bytes
+redon
+redoff
+blueon
+blueoff
+greenon
+greenoff
+red1on
+  red1on undefined
+led1on
+led2on
+.ul-power
+.ul-init
+led1on
+red2on
+  red2on undefined
+led2on

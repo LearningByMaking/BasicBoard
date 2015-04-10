@@ -2,31 +2,44 @@
  
 constants [[rpacket $1fc0]] ;this constant defined the memory address where packets are written on the MSP430
 
+ 
  to ul-power
-	 init-leds ;this initializes the LED pins
+	 init-leds 
 	 redon 
 	 wait 10 
 	 redoff 
  end
  
- 
- 
  to ul-init
 	 yellowon 
-         dp3output ;prepare pin for external LED
-         dp2output ;prepare pin for external LED
 	 wait 10
+         prepareIOPinsforExternalLeds
 	 yellowoff
+ end 
+
+ to yellowon
+	 redon
+	 greenon
  end
 
- 
+ to yellowoff
+	 redoff
+	 greenoff
+ end 
+
+ to prepareIOPinsforExternalLeds
+	dp3output 
+	dp3off 
+        dp2output 
+        dp2off 
+ end 
  
  to ul-go
  	 greenon
 	 wait 10
 	 greenoff
 
-	 loop ;this part of the code is executed forever
+	 loop 
 	 [
 		greenon	 	
 		collect-data
@@ -38,53 +51,57 @@ constants [[rpacket $1fc0]] ;this constant defined the memory address where pack
  end
 
  to collect-data
- 	init-packet 42 ;create a new packet with an (abritary) packet number of 43
- 	fprint readADC 6 ;read the light sensor value from ADC 6
- 	fprint readADC 5 ;read the temp sensor value from ADC 5
- 	fprint readADC 4 ;read the temp sensor value from ADC 4
+ 	init-packet 42 
+ 	fprint readLightSensor
+ 	fprint readTempSensor1
+ 	fprint readTempSensor2
  	add-checksum 
  end
 
- to yellowon
-	 redon
-	 greenon
- end
+to readLightSensor
+   output readADC 6 
+end
 
- to yellowoff
-	 redoff
-	 greenoff
- end
+to readTempSensor1
+   output readADC 5
+end
+
+to readTempSensor2
+   output readADC 4
+end
+
+;code NOT used in the regular ul-run loop
 
 to calibrateADC :n 
-   let [total 0]
-   let [sample 10]
+   let [total 0] 
+   let [sample 10] 
    repeat :sample	
    [
-     let [adc (readADC :n)]
-     let [total :total + :adc]
+     let [adc (readADC :n)] 
+     let [total :total + :adc] 
      print :adc      
      wait 10
    ]
-   let [total :total / :sample]
+   let [total :total / :sample] 
    prs "Average:
-   print :total
+   print :total 
 
 end
 
 to led1on
-   dp3on ;turns on the io pin for LED 1
+   dp3on 
 end
 
 to led1off
-  dp3off ;turns off the io pin for LED 1
+  dp3off 
 end
 
 to led2on
-   dp2on ;turns on the io pin for LED 2
+   dp2on 
 end
 
 to led2off 
-   dp2off ;turns off the io pin for LED 2
+   dp2off 
 end
 
 
