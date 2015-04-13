@@ -1,32 +1,32 @@
 ;jlogo file for BasicBoard
  
  to BasicBoard
- 	print "|starting BasicBoard|
- 	init-BasicBoard
- 	loop
+ 	print "|starting BasicBoard| ;welcome message
+ 	init-BasicBoard ;begin initialization sequence
+ 	loop ;forver loop
  	[
- 		see-packet
- 		wait 150
+ 		see-packet ;check the packet
+ 		wait 150 ; wait 15 seconds
  	]
  end
  
  to init-BasicBoard
-  init-hardware 
-  make "check 0
-  make "oldcheck 0
-  make "time-list []
-  make "light-list []
-  make "start-time int ( now / 1000 ) ;accurate to within 1 second
+  init-hardware ;being uLogo boot squence
+  make "check 0 ;create first checksum value
+  make "oldcheck 0 ;create second checksum value
+  make "time-list [] ;create list to store time values
+  make "light-list [] ;create list ot store light values
+  make "start-time int ( now / 1000 ) ;make current time the start time
  end
  
  to init-hardware
  	stopvm ;stop vm makes sure the board is not running
- 	ul-power
- 	wait 15
- 	ul-init
- 	wait 15
- 	ul-go
- 	wait 15
+ 	ul-power ;run power up sequence
+ 	wait 15 ;wait 1.5 seconds
+ 	ul-init ;run initialization sequence
+ 	wait 15 ;wait 1.5 seconds
+ 	ul-go ;start experiment
+ 	wait 15 ;wait 1.5 seconds
  end 
 
  
@@ -34,7 +34,7 @@
   make "packet-bytes retrieve-packet   ;reads the packet off the one-wire network from the app board
   if (count :packet-bytes) > 0 ;make sure packet is not empty
 	[
-		process-header            
+		process-header ;check the checksum and type values           
 	]
     
 end
@@ -53,27 +53,25 @@ to process-header
 end
 
 to process-data-packet 
-  print :packet-bytes ;print the raw paclet data
-	
-  make "light wnth 4 :packet-bytes  ;read the 1st non header word from the packet (light)
-	make "temp1 wnth 5 :packet-bytes  ;read the 2nd non header word from the packet (temp)
-	make "temp2 wnth 6 :packet-bytes  ;read the 3rd non header word from the packet (temp)
-	make "time elapsedTime
-	
-  print (se "|light:| :light "|temp1:| :temp1 "|temp2:| :temp2 "|time:| :time) ;print values 
-  
-  addTimeToList :time ;add time values for plotting
- 	addLightToList :light ;add light values for plotting
- 	plot-light
-
+   print :packet-bytes ;print the raw paclet data
+   make "light wnth 4 :packet-bytes  ;read the 1st non header word from the packet (light)
+   make "temp1 wnth 5 :packet-bytes  ;read the 2nd non header word from the packet (temp)
+   make "temp2 wnth 6 :packet-bytes  ;read the 3rd non header word from the packet (temp)
+   make "time elapsedTime ;time between now and start of experiment
+   print (se "|light:| :light "|temp1:| :temp1 "|temp2:| :temp2 "|time:| :time) ;print values 
+   addTimeToList :time ;add time values for plotting
+   addLightToList :light ;add light values for plotting
+   plot-light ;plot the light sensor
 end
 
 to plot-light
-   x-data "|Elapsed Time (seconds)| :time-list
-   y-data "|Light (adc unit)|       :light-list 
-   plot 2
-   display  
+   x-data "|Elapsed Time (seconds)| :time-list  ;xdata is time
+   y-data "|Light (adc unit)|       :light-list ;ydata is light1
+   plot 2  ;the plot type is a scatter plot
+   display  ;show it on the screen
 end
+
+;-------------below this line you don't REALLY need to understand ------------------
 
 to wnth :i :l ;pull the nth word out of a packet
   output (nth 2 * :i :l) + 256 * (nth 2 * :i + 1 :l)

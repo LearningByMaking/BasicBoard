@@ -4,103 +4,103 @@ constants [[rpacket $1fc0]] ;this constant defined the memory address where pack
 
  
  to ul-power
-	 init-OnBoardLeds
-	 redon 
-	 wait 10 
-	 redoff 
+	 init-OnBoardLeds ;prepares the IO pins that control the on board LEDs
+	 redon ;turns on the red LED
+	 wait 10 ;wait 1 second
+	 redoff ;turns off the red LED
  end
  
  to ul-init
-	 yellowon 
-	 wait 10
-         init-OffBoardLeds
-	 yellowoff
+	 yellowon ;turns on the red and green LEDs	 
+         init-OffBoardLeds ;prepares the IO pins that control the breadboard LEDs
+         wait 10 ;wait 1 second
+	 yellowoff ;turns off the red and green LEDs
  end 
 
  to yellowon
-	 redon
-	 greenon
+	 redon ;turns on the red LED
+	 greenon ;turns on the green LED
  end
 
  to yellowoff
-	 redoff
-	 greenoff
+	 redoff ;turns off the red LED
+	 greenoff ;turns off the green LED
  end 
 
  to init-OffBoardLeds
-	dp3output 
-	dp3off 
-        dp2output 
-        dp2off 
+	dp3output ;makes digital pin 3 an output
+	dp3off  ;turns digital pin 3 to the off state
+        dp2output ;makes digital pin 2 an output
+        dp2off ;turns digital pin 2 to the off state
  end 
  
  to ul-go
- 	 greenon
-	 wait 10
-	 greenoff
+ 	 greenon ;turn on the green LED
+	 wait 10 ;wait 1 second
+	 greenoff ;turn off the green LED
 
-	 loop 
+	 loop ;forever loop
 	 [
-		greenon	 	
-		collect-data
-		wait 10 
-		greenoff
-	 	wait 100
+		blueon	;turns on the blue LED
+		collect-data ;runs the data collection code
+		wait 10 ;wait 1 second
+		blueoff ;turns off the blue LED
+	 	wait 100 ;wait 10 seconds between readings
 	 ]
  
  end
 
  to collect-data
- 	init-packet 42 
- 	fprint readLightSensor
- 	fprint readTempSensor1
- 	fprint readTempSensor2
+ 	init-packet 42 ;create a new packet with (arbitary) type of 42
+ 	fprint readLightSensor ;read the value of the light sensor
+ 	fprint readTempSensor1 ;read the value of the first temp sensor
+ 	fprint readTempSensor2 ;read the value of the second temp sensor
  	add-checksum 
  end
 
 to readLightSensor
-   output readADC 6 
+   output readADC 6 ;read and output value of light sensor from ADC pin 6
 end
 
 to readTempSensor1
-   output readADC 5
+   output readADC 5 ;read and output value of temp sensor from ADC pin 5
 end
 
 to readTempSensor2
-   output readADC 4
+   output readADC 4 ;read and output value of temp sensor from ADC pin 4
 end
 
 ;code NOT used in the regular ul-run loop
 
 to calibrateADC :n 
-   let [total 0] 
-   let [sample 10] 
+   let [total 0] ;the total from sequential readings
+   let [sample 10] ;the number of readings to take
    repeat :sample	
    [
-     let [adc (readADC :n)] 
-     let [total :total + :adc] 
-     print :adc      
-     wait 10
+     let [adc (readADC :n)] ;read value from ADC 
+     let [total :total + :adc] ;add that value to the total
+     print :adc ;print that value
+     wait 10 ;wait 1 second
    ]
-   let [total :total / :sample] 
-   prs "Average:
-   print :total 
+   let [total :total / :sample] ;devide the total by the number of sameples to get the mean
+   prs "Average: ;print so users know final value is the average
+   print :total ;print that average value
 end
 
 to led1on
-   dp3on 
+   dp3on ;turn digital pin 3 on to power the LED
 end
 
 to led1off
-  dp3off 
+  dp3off ;turn digital pin 3 off to unpower the LED
 end
 
 to led2on
-   dp2on 
+   dp2on ;turn digital pin 2 on to power the LED
 end
 
 to led2off 
-   dp2off 
+   dp2off ;turn digital pin 2 off to unpower the LED
 end
 
 
