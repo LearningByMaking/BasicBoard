@@ -34,22 +34,18 @@
   make "packet-bytes retrieve-packet   ;reads the packet off the one-wire network from the app board
   if (count :packet-bytes) > 0 ;make sure packet is not empty
 	[
-		process-header ;check the checksum and type values           
+	  if(verify-checksum = 1)
+	  [	
+            process-type ;check the type value  
+	  ]         
 	]
     
 end
 
 
-to process-header
-
-  make "oldcheck :check ;copy value from new check to old
-  let [nws ((first :packet-bytes) / 2) + 1]  ;the checksum is the very last byte in the packet
-  make "check wnth :nws :packet-bytes ;checksum is the last byte in the packet
-  if not (:check = :oldcheck) ;if checksums are equal, the data is NOT new
-  [
+to process-type
     make "type nth 1 :packet-bytes ;pull type information out of packet       
-    if (:type = 42) [ process-data-packet ] ;42 is the type we defined on the app board
-  ]
+    if (:type = 42) [ process-data-packet ] ;42 is the type we defined on the app board  
 end
 
 to process-data-packet 
@@ -72,6 +68,17 @@ to plot-light
 end
 
 ;-------------below this line you don't REALLY need to understand ------------------
+
+to verify-checksum
+  make "oldcheck :check ;copy value from new check to old
+  let [nws ((first :packet-bytes) / 2) + 1]  ;the checksum is the very last byte in the packet
+  make "check wnth :nws :packet-bytes ;checksum is the last byte in the packet
+  if not (:check = :oldcheck) ;if checksums are equal, the data is NOT new
+  [
+    output 1
+  ]
+  else output 0
+end
 
 to wnth :i :l ;pull the nth word out of a packet
   output (nth 2 * :i :l) + 256 * (nth 2 * :i + 1 :l)
