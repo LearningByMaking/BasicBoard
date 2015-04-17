@@ -95,12 +95,5 @@ to led1off
   dp3off ;turn digital pin 3 off to unpower the LED
 end
 
-to led2on
-   dp2on ;turn digital pin 2 on to power the LED
-end
-
-to led2off 
-   dp2off ;turn digital pin 2 off to unpower the LED
-end
 
 
