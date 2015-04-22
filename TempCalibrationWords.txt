@@ -1,4 +1,15 @@
 ;this is NOT a logo file. It is a reference for you to easily copy/paste 
 the words from the tutorial into your existing code 
 
+to init-calibration
+    make "temp_cal [662 7 1571 83]     ; pairs (adc,temp)
+end
 
+to calibrate :n :m
+  let [adc0 nth 0 :m] ;get the first ADC reading
+  let [temp0 nth 1 :m] ;get the associated Temp
+  let [adc1 nth 2 :m] ;get the second ADC reading
+  let [temp1 nth 3 :m] ;get the associated Temp
+  let [slope (:temp1 - :temp0) / (:adc1 - :adc0)] ; slope = delta temp / delta adc
+  output ((:n - :adc0) * :slope) + :temp0 ; this equation goes through both calibration points
+end
