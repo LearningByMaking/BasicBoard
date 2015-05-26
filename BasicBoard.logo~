@@ -77,7 +77,7 @@ to verify-checksum
   [
     output 1
   ]
-  output 0
+  else output 0
 end
 
 to wnth :i :l ;pull the nth word out of a packet

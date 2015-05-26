@@ -1,0 +1,47 @@
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Tue May 26 14:37:48 PDT 2015   unix time:  1432676268658
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  TempSensor1 undefined in measureTempSensor1
+.compile
+  Compiling...
+  TempSensor1 undefined in measureTempSensor1
+.compile
+  Compiling...
+  1520 bytes
+.download
+  1520 bytes
+.BasicBoard
+  starting BasicBoard
+  I don't know how to else in verify-checksum
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Tue May 26 14:39:01 PDT 2015   unix time:  1432676341769
+  Opening Project  BasicBoard
+.BasicBoard
+  starting BasicBoard
+  I don't know how to else in verify-checksum
+measureLightSesor
+  measureLightSesor undefined
+.compile
+  Compiling...
+  1520 bytes
+measureLightSesor
+  measureLightSesor undefined
+measureLightSensor
+  you don't say what to do with measureLightSensor
+print measureLightSensor
+  1429
+print measureTempSensor1
+  866
+print measureTempSensor2
+  868
+.rr
+  Opening Project  BasicBoard
+  project reloaded
+.BasicBoard
+  starting BasicBoard
+  12 42 255 255 79 0 22 5 156 5 97 3 102 3 45 196 0 0 255 255 255 255 0 0 0 0 255 255 255 255
+  light: 1436 temp1: 865 temp2: 870 time: 21

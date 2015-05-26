@@ -54,7 +54,7 @@ constants [[rpacket $1fc0]] ;this constant defined the memory address where pack
  	init-packet 42 ;create a new packet with (arbitary) type of 42
  	fprint measureLightSensor ;read the value of the light sensor
  	fprint measureTempSensor1 ;read the value of the first temp sensor
- 	fprint measureTempSensor2 ;read the value of the second temp sensor
+ 	fprint MeasureTempSensor2 ;read the value of the second temp sensor
  	add-checksum 
  end
 
