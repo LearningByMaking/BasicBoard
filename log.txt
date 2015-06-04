@@ -45,3 +45,17 @@ print measureTempSensor2
   starting BasicBoard
   12 42 255 255 79 0 22 5 156 5 97 3 102 3 45 196 0 0 255 255 255 255 0 0 0 0 255 255 255 255
   light: 1436 temp1: 865 temp2: 870 time: 21
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Jun  4 08:35:52 PDT 2015   unix time:  1433432152779
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  lightSensor undefined in collect-data
+  Welcome to Logo
+project "BasicBoard
+  Start Project:  BasicBoard     Thu Jun  4 08:36:25 PDT 2015   unix time:  1433432185337
+  Opening Project  BasicBoard
+.compile
+  Compiling...
+  1532 bytes

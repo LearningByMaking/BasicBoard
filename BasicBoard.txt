@@ -51,10 +51,14 @@ constants [[rpacket $1fc0]] ;this constant defined the memory address where pack
  end
 
  to collect-data
- 	init-packet 42 ;create a new packet with (arbitary) type of 42
- 	fprint measureLightSensor ;read the value of the light sensor
- 	fprint measureTempSensor1 ;read the value of the first temp sensor
- 	fprint measureTempSensor2 ;read the value of the second temp sensor
+ 	let [lightSensor measureLightSensor] ;read the value of the light sensor
+   let [tempSensor1 measureTempSensor1] ;read the value of the first temp sensor
+   let [tempSensor2 measureTempSensor2] ;read the value of the second temp sensor
+
+   init-packet 42 ;create a new packet with (arbitary) type of 42
+ 	fprint :lightSensor 
+ 	fprint :tempSensor2 
+ 	fprint :tempSensor2 
  	add-checksum 
  end
 
